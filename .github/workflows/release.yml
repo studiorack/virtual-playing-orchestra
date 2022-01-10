@@ -82,7 +82,7 @@ jobs:
 
       - name: Create lossy version
         run: |
-          find . -name '*.wav' -exec bash -c 'ffmpeg -i "{}" -b:a 128k "{}".ogg' \;
+          for file in $(find . -name '*.wav'); do ffmpeg -i $file -b:a 128k ${file%.*}.ogg; done
           find . -name '*.sfz' -exec sed -i -e 's/wav/ogg/g' {} \;
           find . -name '*.wav' -type f -delete
           rm ${{ github.event.repository.name }}.zip
