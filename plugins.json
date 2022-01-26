@@ -6,9 +6,9 @@
       "name": "Virtual Playing Orchestra",
       "description": "Orchestral sample library featuring section and solo instruments for woodwinds, brass, strings and percussion",
       "tags": [
+        "Instrument",
         "Orchestral",
         "Strings",
-        "Woodwind",
         "sfz"
       ],
       "version": "3.2.2",
