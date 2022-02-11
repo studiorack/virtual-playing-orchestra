@@ -94,14 +94,14 @@ fil_type=lpf_2p
 cutoff=120
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-a#1-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-a#1-PB-loop.flac
 lokey=a#1
 hikey=b1
 pitch_keycenter=a#1
 tune=-13
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-c#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-c#2-PB-loop.flac
 volume=-26
 lokey=c2
 hikey=d2
@@ -109,7 +109,7 @@ pitch_keycenter=c#2
 tune=-17
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-e2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-e2-PB-loop.flac
 // alter default vibrato a little (PB)
 amplfo_fade=1.0
 volume=-26
@@ -119,20 +119,20 @@ pitch_keycenter=e2
 tune=-12
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-g2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-a#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-c#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-c#3-PB-loop.flac
 volume=-23
 
 lokey=c3
@@ -141,21 +141,21 @@ pitch_keycenter=c#3
 tune=-12
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-e3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
 tune=-15
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-g3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-g3-PB-loop.flac
 lokey=f#3
 hikey=a3
 pitch_keycenter=g3
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-a#3-PB-loop.flac
 // alter default vibrato a little (PB)
 amplfo_delay=0
 amplfo_fade=1.0
@@ -165,7 +165,7 @@ pitch_keycenter=a#3
 tune=-4
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-c#4-PB-loop.flac
 volume=-22
 
 lokey=c4
@@ -174,7 +174,7 @@ pitch_keycenter=c#4
 tune=5
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-e4-PB-loop.flac
 volume=-23
 lokey=d#4
 hikey=f4
@@ -182,7 +182,7 @@ pitch_keycenter=e4
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-g4-PB-loop.flac
 // remove default vibrato (PB)
 amplfo_freq=0
 amplfo_depth=0
@@ -197,7 +197,7 @@ pitch_keycenter=g4
 tune=-13
 
 <region>
-sample=..\libs\SSO\Samples\Bassoon\bassoon-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bassoon\bassoon-a#4-PB-loop.flac
 volume=-22
 lokey=a4
 hikey=d#5
@@ -260,25 +260,25 @@ ampeg_release=0.6
 
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#1-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#1-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=a#1
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B1-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B1-PB.flac
 pitch_keycenter=b1
 lokey=b1
 hikey=b1
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C2-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#2-PB.flac
 tune=-7
 
 pitch_keycenter=c#2
@@ -288,7 +288,7 @@ hikey=d2
 // removed D2, tuning issues
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#2-PB.flac
 tune=-10
 
 pitch_keycenter=d#2
@@ -296,7 +296,7 @@ lokey=d#2
 hikey=d#2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.E2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.E2-PB.flac
 tune=-5
 
 pitch_keycenter=e2
@@ -304,19 +304,19 @@ lokey=e2
 hikey=e2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F2-PB.flac
 pitch_keycenter=f2
 lokey=f2
 hikey=f2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#2-PB.flac
 pitch_keycenter=f#2
 lokey=f#2
 hikey=f#2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G2-PB.flac
 tune=-5
 
 pitch_keycenter=g2
@@ -326,7 +326,7 @@ hikey=g#2
 // removed G#2, tuning issues (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A2-PB.flac
 tune=-5
 
 pitch_keycenter=a2
@@ -334,7 +334,7 @@ lokey=a2
 hikey=a2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#2-PB.flac
 tune=5
 
 pitch_keycenter=a#2
@@ -342,7 +342,7 @@ lokey=a#2
 hikey=a#2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B2-PB.flac
 tune=11
 
 pitch_keycenter=b2
@@ -350,7 +350,7 @@ lokey=b2
 hikey=b2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C3-PB.flac
 volume=-42
 tune=5
 
@@ -359,13 +359,13 @@ lokey=c3
 hikey=c3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#3-PB.flac
 pitch_keycenter=c#3
 lokey=c#3
 hikey=c#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D3-PB.flac
 tune=-7
 
 pitch_keycenter=d3
@@ -373,7 +373,7 @@ lokey=d3
 hikey=d3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#3-PB.flac
 tune=-15
 
 pitch_keycenter=d#3
@@ -383,7 +383,7 @@ hikey=e3
 // removed E3, tuning issues
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F3-PB.flac
 tune=-15
 
 pitch_keycenter=f3
@@ -391,7 +391,7 @@ lokey=f3
 hikey=f3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#3-PB.flac
 tune=-15
 
 pitch_keycenter=f#3
@@ -399,7 +399,7 @@ lokey=f#3
 hikey=f#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G3-PB.flac
 volume=-42
 
 pitch_keycenter=g3
@@ -407,13 +407,13 @@ lokey=g3
 hikey=g3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G#3-PB.flac
 pitch_keycenter=g#3
 lokey=g#3
 hikey=g#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A3-PB.flac
 tune=-25
 
 pitch_keycenter=a3
@@ -421,7 +421,7 @@ lokey=a3
 hikey=a3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#3-PB.flac
 volume=-41
 tune=-3
 
@@ -432,7 +432,7 @@ hikey=b3
 // there is no B3 sample (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C4-PB.flac
 volume=-42
 
 pitch_keycenter=c4
@@ -440,7 +440,7 @@ lokey=c4
 hikey=c4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#4-PB.flac
 volume=-42
 
 pitch_keycenter=c#4
@@ -448,13 +448,13 @@ lokey=c#4
 hikey=c#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D4-PB.flac
 pitch_keycenter=d4
 lokey=d4
 hikey=d4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#4-PB.flac
 volume=-41
 tune=20
 
@@ -463,7 +463,7 @@ lokey=d#4
 hikey=d#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.E4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.E4-PB.flac
 volume=-41
 
 pitch_keycenter=e4
@@ -473,7 +473,7 @@ hikey=f4
 // F4 sounds bad (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#4-PB.flac
 volume=-41.5
 tune=-20
 
@@ -484,7 +484,7 @@ hikey=g4
 // removed G4, has a click sound
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G#4-PB.flac
 tune=-35
 
 pitch_keycenter=g#4
@@ -492,7 +492,7 @@ lokey=g#4
 hikey=g#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A4-PB.flac
 volume=-41
 tune=-15
 
@@ -501,7 +501,7 @@ lokey=a4
 hikey=a4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#4-PB.flac
 tune=-10
 
 pitch_keycenter=a#4
@@ -509,7 +509,7 @@ lokey=a#4
 hikey=a#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B4-PB.flac
 tune=-25
 
 pitch_keycenter=b4
@@ -517,7 +517,7 @@ lokey=b4
 hikey=b4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C5-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C5-PB.flac
 tune=-15
 
 pitch_keycenter=c5
@@ -560,25 +560,25 @@ ampeg_release=0.6
 
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#1-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#1-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=a#1
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B1-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B1-PB.flac
 pitch_keycenter=b1
 lokey=b1
 hikey=b1
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C2-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#2-PB.flac
 tune=-10
 
 pitch_keycenter=c#2
@@ -588,7 +588,7 @@ hikey=d#2
 // removed D2, D#2 - tuning issues (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E2-PB.flac
 tune=-10
 
 pitch_keycenter=e2
@@ -596,19 +596,19 @@ lokey=e2
 hikey=e2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F2-PB.flac
 pitch_keycenter=f2
 lokey=f2
 hikey=f2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#2-PB.flac
 pitch_keycenter=f#2
 lokey=f#2
 hikey=f#2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G2-PB.flac
 pitch_keycenter=g2
 lokey=g2
 hikey=g#2
@@ -616,7 +616,7 @@ hikey=g#2
 // removed G#2, tuning issues (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A2-PB.flac
 tune=-10
 
 pitch_keycenter=a2
@@ -624,7 +624,7 @@ lokey=a2
 hikey=a2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#2-PB.flac
 pitch_keycenter=a#2
 lokey=a#2
 hikey=b2
@@ -632,7 +632,7 @@ hikey=b2
 // removed B2, has a click in it (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C3-PB.flac
 tune=5
 
 pitch_keycenter=c3
@@ -640,7 +640,7 @@ lokey=c3
 hikey=c3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#3-PB.flac
 tune=-10
 
 pitch_keycenter=c#3
@@ -648,7 +648,7 @@ lokey=c#3
 hikey=c#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D3-PB.flac
 tune=-10
 
 pitch_keycenter=d3
@@ -656,7 +656,7 @@ lokey=d3
 hikey=d3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D#3-PB.flac
 tune=-15
 
 pitch_keycenter=d#3
@@ -664,13 +664,13 @@ lokey=d#3
 hikey=d#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E3-PB.flac
 pitch_keycenter=e3
 lokey=e3
 hikey=e3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F3-PB.flac
 tune=-15
 
 pitch_keycenter=f3
@@ -678,7 +678,7 @@ lokey=f3
 hikey=f3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#3-PB.flac
 tune=-25
 
 pitch_keycenter=f#3
@@ -686,7 +686,7 @@ lokey=f#3
 hikey=f#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G3-PB.flac
 pitch_keycenter=g3
 lokey=g3
 hikey=a3
@@ -694,13 +694,13 @@ hikey=a3
 // removed G#3, A3, tuning issues (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#3-PB.flac
 pitch_keycenter=a#3
 lokey=a#3
 hikey=a#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B3-PB.flac
 tune=-10
 
 pitch_keycenter=b3
@@ -708,43 +708,43 @@ lokey=b3
 hikey=b3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C4-PB.flac
 pitch_keycenter=c4
 lokey=c4
 hikey=c4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#4-PB.flac
 pitch_keycenter=c#4
 lokey=c#4
 hikey=c#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D4-PB.flac
 pitch_keycenter=d4
 lokey=d4
 hikey=d4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D#4-PB.flac
 pitch_keycenter=d#4
 lokey=d#4
 hikey=d#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E4-PB.flac
 pitch_keycenter=e4
 lokey=e4
 hikey=e4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F4-PB.flac
 pitch_keycenter=f4
 lokey=f4
 hikey=f4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#4-PB.flac
 tune=-15
 
 pitch_keycenter=f#4
@@ -752,7 +752,7 @@ lokey=f#4
 hikey=f#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G4-PB.flac
 tune=-20
 
 pitch_keycenter=g4
@@ -760,7 +760,7 @@ lokey=g4
 hikey=g4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G#4-PB.flac
 tune=-35
 
 pitch_keycenter=g#4
@@ -768,13 +768,13 @@ lokey=g#4
 hikey=g#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A4-PB.flac
 pitch_keycenter=a4
 lokey=a4
 hikey=a4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#4-PB.flac
 tune=-10
 
 pitch_keycenter=a#4
@@ -782,7 +782,7 @@ lokey=a#4
 hikey=a#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B4-PB.flac
 tune=-25
 
 pitch_keycenter=b4
@@ -790,7 +790,7 @@ lokey=b4
 hikey=b4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C5-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C5-PB.flac
 tune=-20
 
 pitch_keycenter=c5
@@ -865,43 +865,43 @@ delay_random=0.012
 xfin_lovel=54 xfin_hivel=104
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_F_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_F_f-PB.flac
 
 volume=-31
 offset=780
 pitch_keycenter=f3 lokey=d3 hikey=f3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_G_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_G_f-PB.flac
 offset=922
 pitch_keycenter=g3 lokey=f#3 hikey=g3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_A_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_A_f-PB.flac
 offset=1347
 pitch_keycenter=a3 lokey=g#3 hikey=a3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_B_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_B_f-PB.flac
 offset=1701
 pitch_keycenter=b3 lokey=a#3 hikey=b3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_Db_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_Db_f-PB.flac
 offset=408
 pitch_keycenter=c#4 lokey=c4 hikey=d4
 
 // removed 4_Eb_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_F_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_F_f-PB.flac
 offset=1808
 pitch_keycenter=f4 lokey=d#4 hikey=g4
 
 // removed 4_G_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_A_f-PB-loop.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_A_f-PB-loop.flac
 offset=833
 pitch_keycenter=a4 lokey=g#4 hikey=c#5
 
@@ -910,26 +910,26 @@ pitch_keycenter=a4 lokey=g#4 hikey=c#5
 // removed 5_Eb_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_F_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_F_f-PB.flac
 offset=3208
 pitch_keycenter=f5 lokey=d5 hikey=f5
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_G_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_G_f-PB.flac
 offset=1842
 pitch_keycenter=g5 lokey=f#5 hikey=g5
 
 // removed 5_A_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_B_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_B_f-PB.flac
 offset=2605
 pitch_keycenter=b5 lokey=g#5 hikey=c6
 
 // removed 6_Db_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_Eb_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_Eb_f-PB.flac
 offset=2036
 pitch_keycenter=d#6 lokey=c#6 hikey=a#6
 
@@ -974,63 +974,63 @@ delay_random=0.012
 xfout_lovel=54 xfout_hivel=104
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_F_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_F_mf-PB.flac
 
 volume=-31
 offset=673
 pitch_keycenter=f3 lokey=d3 hikey=f3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_G_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_G_mf-PB.flac
 offset=532
 pitch_keycenter=g3 lokey=f#3 hikey=g3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_A_mf-PB-loop.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_A_mf-PB-loop.flac
 offset=1063
 pitch_keycenter=a3 lokey=g#3 hikey=a3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_B_mf-PB-loop.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_B_mf-PB-loop.flac
 offset=744
 pitch_keycenter=b3 lokey=a#3 hikey=c4
 
 // removed 4_Db_mf (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_Eb_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_Eb_mf-PB.flac
 offset=1046
 pitch_keycenter=d#4 lokey=c#4 hikey=d#4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_F_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_F_mf-PB.flac
 offset=620
 pitch_keycenter=f4 lokey=e4 hikey=f4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_G_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_G_mf-PB.flac
 offset=691
 pitch_keycenter=g4 lokey=f#4 hikey=g4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_A_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_A_mf-PB.flac
 offset=868
 pitch_keycenter=a4 lokey=g#4 hikey=a4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_B_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_B_mf-PB.flac
 offset=1365
 pitch_keycenter=b4 lokey=a#4 hikey=b4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_Db_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_Db_mf-PB.flac
 offset=0
 pitch_keycenter=c#5 lokey=c5 hikey=d#5
 
 // removed 5_Eb_mf (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_F_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_F_mf-PB.flac
 offset=1187
 pitch_keycenter=f5 lokey=e5 hikey=g5
 
@@ -1038,24 +1038,24 @@ pitch_keycenter=f5 lokey=e5 hikey=g5
 // removed 5_A_mf (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_B_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_B_mf-PB.flac
 offset=868
 pitch_keycenter=b5 lokey=g#5 hikey=b5
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_Db_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_Db_mf-PB.flac
 offset=1046
 pitch_keycenter=c#6 lokey=c6 hikey=c#6
 
 // removed 6_Eb_mf (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_F_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_F_mf-PB.flac
 offset=656
 pitch_keycenter=f6 lokey=d6 hikey=f6
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_G_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_G_mf-PB.flac
 offset=1208
 pitch_keycenter=g6 lokey=f#6 hikey=a#6
 
@@ -1112,7 +1112,7 @@ delay_random=0.012
 xfin_lovel=54 xfin_hivel=104
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_F_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_F_f-PB.flac
 
 
 volume=-33
@@ -1121,26 +1121,26 @@ offset=3000
 pitch_keycenter=f3 lokey=d3 hikey=f3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_G_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_G_f-PB.flac
 offset=3000
 pitch_keycenter=g3 lokey=f#3 hikey=g3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_A_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_A_f-PB.flac
 
 volume=-34
 offset=3000
 pitch_keycenter=a3 lokey=g#3 hikey=a3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_B_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_B_f-PB.flac
 
 volume=-34
 offset=3000
 pitch_keycenter=b3 lokey=a#3 hikey=b3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_Db_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_Db_f-PB.flac
 
 volume=-34
 offset=3000
@@ -1149,7 +1149,7 @@ pitch_keycenter=c#4 lokey=c4 hikey=d4
 // removed 4_Eb_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_F_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_F_f-PB.flac
 
 volume=-32
 offset=3000
@@ -1158,7 +1158,7 @@ pitch_keycenter=f4 lokey=d#4 hikey=g4
 // removed 4_G_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_A_f-PB-loop.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_A_f-PB-loop.flac
 offset=3000
 pitch_keycenter=a4 lokey=g#4 hikey=c#5
 
@@ -1167,28 +1167,28 @@ pitch_keycenter=a4 lokey=g#4 hikey=c#5
 // removed 5_Eb_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_F_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_F_f-PB.flac
 
 volume=-32
 offset=3000
 pitch_keycenter=f5 lokey=d5 hikey=f5
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_G_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_G_f-PB.flac
 offset=3000
 pitch_keycenter=g5 lokey=f#5 hikey=g5
 
 // removed 5_A_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_B_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_B_f-PB.flac
 offset=3000
 pitch_keycenter=b5 lokey=g#5 hikey=c6
 
 // removed 6_Db_f (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_Eb_f-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_Eb_f-PB.flac
 
 volume=-30
 offset=3000
@@ -1237,63 +1237,63 @@ delay_random=0.012
 xfout_lovel=54 xfout_hivel=104
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_F_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_F_mf-PB.flac
 
 volume=-33
 offset=3000
 pitch_keycenter=f3 lokey=d3 hikey=f3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_G_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_G_mf-PB.flac
 offset=3000
 pitch_keycenter=g3 lokey=f#3 hikey=g3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_A_mf-PB-loop.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_A_mf-PB-loop.flac
 offset=3000
 pitch_keycenter=a3 lokey=g#3 hikey=a3
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_B_mf-PB-loop.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\3_B_mf-PB-loop.flac
 offset=3000
 pitch_keycenter=b3 lokey=a#3 hikey=c4
 
 // removed 4_Db_mf (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_Eb_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_Eb_mf-PB.flac
 offset=3000
 pitch_keycenter=d#4 lokey=c#4 hikey=d#4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_F_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_F_mf-PB.flac
 offset=3000
 pitch_keycenter=f4 lokey=e4 hikey=f4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_G_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_G_mf-PB.flac
 offset=3000
 pitch_keycenter=g4 lokey=f#4 hikey=g4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_A_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_A_mf-PB.flac
 offset=3000
 pitch_keycenter=a4 lokey=g#4 hikey=a4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_B_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\4_B_mf-PB.flac
 offset=3000
 pitch_keycenter=b4 lokey=a#4 hikey=b4
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_Db_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_Db_mf-PB.flac
 offset=3000
 pitch_keycenter=c#5 lokey=c5 hikey=d#5
 
 // removed 5_Eb_mf (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_F_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_F_mf-PB.flac
 offset=3000
 pitch_keycenter=f5 lokey=e5 hikey=g5
 
@@ -1301,24 +1301,24 @@ pitch_keycenter=f5 lokey=e5 hikey=g5
 // removed 5_A_mf (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_B_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\5_B_mf-PB.flac
 offset=3000
 pitch_keycenter=b5 lokey=g#5 hikey=b5
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_Db_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_Db_mf-PB.flac
 offset=3000
 pitch_keycenter=c#6 lokey=c6 hikey=c#6
 
 // removed 6_Eb_mf (PB)
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_F_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_F_mf-PB.flac
 offset=3000
 pitch_keycenter=f6 lokey=d6 hikey=f6
 
 <region>
-sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_G_mf-PB.wav
+sample=..\libs\NoBudgetOrch\SoloClarinet\Sustain\6_G_mf-PB.flac
 offset=3000
 pitch_keycenter=g6 lokey=f#6 hikey=a#6
 
@@ -1409,7 +1409,7 @@ fil_type=lpf_2p
 cutoff=5000
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#3-PB-loop.flac
 volume=-41
 
 lokey=a#3
@@ -1418,7 +1418,7 @@ pitch_keycenter=a#3
 tune=-8
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c#4-PB-loop.flac
 
 lokey=c#4
 hikey=d4
@@ -1426,7 +1426,7 @@ pitch_keycenter=c#4
 tune=-9
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-e4-PB-loop.flac
 volume=-40.5
 
 lokey=d#4
@@ -1435,7 +1435,7 @@ pitch_keycenter=e4
 tune=-14
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-g4-PB-loop.flac
 volume=-37
 
 lokey=f#4
@@ -1444,7 +1444,7 @@ pitch_keycenter=g4
 tune=-10
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#4-PB-loop.flac
 volume=-38.5
 
 lokey=a4
@@ -1453,7 +1453,7 @@ pitch_keycenter=a#4
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c#5-PB-loop.flac
 volume=-35
 
 lokey=c5
@@ -1461,10 +1461,10 @@ hikey=e5 // extend to replace bad sample e5 (PB)
 pitch_keycenter=c#5
 
 
-// removed oboe-e5-PB-loop.wav (PB)
+// removed oboe-e5-PB-loop.flac (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-g5-PB-loop.flac
 volume=-36.5
 
 lokey=f5
@@ -1473,7 +1473,7 @@ pitch_keycenter=g5
 tune=-20
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#5-PB-loop.flac
 volume=-41
 
 lokey=a5
@@ -1482,7 +1482,7 @@ pitch_keycenter=a#5
 tune=-22
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c6-PB-loop.flac
 volume=-37.5
 
 lokey=c6
@@ -1566,7 +1566,7 @@ fil_type=lpf_2p
 cutoff=5000
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#3-PB-loop.flac
 volume=-38
 
 lokey=a#3
@@ -1575,7 +1575,7 @@ pitch_keycenter=a#3
 tune=-8
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c#4-PB-loop.flac
 
 volume=-37
 
@@ -1585,7 +1585,7 @@ pitch_keycenter=c#4
 tune=-9
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-e4-PB-loop.flac
 volume=-37.5
 
 lokey=d#4
@@ -1594,7 +1594,7 @@ pitch_keycenter=e4
 tune=-14
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-g4-PB-loop.flac
 volume=-34
 
 lokey=f#4
@@ -1603,7 +1603,7 @@ pitch_keycenter=g4
 tune=-10
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#4-PB-loop.flac
 volume=-35.5
 
 lokey=a4
@@ -1612,7 +1612,7 @@ pitch_keycenter=a#4
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c#5-PB-loop.flac
 volume=-33
 
 lokey=c5
@@ -1620,10 +1620,10 @@ hikey=e5 // extend to replace bad sample e5 (PB)
 pitch_keycenter=c#5
 
 
-// removed oboe-e5-PB-loop.wav (PB)
+// removed oboe-e5-PB-loop.flac (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-g5-PB-loop.flac
 volume=-36.5
 
 lokey=f5
@@ -1632,7 +1632,7 @@ pitch_keycenter=g5
 tune=-20
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#5-PB-loop.flac
 volume=-38
 
 lokey=a5
@@ -1641,7 +1641,7 @@ pitch_keycenter=a#5
 tune=-22
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c6-PB-loop.flac
 volume=-36.5
 
 lokey=c6
@@ -1709,21 +1709,21 @@ ampeg_release=0.7
 ampeg_dynamic=1
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A3_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A3_v1_1-PB-loop.flac
 volume=-28
 lokey=67
 hikey=70
 pitch_keycenter=69
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A4_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A4_v1_1-PB-loop.flac
 volume=-30
 lokey=79
 hikey=82
 pitch_keycenter=81
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A5_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A5_v1_1-PB-loop.flac
 volume=-30
 lokey=91
 hikey=94
@@ -1739,21 +1739,21 @@ eq2_bw=2
 eq2_gain=-10.2
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C3-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C3-PB-loop.flac
 volume=-25
 lokey=60
 hikey=61
 pitch_keycenter=60
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C4_v1_2-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C4_v1_2-PB-loop.flac
 volume=-28
 lokey=71
 hikey=73
 pitch_keycenter=72
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C5_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C5_v1_1-PB-loop.flac
 volume=-26
 lokey=83
 hikey=85
@@ -1769,28 +1769,28 @@ eq2_bw=2
 eq2_gain=-11.2
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C6_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C6_v1_1-PB-loop.flac
 volume=-28
 lokey=95
 hikey=98
 pitch_keycenter=96
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E3-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E3-PB-loop.flac
 volume=-25
 lokey=62
 hikey=66
 pitch_keycenter=64
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E4_v1_2-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E4_v1_2-PB-loop.flac
 volume=-26
 lokey=74
 hikey=78
 pitch_keycenter=76
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E5_v1_2-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E5_v1_2-PB-loop.flac
 volume=-27
 lokey=86
 hikey=90
@@ -1845,7 +1845,7 @@ ampeg_dynamic=1
 volume=-30.5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.flac
 tune=-5
 
 lokey=c4
@@ -1853,20 +1853,20 @@ hikey=d#4
 pitch_keycenter=c4
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.flac
 lokey=e4
 hikey=g#4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.flac
 lokey=g4
 hikey=a#4
 pitch_keycenter=a4
 tune=5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.flac
 tune=7
 
 lokey=b4
@@ -1874,7 +1874,7 @@ hikey=d5
 pitch_keycenter=c5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.flac
 volume=-29.5
 
 lokey=d#5
@@ -1882,13 +1882,13 @@ hikey=f#5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.flac
 lokey=g5
 hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.flac
 volume=-24.5
 
 lokey=b5
@@ -1896,13 +1896,13 @@ hikey=d6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.flac
 lokey=d#6
 hikey=f#6
 pitch_keycenter=e6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.flac
 volume=-26.5
 
 lokey=g6
@@ -1910,7 +1910,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.flac
 volume=-28.5
 
 lokey=b6
@@ -1981,7 +1981,7 @@ delay_random=0.012
 ampeg_release=0.550
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.flac
 tune=-10
 
 pitch_keycenter=c5
@@ -1991,13 +1991,13 @@ hikey=d#5 // reduce the range (PB)
 // removed D#4, vibrato was too fast
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.flac
 lokey=e5
 hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.flac
 tune=-10
 
 lokey=g#5
@@ -2005,7 +2005,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.flac
 tune=-7
 
 lokey=b5
@@ -2013,7 +2013,7 @@ hikey=c#6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.flac
 tune=-3
 
 lokey=d6
@@ -2021,7 +2021,7 @@ hikey=e6
 pitch_keycenter=d#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.flac
 tune=-10
 
 lokey=f6
@@ -2029,7 +2029,7 @@ hikey=g6
 pitch_keycenter=f#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.flac
 tune=-7
 
 lokey=g#6
@@ -2037,7 +2037,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.flac
 tune=-10
 
 lokey=b6
@@ -2045,7 +2045,7 @@ hikey=c#7
 pitch_keycenter=c7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.flac
 
 volume=-33
 tune=-5
@@ -2055,7 +2055,7 @@ hikey=e7
 pitch_keycenter=d#7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.flac
 tune=-7
 
 lokey=f7
@@ -2114,7 +2114,7 @@ delay_random=0.012
 
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.flac
 
 volume=-23
 tune=-10
@@ -2126,7 +2126,7 @@ hikey=d#5 // reduce the range (PB)
 // removed D#4, vibrato was too fast
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.flac
 volume=-22.5
 
 lokey=e5
@@ -2134,7 +2134,7 @@ hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.flac
 
 volume=-26
 tune=-10
@@ -2144,7 +2144,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.flac
 
 volume=-26
 tune=-7
@@ -2154,7 +2154,7 @@ hikey=c#6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.flac
 
 volume=-22
 tune=-3
@@ -2164,7 +2164,7 @@ hikey=e6
 pitch_keycenter=d#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.flac
 
 volume=-23
 tune=-10
@@ -2174,7 +2174,7 @@ hikey=g6
 pitch_keycenter=f#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.flac
 
 volume=-28
 tune=-7
@@ -2184,7 +2184,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.flac
 
 volume=-27
 tune=-10
@@ -2194,7 +2194,7 @@ hikey=c#7
 pitch_keycenter=c7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.flac
 
 volume=-29
 tune=-5
@@ -2204,7 +2204,7 @@ hikey=e7
 pitch_keycenter=d#7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.flac
 
 volume=-30
 tune=-7

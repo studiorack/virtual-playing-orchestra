@@ -31,35 +31,35 @@ ampeg_vel2release=-1.0
 //pitchlfo_fade=2.0
 
 
-<region> lokey=c2 hikey=d#2 pitch_keycenter=d2 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\2_D-PB.wav
+<region> lokey=c2 hikey=d#2 pitch_keycenter=d2 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\2_D-PB.flac
 volume=1 tune=-25
 
-<region> lokey=e2 hikey=f#2 pitch_keycenter=f#2 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\2_Gb-PB-loop.wav
+<region> lokey=e2 hikey=f#2 pitch_keycenter=f#2 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\2_Gb-PB-loop.flac
 volume=-0.5
 
-<region> lokey=g2 hikey=a#2 pitch_keycenter=a2 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\2_A-PB-loop.wav
+<region> lokey=g2 hikey=a#2 pitch_keycenter=a2 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\2_A-PB-loop.flac
 volume=-0.5
 
-<region> lokey=b2 hikey=d3 pitch_keycenter=c#3 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\3_Db-PB-loop.wav
+<region> lokey=b2 hikey=d3 pitch_keycenter=c#3 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\3_Db-PB-loop.flac
 volume=-0.5
 pitchlfo_depth=0
 
-<region> lokey=d#3 hikey=f#3 pitch_keycenter=f3 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\3_F-PB-loop.wav
+<region> lokey=d#3 hikey=f#3 pitch_keycenter=f3 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\3_F-PB-loop.flac
 volume=-0.5
 
-<region> lokey=g3 hikey=a3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\3_A-PB-loop.wav
+<region> lokey=g3 hikey=a3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\3_A-PB-loop.flac
 volume=0
 
-<region> lokey=a#3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\4_C-PB-loop.wav
+<region> lokey=a#3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\4_C-PB-loop.flac
 volume=1.0
 
-<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\4_Eb-PB-loop.wav
+<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\4_Eb-PB-loop.flac
 volume=-0.5
 
-<region> lokey=f4 hikey=g#4 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\4_G-PB.wav
+<region> lokey=f4 hikey=g#4 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\4_G-PB.flac
 volume=0
 
-<region> lokey=a4 hikey=a5 pitch_keycenter=a#4 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\4_Bb-PB.wav
+<region> lokey=a4 hikey=a5 pitch_keycenter=a#4 sample=..\libs\NoBudgetOrch\SoloCello\Vibrato\4_Bb-PB.flac
 volume=-1
 
 
@@ -75,34 +75,34 @@ width=0
 
 // removed samples to match V1.sfz (PB)
 // use release samples with less reverb
-<region> lokey=c2 hikey=d#2 pitch_keycenter=d2 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\2_D_r-PB.wav
+<region> lokey=c2 hikey=d#2 pitch_keycenter=d2 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\2_D_r-PB.flac
 volume=1 tune=-35
 
-<region> lokey=e2 hikey=f#2 pitch_keycenter=f#2 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\2_Gb_r-PB.wav
+<region> lokey=e2 hikey=f#2 pitch_keycenter=f#2 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\2_Gb_r-PB.flac
 volume=0.5 tune=-20
 
-<region> lokey=g2 hikey=a#2 pitch_keycenter=a#2 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\2_Bb_r-PB.wav
+<region> lokey=g2 hikey=a#2 pitch_keycenter=a#2 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\2_Bb_r-PB.flac
 volume=1.5
 
-<region> lokey=b2 hikey=d3 pitch_keycenter=b2 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\2_B_r-PB.wav
+<region> lokey=b2 hikey=d3 pitch_keycenter=b2 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\2_B_r-PB.flac
 volume=1.5
 
-<region> lokey=d#3 hikey=f#3 pitch_keycenter=e3 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\3_E_r-PB.wav
+<region> lokey=d#3 hikey=f#3 pitch_keycenter=e3 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\3_E_r-PB.flac
 volume=1
 
-<region> lokey=g3 hikey=a3 pitch_keycenter=g#3 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\3_Ab_r-PB.wav
+<region> lokey=g3 hikey=a3 pitch_keycenter=g#3 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\3_Ab_r-PB.flac
 volume=2
 
-<region> lokey=a#3 hikey=c#4 pitch_keycenter=b3 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\3_B_r-PB.wav
+<region> lokey=a#3 hikey=c#4 pitch_keycenter=b3 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\3_B_r-PB.flac
 volume=2
 
-<region> lokey=d4 hikey=e4 pitch_keycenter=d4 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\4_D_r-PB.wav
+<region> lokey=d4 hikey=e4 pitch_keycenter=d4 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\4_D_r-PB.flac
 volume=1
 
-<region> lokey=f4 hikey=g#4 pitch_keycenter=f4 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\4_F_r-PB.wav
+<region> lokey=f4 hikey=g#4 pitch_keycenter=f4 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\4_F_r-PB.flac
 volume=0
 
-<region> lokey=a4 hikey=e5 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\4_G_r-PB.wav
+<region> lokey=a4 hikey=e5 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\SoloCello\Release-PB\4_G_r-PB.flac
 volume=2
 
 

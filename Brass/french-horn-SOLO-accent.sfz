@@ -63,7 +63,7 @@ amplfo_delay=2.7
 amplfo_fade=0.5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E2-PB-loop.flac
 volume=-4
 
 pitch_keycenter=e2
@@ -71,7 +71,7 @@ lokey=b1
 hikey=e2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G#2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G#2-PB-loop.flac
 volume=-2
 
 pitch_keycenter=g#2
@@ -79,7 +79,7 @@ lokey=f2
 hikey=g#2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A2-PB-loop.flac
 volume=-4
 
 pitch_keycenter=a2
@@ -87,13 +87,13 @@ lokey=a2
 hikey=a2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A#2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A#2-PB-loop.flac
 pitch_keycenter=a#2
 lokey=a#2
 hikey=c#3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.D#3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.D#3-PB-loop.flac
 volume=-3
 
 pitch_keycenter=d#3
@@ -101,13 +101,13 @@ lokey=d3
 hikey=f3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F#3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F#3-PB-loop.flac
 pitch_keycenter=f#3
 lokey=f#3
 hikey=f#3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G3-PB-loop.flac
 volume=-2
 
 pitch_keycenter=g3
@@ -115,13 +115,13 @@ lokey=g3
 hikey=a3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A#3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A#3-PB-loop.flac
 pitch_keycenter=a#3
 lokey=a#3
 hikey=a#3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.B3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.B3-PB-loop.flac
 volume=-3
 
 pitch_keycenter=b3
@@ -129,7 +129,7 @@ lokey=b3
 hikey=b3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c4
@@ -137,7 +137,7 @@ lokey=c4
 hikey=c4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C#4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c#4
@@ -145,13 +145,13 @@ lokey=c#4
 hikey=d4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.D#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.D#4-PB-loop.flac
 pitch_keycenter=d#4
 lokey=d#4
 hikey=d#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=e4
@@ -159,7 +159,7 @@ lokey=e4
 hikey=e4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=f4
@@ -167,7 +167,7 @@ lokey=f4
 hikey=f4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F#4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=f#4
@@ -175,7 +175,7 @@ lokey=f#4
 hikey=f#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G4-PB-loop.flac
 volume=-4
 
 pitch_keycenter=g4
@@ -183,7 +183,7 @@ lokey=g4
 hikey=g4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G#4-PB-loop.flac
 volume=-4
 
 pitch_keycenter=g#4
@@ -191,7 +191,7 @@ lokey=g#4
 hikey=g#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=a4
@@ -200,7 +200,7 @@ hikey=a#4
 tune=-5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.B4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.B4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=b4
@@ -208,7 +208,7 @@ lokey=b4
 hikey=b4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C5-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C5-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c5
@@ -216,7 +216,7 @@ lokey=c5
 hikey=d#5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E5-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E5-PB-loop.flac
 volume=-2
 
 pitch_keycenter=e5
@@ -260,7 +260,7 @@ amplfo_delay=2.7
 amplfo_fade=0.5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E2-PB-loop.flac
 volume=-4
 
 pitch_keycenter=e2
@@ -268,7 +268,7 @@ lokey=b1
 hikey=e2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G#2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G#2-PB-loop.flac
 volume=-2
 
 pitch_keycenter=g#2
@@ -276,7 +276,7 @@ lokey=f2
 hikey=g#2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A2-PB-loop.flac
 volume=-4
 
 pitch_keycenter=a2
@@ -284,7 +284,7 @@ lokey=a2
 hikey=a2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A#2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A#2-PB-loop.flac
 pitch_keycenter=a#2
 lokey=a#2
 hikey=c#3
@@ -292,7 +292,7 @@ hikey=c#3
 // use SSO to fill in for missing IOWA samples
 
 <region>
-sample=../libs/SSO/Samples/Horn/horn-e3-PB-loop.wav
+sample=../libs/SSO/Samples/Horn/horn-e3-PB-loop.flac
 
 volume=-3
 lokey=d3
@@ -301,14 +301,14 @@ pitch_keycenter=e3
 
 
 <region>
-sample=../libs/SSO/Samples/Horn/horn-a#3-PB-loop.wav
+sample=../libs/SSO/Samples/Horn/horn-a#3-PB-loop.flac
 lokey=g3
 hikey=b3
 pitch_keycenter=a#3
 
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c4
@@ -316,7 +316,7 @@ lokey=c4
 hikey=c4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C#4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c#4
@@ -324,13 +324,13 @@ lokey=c#4
 hikey=d4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.D#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.D#4-PB-loop.flac
 pitch_keycenter=d#4
 lokey=d#4
 hikey=d#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=e4
@@ -338,7 +338,7 @@ lokey=e4
 hikey=e4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.F4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.F4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=f4
@@ -346,7 +346,7 @@ lokey=f4
 hikey=f4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.F#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.F#4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=f#4
@@ -354,7 +354,7 @@ lokey=f#4
 hikey=f#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G4-PB-loop.flac
 volume=-4
 
 pitch_keycenter=g4
@@ -362,7 +362,7 @@ lokey=g4
 hikey=g4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G#4-PB-loop.flac
 volume=-4
 
 pitch_keycenter=g#4
@@ -370,7 +370,7 @@ lokey=g#4
 hikey=g#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=a4
@@ -378,7 +378,7 @@ lokey=a4
 hikey=a#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.B4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.B4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=b4
@@ -386,7 +386,7 @@ lokey=b4
 hikey=b4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C5-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C5-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c5
@@ -394,7 +394,7 @@ lokey=c5
 hikey=d#5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E5-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E5-PB-loop.flac
 volume=-2
 
 pitch_keycenter=e5
@@ -454,7 +454,7 @@ amplfo_delay=2.7
 amplfo_fade=0.5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E2-PB-loop.flac
 volume=-4
 
 pitch_keycenter=e2
@@ -462,7 +462,7 @@ lokey=b1
 hikey=e2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G#2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G#2-PB-loop.flac
 volume=-2
 
 pitch_keycenter=g#2
@@ -470,7 +470,7 @@ lokey=f2
 hikey=g#2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A2-PB-loop.flac
 volume=-4
 
 pitch_keycenter=a2
@@ -478,13 +478,13 @@ lokey=a2
 hikey=a2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A#2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A#2-PB-loop.flac
 pitch_keycenter=a#2
 lokey=a#2
 hikey=c#3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.D#3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.D#3-PB-loop.flac
 volume=-3
 
 pitch_keycenter=d#3
@@ -492,13 +492,13 @@ lokey=d3
 hikey=f3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F#3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F#3-PB-loop.flac
 pitch_keycenter=f#3
 lokey=f#3
 hikey=f#3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G3-PB-loop.flac
 volume=-2
 
 pitch_keycenter=g3
@@ -506,13 +506,13 @@ lokey=g3
 hikey=a3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A#3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A#3-PB-loop.flac
 pitch_keycenter=a#3
 lokey=a#3
 hikey=a#3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.B3-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.B3-PB-loop.flac
 volume=-3
 
 pitch_keycenter=b3
@@ -520,7 +520,7 @@ lokey=b3
 hikey=b3
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c4
@@ -528,7 +528,7 @@ lokey=c4
 hikey=c4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C#4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c#4
@@ -536,13 +536,13 @@ lokey=c#4
 hikey=d4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.D#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.D#4-PB-loop.flac
 pitch_keycenter=d#4
 lokey=d#4
 hikey=d#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=e4
@@ -550,7 +550,7 @@ lokey=e4
 hikey=e4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=f4
@@ -558,7 +558,7 @@ lokey=f4
 hikey=f4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.F#4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=f#4
@@ -566,7 +566,7 @@ lokey=f#4
 hikey=f#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G4-PB-loop.flac
 volume=-4
 
 pitch_keycenter=g4
@@ -574,7 +574,7 @@ lokey=g4
 hikey=g4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.G#4-PB-loop.flac
 volume=-4
 
 pitch_keycenter=g#4
@@ -582,7 +582,7 @@ lokey=g#4
 hikey=g#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.A4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=a4
@@ -591,7 +591,7 @@ hikey=a#4
 tune=-5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.B4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.B4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=b4
@@ -599,7 +599,7 @@ lokey=b4
 hikey=b4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C5-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.C5-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c5
@@ -607,7 +607,7 @@ lokey=c5
 hikey=d#5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E5-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.ff.E5-PB-loop.flac
 volume=-2
 
 pitch_keycenter=e5
@@ -648,7 +648,7 @@ amplfo_delay=2.7
 amplfo_fade=0.5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E2-PB-loop.flac
 volume=-4
 
 pitch_keycenter=e2
@@ -656,7 +656,7 @@ lokey=b1
 hikey=e2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G#2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G#2-PB-loop.flac
 volume=-2
 
 pitch_keycenter=g#2
@@ -664,7 +664,7 @@ lokey=f2
 hikey=g#2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A2-PB-loop.flac
 volume=-4
 
 pitch_keycenter=a2
@@ -672,7 +672,7 @@ lokey=a2
 hikey=a2
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A#2-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A#2-PB-loop.flac
 pitch_keycenter=a#2
 lokey=a#2
 hikey=c#3
@@ -680,7 +680,7 @@ hikey=c#3
 // use SSO to fill in for missing IOWA samples
 
 <region>
-sample=../libs/SSO/Samples/Horn/horn-e3-PB-loop.wav
+sample=../libs/SSO/Samples/Horn/horn-e3-PB-loop.flac
 
 volume=-3
 lokey=d3
@@ -689,14 +689,14 @@ pitch_keycenter=e3
 
 
 <region>
-sample=../libs/SSO/Samples/Horn/horn-a#3-PB-loop.wav
+sample=../libs/SSO/Samples/Horn/horn-a#3-PB-loop.flac
 lokey=g3
 hikey=b3
 pitch_keycenter=a#3
 
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c4
@@ -704,7 +704,7 @@ lokey=c4
 hikey=c4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C#4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c#4
@@ -712,13 +712,13 @@ lokey=c#4
 hikey=d4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.D#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.D#4-PB-loop.flac
 pitch_keycenter=d#4
 lokey=d#4
 hikey=d#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=e4
@@ -726,7 +726,7 @@ lokey=e4
 hikey=e4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.F4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.F4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=f4
@@ -734,7 +734,7 @@ lokey=f4
 hikey=f4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.F#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.F#4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=f#4
@@ -742,7 +742,7 @@ lokey=f#4
 hikey=f#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G4-PB-loop.flac
 volume=-4
 
 pitch_keycenter=g4
@@ -750,7 +750,7 @@ lokey=g4
 hikey=g4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G#4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.G#4-PB-loop.flac
 volume=-4
 
 pitch_keycenter=g#4
@@ -758,7 +758,7 @@ lokey=g#4
 hikey=g#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.A4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=a4
@@ -766,7 +766,7 @@ lokey=a4
 hikey=a#4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.B4-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.B4-PB-loop.flac
 volume=-3
 
 pitch_keycenter=b4
@@ -774,7 +774,7 @@ lokey=b4
 hikey=b4
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C5-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.C5-PB-loop.flac
 volume=-3
 
 pitch_keycenter=c5
@@ -782,7 +782,7 @@ lokey=c5
 hikey=d#5
 
 <region>
-sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E5-PB-loop.wav
+sample=../libs/Iowa/samples/Horn-solo/Horn.mf.E5-PB-loop.flac
 volume=-2
 
 pitch_keycenter=e5

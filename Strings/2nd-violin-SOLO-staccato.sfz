@@ -45,7 +45,7 @@ group_label=gr_1
 // removed LLVln_spic_A2 - too scratchy (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A3_v2_rr1-PB.flac
 volume=3.7
 
 lokey=68
@@ -57,7 +57,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A4_v2_rr1-PB.flac
 volume=2.7
 
 lokey=80
@@ -69,7 +69,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A5_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A5_v2_rr1-PB.flac
 volume=1.7
 
 lokey=92
@@ -81,7 +81,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C3_v2_rr1-PB.flac
 volume=1.7
 offset=1120
 ampeg_attack=0.03
@@ -95,7 +95,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C4_v2_rr1-PB.flac
 volume=1.7
 
 lokey=71
@@ -107,7 +107,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C5_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C5_v2_rr1-PB.flac
 volume=4.7
 
 lokey=83
@@ -119,7 +119,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C6_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C6_v2_rr1-PB.flac
 volume=1.7
 
 lokey=95
@@ -131,7 +131,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E3_v2_rr1-PB.flac
 volume=2.7
 
 lokey=62
@@ -143,7 +143,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E4_v2_rr1-PB.flac
 volume=2.7
 
 lokey=74
@@ -155,7 +155,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E5_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E5_v2_rr1-PB.flac
 volume=2.7
 
 lokey=86
@@ -166,10 +166,10 @@ hivel=127
 
 
 
-// removed LLVln_spic_G2_v2_rr2-PB.wav - sample had double bounce (PB)
+// removed LLVln_spic_G2_v2_rr2-PB.flac - sample had double bounce (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G3_v2_rr1-PB.flac
 volume=1.7
 
 lokey=66
@@ -181,7 +181,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G4_v2_rr1-PB.flac
 volume=1.7
 
 lokey=78
@@ -193,7 +193,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G5_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G5_v2_rr1-PB.flac
 volume=1.7
 
 lokey=90
@@ -242,7 +242,7 @@ group_label=gr_2
 // removed LLVln_spic_A2 - too scratchy (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A3_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A3_v2_rr2-PB.flac
 volume=2.7
 
 lokey=68
@@ -254,7 +254,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A4_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A4_v2_rr2-PB.flac
 volume=4.7
 
 lokey=80
@@ -266,7 +266,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A5_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A5_v2_rr2-PB.flac
 volume=1.7
 
 lokey=92
@@ -278,7 +278,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C3_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C3_v2_rr2-PB.flac
 volume=1.7
 
 lokey=55
@@ -290,7 +290,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C4_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C4_v2_rr2-PB.flac
 volume=1.7
 
 lokey=71
@@ -302,7 +302,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C5_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C5_v2_rr2-PB.flac
 volume=3.7
 
 lokey=83
@@ -314,7 +314,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C6_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C6_v2_rr2-PB.flac
 volume=1.7
 
 lokey=95
@@ -326,7 +326,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E3_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E3_v2_rr2-PB.flac
 volume=3.7
 
 lokey=62
@@ -338,7 +338,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E4_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E4_v2_rr2-PB.flac
 volume=2.7
 
 lokey=74
@@ -350,7 +350,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E5_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E5_v2_rr2-PB.flac
 volume=2.7
 
 lokey=86
@@ -361,10 +361,10 @@ hivel=127
 
 
 
-// removed LLVln_spic_G2_v2_rr2-PB.wav - sample had double bounce (PB)
+// removed LLVln_spic_G2_v2_rr2-PB.flac - sample had double bounce (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G3_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G3_v2_rr2-PB.flac
 volume=1.7
 
 lokey=66
@@ -376,7 +376,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G4_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G4_v2_rr2-PB.flac
 volume=2.7
 
 lokey=78
@@ -388,7 +388,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G5_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G5_v2_rr2-PB.flac
 volume=1.7
 
 lokey=90

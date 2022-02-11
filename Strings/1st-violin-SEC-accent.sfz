@@ -42,7 +42,7 @@ ampeg_decay=1
 ampeg_vel2decay=10
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g3-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g3-PB.flac
 volume=4.5
 
 lokey=g3
@@ -50,7 +50,7 @@ hikey=g#3
 pitch_keycenter=g3
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#3-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#3-PB.flac
 volume=4
 
 lokey=a3
@@ -58,7 +58,7 @@ hikey=b3
 pitch_keycenter=a#3
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#4-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#4-PB.flac
 volume=4
 
 lokey=c4
@@ -66,7 +66,7 @@ hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e4-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e4-PB.flac
 volume=6
 
 lokey=d#4
@@ -74,7 +74,7 @@ hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g4-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g4-PB.flac
 volume=3
 
 lokey=f#4
@@ -82,7 +82,7 @@ hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#4-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#4-PB.flac
 volume=5
 
 lokey=a4
@@ -90,7 +90,7 @@ hikey=b4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#5-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#5-PB.flac
 volume=4
 
 lokey=c5
@@ -98,7 +98,7 @@ hikey=d5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e5-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e5-PB.flac
 volume=3
 
 lokey=d#5
@@ -106,7 +106,7 @@ hikey=f5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g5-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g5-PB.flac
 volume=5
 
 lokey=f#5
@@ -114,7 +114,7 @@ hikey=g#5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#5-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#5-PB.flac
 volume=8
 
 lokey=a5
@@ -122,7 +122,7 @@ hikey=b5
 pitch_keycenter=a#5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#6-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#6-PB.flac
 volume=5
 
 lokey=c6
@@ -130,7 +130,7 @@ hikey=d6
 pitch_keycenter=c#6
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e6-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e6-PB.flac
 volume=4
 
 lokey=d#6
@@ -138,7 +138,7 @@ hikey=f6
 pitch_keycenter=e6
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g6-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g6-PB.flac
 volume=3
 
 lokey=f#6
@@ -146,7 +146,7 @@ hikey=g#6
 pitch_keycenter=g6
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#6-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#6-PB.flac
 volume=3
 
 lokey=a6
@@ -172,7 +172,7 @@ ampeg_decay=1
 ampeg_vel2decay=10
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g3-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g3-PB.flac
 volume=4
 
 lokey=g3
@@ -180,7 +180,7 @@ hikey=g#3
 pitch_keycenter=g3
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#3-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#3-PB.flac
 volume=4
 
 lokey=a3
@@ -188,7 +188,7 @@ hikey=b3
 pitch_keycenter=a#3
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#4-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#4-PB.flac
 volume=4
 
 lokey=c4
@@ -196,7 +196,7 @@ hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e4-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e4-PB.flac
 volume=5
 
 lokey=d#4
@@ -204,7 +204,7 @@ hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g4-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g4-PB.flac
 volume=3
 
 lokey=f#4
@@ -212,7 +212,7 @@ hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#4-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#4-PB.flac
 volume=3
 
 lokey=a4
@@ -220,7 +220,7 @@ hikey=b4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#5-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#5-PB.flac
 volume=5
 
 lokey=c5
@@ -228,7 +228,7 @@ hikey=d5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e5-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e5-PB.flac
 volume=4
 
 lokey=d#5
@@ -236,7 +236,7 @@ hikey=f5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g5-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g5-PB.flac
 volume=6
 
 lokey=f#5
@@ -244,7 +244,7 @@ hikey=g#5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#5-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#5-PB.flac
 volume=6
 
 lokey=a5
@@ -252,7 +252,7 @@ hikey=b5
 pitch_keycenter=a#5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#6-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#6-PB.flac
 volume=5
 
 lokey=c6
@@ -260,7 +260,7 @@ hikey=d6
 pitch_keycenter=c#6
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e6-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e6-PB.flac
 volume=3
 
 lokey=d#6
@@ -268,7 +268,7 @@ hikey=f6
 pitch_keycenter=e6
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g6-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g6-PB.flac
 volume=4
 
 lokey=f#6
@@ -276,7 +276,7 @@ hikey=g#6
 pitch_keycenter=g6
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#6-PB.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#6-PB.flac
 volume=3
 
 lokey=a6
@@ -318,56 +318,56 @@ ampeg_release=1.9
 ampeg_vel2release=-1.0
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-g3.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-g3.flac
 lokey=g3
 hikey=g#3
 pitch_keycenter=g3
 tune=-10
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-a#3.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-a#3.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-c#4.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-c#4.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-e4.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-e4.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
 tune=-10
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-g4.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-g4.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
 tune=-10
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-a#4.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-a#4.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
 tune=-10
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-c#5.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-c#5.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-e5.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-e5.flac
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
@@ -382,7 +382,7 @@ eq2_bw=1.17
 eq2_gain=-11.5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-g5.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-g5.flac
 volume=2
 lokey=f#5
 hikey=g#5
@@ -398,7 +398,7 @@ eq2_bw=1.17
 eq2_gain=-11.5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-a#5.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-a#5.flac
 volume=3
 lokey=a5
 hikey=b5
@@ -414,7 +414,7 @@ eq2_bw=1.17
 eq2_gain=-11.5
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-c#6.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-c#6.flac
 volume=3
 lokey=c6
 hikey=d6
@@ -430,7 +430,7 @@ eq2_bw=2
 eq2_gain=-11.9
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-e6.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-e6.flac
 volume=2
 lokey=d#6
 hikey=f6
@@ -446,7 +446,7 @@ eq2_bw=2
 eq2_gain=-11.9
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-g6.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-g6.flac
 volume=2
 lokey=f#6
 hikey=g#6
@@ -462,7 +462,7 @@ eq2_bw=2
 eq2_gain=-11.9
 
 <region>
-sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-a#6.wav
+sample=..\libs\SSO\Samples\1st Violins\1st-violins-sus-a#6.flac
 volume=1
 lokey=a6
 hikey=a7

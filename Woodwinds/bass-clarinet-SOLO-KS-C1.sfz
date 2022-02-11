@@ -66,7 +66,7 @@ amplfo_delay=1
 amplfo_fade=0.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.flac
 lokey=a#1
 hikey=d#2
 pitch_keycenter=d2
@@ -74,7 +74,7 @@ tune=19
 volume=3.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.flac
 lokey=e2
 hikey=f#2
 pitch_keycenter=f2
@@ -82,7 +82,7 @@ tune=6
 volume=1
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.flac
 lokey=g2
 hikey=b2
 pitch_keycenter=g#2
@@ -91,7 +91,7 @@ volume=3.5
 // removed b2 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d3-PB-loop.flac
 lokey=c3
 hikey=d#3
 pitch_keycenter=d3
@@ -99,7 +99,7 @@ tune=5
 volume=7
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.flac
 lokey=e3
 hikey=f#3
 pitch_keycenter=f3
@@ -107,14 +107,14 @@ tune=8
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#3-PB-loop.flac
 lokey=g3
 hikey=a3
 pitch_keycenter=g#3
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.flac
 lokey=a#3
 hikey=c4
 pitch_keycenter=b3
@@ -122,7 +122,7 @@ tune=7
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.flac
 lokey=c#4
 hikey=d#4
 pitch_keycenter=d4
@@ -130,7 +130,7 @@ tune=4
 volume=6
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.flac
 lokey=e4
 hikey=g#4
 pitch_keycenter=f4
@@ -138,7 +138,7 @@ tune=1
 volume=9.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.flac
 lokey=a4
 hikey=c5
 pitch_keycenter=b4
@@ -146,7 +146,7 @@ tune=3
 volume=6
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.flac
 lokey=c#5
 hikey=a5
 pitch_keycenter=d5
@@ -212,7 +212,7 @@ amplfo_delay=1
 amplfo_fade=0.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.flac
 lokey=a#1
 hikey=d#2
 pitch_keycenter=d2
@@ -220,7 +220,7 @@ tune=19
 volume=3.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.flac
 lokey=e2
 hikey=f#2
 pitch_keycenter=f2
@@ -228,7 +228,7 @@ tune=6
 volume=1
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.flac
 lokey=g2
 hikey=b2
 pitch_keycenter=g#2
@@ -237,7 +237,7 @@ volume=3.5
 // removed b2 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d3-PB-loop.flac
 lokey=c3
 hikey=d#3
 pitch_keycenter=d3
@@ -245,7 +245,7 @@ tune=5
 volume=7
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.flac
 lokey=e3
 hikey=f#3
 pitch_keycenter=f3
@@ -253,14 +253,14 @@ tune=8
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#3-PB-loop.flac
 lokey=g3
 hikey=a3
 pitch_keycenter=g#3
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.flac
 lokey=a#3
 hikey=c4
 pitch_keycenter=b3
@@ -268,7 +268,7 @@ tune=7
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.flac
 lokey=c#4
 hikey=d#4
 pitch_keycenter=d4
@@ -276,7 +276,7 @@ tune=4
 volume=6
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.flac
 lokey=e4
 hikey=g#4
 pitch_keycenter=f4
@@ -284,7 +284,7 @@ tune=1
 volume=9.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.flac
 lokey=a4
 hikey=c5
 pitch_keycenter=b4
@@ -292,7 +292,7 @@ tune=3
 volume=6
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.flac
 lokey=c#5
 hikey=a5
 pitch_keycenter=d5
@@ -342,7 +342,7 @@ delay_random=0.012
 
 
   <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.flac
 offset=2000
 
 lokey=a#1
@@ -352,7 +352,7 @@ tune=19
 volume=0.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.flac
 offset=2500
 
 lokey=e2
@@ -362,7 +362,7 @@ tune=6
 volume=-1
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.flac
 offset=2500
 
 lokey=g2
@@ -375,7 +375,7 @@ volume=2.5
 // removed d3 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.flac
 offset=1500
 
 lokey=d3
@@ -387,7 +387,7 @@ volume=0
 // removed g#3 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.flac
 offset=250
 
 lokey=a3
@@ -397,7 +397,7 @@ tune=7
 volume=1
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.flac
 offset=500
 
 lokey=c#4
@@ -407,7 +407,7 @@ tune=4
 volume=0
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.flac
 offset=750
 
 lokey=e4
@@ -417,7 +417,7 @@ tune=1
 volume=3.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.flac
 offset=500
 
 lokey=a4
@@ -427,7 +427,7 @@ tune=3
 volume=1
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.flac
 offset=250
 
 lokey=c#5
@@ -489,7 +489,7 @@ delay_random=0.012
 
 
   <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.flac
 offset=2000
 
 lokey=a#1
@@ -499,7 +499,7 @@ tune=19
 volume=7.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.flac
 offset=2500
 
 lokey=e2
@@ -509,7 +509,7 @@ tune=6
 volume=6
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.flac
 offset=2500
 
 lokey=g2
@@ -522,7 +522,7 @@ volume=9.5
 // removed d3 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.flac
 offset=1500
 
 lokey=d3
@@ -534,7 +534,7 @@ volume=7
 // removed g#3 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.flac
 offset=250
 
 lokey=a3
@@ -544,7 +544,7 @@ tune=7
 volume=8
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.flac
 offset=500
 
 lokey=c#4
@@ -554,7 +554,7 @@ tune=4
 volume=7
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.flac
 offset=750
 
 lokey=e4
@@ -564,7 +564,7 @@ tune=1
 volume=10.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.flac
 offset=500
 
 lokey=a4
@@ -574,7 +574,7 @@ tune=3
 volume=8
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.flac
 offset=250
 
 lokey=c#5
@@ -629,7 +629,7 @@ amplfo_delay=1
 amplfo_fade=0.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.flac
 delay=0.05
 
 lokey=a#1
@@ -639,7 +639,7 @@ tune=19
 volume=3.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.flac
 lokey=e2
 hikey=f#2
 pitch_keycenter=f2
@@ -647,7 +647,7 @@ tune=6
 volume=1
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.flac
 lokey=g2
 hikey=b2
 pitch_keycenter=g#2
@@ -656,7 +656,7 @@ volume=3.5
 // removed b2 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d3-PB-loop.flac
 lokey=c3
 hikey=d#3
 pitch_keycenter=d3
@@ -664,7 +664,7 @@ tune=5
 volume=7
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.flac
 lokey=e3
 hikey=f#3
 pitch_keycenter=f3
@@ -672,14 +672,14 @@ tune=8
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#3-PB-loop.flac
 lokey=g3
 hikey=a3
 pitch_keycenter=g#3
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.flac
 lokey=a#3
 hikey=c4
 pitch_keycenter=b3
@@ -687,7 +687,7 @@ tune=7
 volume=4
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.flac
 lokey=c#4
 hikey=d#4
 pitch_keycenter=d4
@@ -695,7 +695,7 @@ tune=4
 volume=6
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.flac
 lokey=e4
 hikey=g#4
 pitch_keycenter=f4
@@ -703,7 +703,7 @@ tune=1
 volume=9.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.flac
 lokey=a4
 hikey=c5
 pitch_keycenter=b4
@@ -711,7 +711,7 @@ tune=3
 volume=6
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.flac
 lokey=c#5
 hikey=a5
 pitch_keycenter=d5
@@ -758,7 +758,7 @@ delay_random=0.012
 
 
   <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.flac
 offset=2000
 
 lokey=a#1
@@ -768,7 +768,7 @@ tune=19
 volume=7.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.flac
 offset=2500
 
 lokey=e2
@@ -778,7 +778,7 @@ tune=6
 volume=6
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.flac
 offset=2500
 
 lokey=g2
@@ -791,7 +791,7 @@ volume=9.5
 // removed d3 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.flac
 offset=1500
 
 lokey=d3
@@ -803,7 +803,7 @@ volume=7
 // removed g#3 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.flac
 offset=250
 
 lokey=a3
@@ -813,7 +813,7 @@ tune=7
 volume=8
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.flac
 offset=500
 
 lokey=c#4
@@ -823,7 +823,7 @@ tune=4
 volume=7
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.flac
 offset=750
 
 lokey=e4
@@ -833,7 +833,7 @@ tune=1
 volume=10.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.flac
 offset=500
 
 lokey=a4
@@ -843,7 +843,7 @@ tune=3
 volume=8
         
 <region>
-sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.flac
 offset=250
 
 lokey=c#5

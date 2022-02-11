@@ -86,14 +86,14 @@ delay_random=0.012
 ampeg_release=0.442
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-f3-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-f3-PB-loop.flac
 volume=-24
 lokey=e3 // extend range (PB)
 hikey=f#3
 pitch_keycenter=f3
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-g#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-g#3-PB-loop.flac
 tune=-5
 volume=-26
 pitchlfo_freq=5.531 // PB
@@ -105,7 +105,7 @@ hikey=a3
 pitch_keycenter=g#3
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-b3-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-b3-PB-loop.flac
 volume=-26
 lokey=a#3
 hikey=c4
@@ -113,7 +113,7 @@ pitch_keycenter=b3
 tune=0
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-d4-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-d4-PB-loop.flac
 volume=-26
 lokey=c#4
 hikey=d#4
@@ -125,7 +125,7 @@ pitchlfo_delay=1
 pitchlfo_fade=1
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-f4-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-f4-PB-loop.flac
 volume=-24.5
 lokey=e4
 hikey=f#4
@@ -133,14 +133,14 @@ pitch_keycenter=f4
 tune=-12
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-g#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-g#4-PB-loop.flac
 volume=-24
 lokey=g4
 hikey=a4
 pitch_keycenter=g#4
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-b4-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-b4-PB-loop.flac
 volume=-24
 lokey=a#4
 hikey=c5
@@ -151,14 +151,14 @@ pitchlfo_delay=1
 pitchlfo_fade=1
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-d5-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-d5-PB-loop.flac
 volume=-24
 lokey=c#5
 hikey=d#5
 pitch_keycenter=d5
 
 <region>
-sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-f5-PB-loop.wav
+sample=..\libs\SSO\Samples\Cor Anglais\cor_anglais-f5-PB-loop.flac
 volume=-21
 lokey=e5
 hikey=a#5 // extend range (PB)
@@ -219,96 +219,96 @@ ampeg_decay=0.06
 ampeg_release=0.6
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/E3-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/E3-stac-PB.flac
 pitch_keycenter=e3
 lokey=e3
 hikey=f#3
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/G#3-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/G#3-stac-PB.flac
 pitch_keycenter=g#3
 lokey=g3
 hikey=a3
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/A#3-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/A#3-stac-PB.flac
 pitch_keycenter=a#3
 lokey=a#3
 hikey=d4
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/F4-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/F4-stac-PB.flac
 pitch_keycenter=f4
 lokey=d#4
 hikey=f4
 volume=-33
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/F#4-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/F#4-stac-PB.flac
 pitch_keycenter=f#4
 lokey=f#4
 hikey=f#4
 volume=-32
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/G4-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/G4-stac-PB.flac
 pitch_keycenter=g4
 lokey=g4
 hikey=a4
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/A#4-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/A#4-stac-PB.flac
 pitch_keycenter=a#4
 lokey=a#4
 hikey=c5
 volume=-34.5
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/D5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/D5-stac-PB.flac
 pitch_keycenter=d5
 lokey=c#5
 hikey=d5
 volume=-33.5
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/D#5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/D#5-stac-PB.flac
 pitch_keycenter=d#5
 lokey=d#5
 hikey=e5
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/F5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/F5-stac-PB.flac
 pitch_keycenter=f5
 lokey=f5
 hikey=f5
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/F#5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/F#5-stac-PB.flac
 pitch_keycenter=f#5
 lokey=f#5
 hikey=f#5
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/G5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/G5-stac-PB.flac
 pitch_keycenter=g5
 lokey=g5
 hikey=g#5
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/A5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/A5-stac-PB.flac
 pitch_keycenter=a5
 lokey=a5
 hikey=a5
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/B5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/B5-stac-PB.flac
 pitch_keycenter=b5
 lokey=a#5
 hikey=a#5
@@ -374,96 +374,96 @@ ampeg_decay=0.06
 ampeg_release=0.6
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/E3-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/E3-stac-PB.flac
 pitch_keycenter=e3
 lokey=e3
 hikey=f#3
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/G#3-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/G#3-stac-PB.flac
 pitch_keycenter=g#3
 lokey=g3
 hikey=a3
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/A#3-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/A#3-stac-PB.flac
 pitch_keycenter=a#3
 lokey=a#3
 hikey=d4
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/F4-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/F4-stac-PB.flac
 pitch_keycenter=f4
 lokey=d#4
 hikey=f4
 volume=-33
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/F#4-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/F#4-stac-PB.flac
 pitch_keycenter=f#4
 lokey=f#4
 hikey=f#4
 volume=-32
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/G4-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/G4-stac-PB.flac
 pitch_keycenter=g4
 lokey=g4
 hikey=a4
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/A#4-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/A#4-stac-PB.flac
 pitch_keycenter=a#4
 lokey=a#4
 hikey=c5
 volume=-34.5
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/D5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/D5-stac-PB.flac
 pitch_keycenter=d5
 lokey=c#5
 hikey=d5
 volume=-33.5
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/D#5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/D#5-stac-PB.flac
 pitch_keycenter=d#5
 lokey=d#5
 hikey=e5
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/F5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/F5-stac-PB.flac
 pitch_keycenter=f5
 lokey=f5
 hikey=f5
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/F#5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/F#5-stac-PB.flac
 pitch_keycenter=f#5
 lokey=f#5
 hikey=f#5
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/G5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/G5-stac-PB.flac
 pitch_keycenter=g5
 lokey=g5
 hikey=g#5
 volume=-34
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/A5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/A5-stac-PB.flac
 pitch_keycenter=a5
 lokey=a5
 hikey=a5
 
 <region>
-sample=..\libs\Philharmonia\Samples/English-Horn/B5-stac-PB.wav
+sample=..\libs\Philharmonia\Samples/English-Horn/B5-stac-PB.flac
 pitch_keycenter=b5
 lokey=a#5
 hikey=a#5

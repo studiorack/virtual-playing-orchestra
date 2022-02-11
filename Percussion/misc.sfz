@@ -23,7 +23,7 @@ transpose=4
 
 <region>
 key=g2
-sample=../libs/Other/Samples/Percussion/PB/triangle-roll-PB.wav
+sample=../libs/Other/Samples/Percussion/PB/triangle-roll-PB.flac
 
 // ---------- triangle mute (higher pitch) ------------
 <group>
@@ -35,7 +35,7 @@ transpose=4
 <region>
 key=g#2
 loop_mode=one_shot
-sample=../libs/Other/Samples/Percussion/NBO/triangle_m-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/triangle_m-PB.flac
 
 // ---------- triangle open (higher pitch) ------------
 // --- RR1
@@ -51,14 +51,14 @@ off_by=80
 transpose=4
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr1_Sum-PB.flac
 key=a2
 lovel=0
 hivel=79
 volume=37
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr1_Sum-PB.flac
 key=a2
 lovel=80
 hivel=127
@@ -78,14 +78,14 @@ off_by=80
 transpose=4
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr2_Sum-PB.flac
 key=a2
 lovel=0
 hivel=79
 volume=37
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr2_Sum-PB.flac
 key=a2
 lovel=80
 hivel=127
@@ -98,7 +98,7 @@ amp_random=1 // randomize like a real player (PB)
 
 // ----------- gong -----------
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/gongHit_f-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/gongHit_f-PB.flac
 key=a#2
 xfout_lovel=54
 xfout_hivel=104
@@ -106,7 +106,7 @@ ampeg_release=6
 volume=8
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/gongHit_fff-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/gongHit_fff-PB.flac
 key=a#2
 xfin_lovel=54
 xfin_hivel=104
@@ -115,28 +115,28 @@ volume=7
 
 // ---------- tam tam -------------
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/tamtam-a-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/tamtam-a-PB.flac
 key=b2
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/tamtam-b-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/tamtam-b-PB.flac
 key=c3
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/tamtam-c-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/tamtam-c-PB.flac
 key=c#3
 loop_mode=one_shot
 
 // ---------- finger cymbals ------------
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/finger_cymbal-hi-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/finger_cymbal-hi-PB.flac
 key=d#3
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/finger_cymbal-lo-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/finger_cymbal-lo-PB.flac
 key=e3
 loop_mode=one_shot
 
@@ -151,7 +151,7 @@ group_label=tamb-shake-1
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Shake_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Shake_v1_rr1_Sum-PB.flac
 key=f3
 volume=26
 
@@ -165,7 +165,7 @@ group_label=tamb-shake-2
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Shake_v1_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Shake_v1_rr2_Sum-PB.flac
 key=f3
 volume=26
 
@@ -180,14 +180,14 @@ group_label=tamb-hit-1
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v1_rr1_Sum-PB.flac
 key=f#3
 xfout_lovel=54
 xfout_hivel=104
 volume=33
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v2_rr1_Sum-PB.flac
 key=f#3
 xfin_lovel=54
 xfin_hivel=104
@@ -203,14 +203,14 @@ group_label=tamb-hit-2
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v1_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v1_rr2_Sum-PB.flac
 key=f#3
 xfout_lovel=54
 xfout_hivel=104
 volume=33
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v2_rr2_Sum-PB.flac
 key=f#3
 xfin_lovel=54
 xfin_hivel=104
@@ -221,7 +221,7 @@ volume=19
 amp_random=1 // randomize like a real player (PB)
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Roll_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Roll_v2_rr1_Sum-PB.flac
 ampeg_release=0.3
 key=g3
 xfout_lovel=54
@@ -229,7 +229,7 @@ xfout_hivel=104
 volume=26
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Roll_v3_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Roll_v3_rr1_Sum-PB.flac
 ampeg_release=0.3
 key=g3
 xfin_lovel=54
@@ -247,14 +247,14 @@ group_label=cowbell-rr1
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v2_rr1_Sum-PB.flac
 key=g#3
 xfout_lovel=54
 xfout_hivel=104
 volume=18
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v4_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v4_rr1_Sum-PB.flac
 key=g#3
 xfin_lovel=54
 xfin_hivel=104
@@ -270,14 +270,14 @@ group_label=cowbell-rr2
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v2_rr2_Sum-PB.flac
 key=g#3
 xfout_lovel=54
 xfout_hivel=104
 volume=18
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v4_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v4_rr2_Sum-PB.flac
 key=g#3
 xfin_lovel=54
 xfin_hivel=104
@@ -291,7 +291,7 @@ amp_random=1 // randomize like a real player (PB)
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/vibraslap-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/vibraslap-PB.flac
 key=a#3
 
 
@@ -306,14 +306,14 @@ group_label=quinto-hit-rr1
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v2_rr1_Sum-PB.flac
 key=c4
 xfout_lovel=54
 xfout_hivel=104
 volume=14
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v3_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v3_rr1_Sum-PB.flac
 key=c4
 xfin_lovel=54
 xfin_hivel=104
@@ -329,14 +329,14 @@ group_label=quinto-hit-rr2
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v2_rr2_Sum-PB.flac
 key=c4
 xfout_lovel=54
 xfout_hivel=104
 volume=14
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v3_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v3_rr2_Sum-PB.flac
 key=c4
 xfin_lovel=54
 xfin_hivel=104
@@ -353,7 +353,7 @@ group_label=quinto-tap-rr1
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-Tap1_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-Tap1_v1_rr1_Sum-PB.flac
 key=c#4
 volume=35
 
@@ -367,7 +367,7 @@ group_label=quinto-tap-rr2
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-Tap1_v1_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-Tap1_v1_rr2_Sum-PB.flac
 key=c#4
 volume=35
 
@@ -381,14 +381,14 @@ seq_length=2
 group_label=conga-hit-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v2_rr1_Sum-PB.flac
 key=d4
 xfout_lovel=54
 xfout_hivel=104
 volume=14
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v3_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v3_rr1_Sum-PB.flac
 key=d4
 xfin_lovel=54
 xfin_hivel=104
@@ -404,14 +404,14 @@ seq_length=2
 group_label=conga-hit-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v2_rr2_Sum-PB.flac
 key=d4
 xfout_lovel=54
 xfout_hivel=104
 volume=14
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v3_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v3_rr2_Sum-PB.flac
 key=d4
 xfin_lovel=54
 xfin_hivel=104
@@ -428,7 +428,7 @@ seq_length=2
 group_label=conga-tap-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-Tap1_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-Tap1_v1_rr1_Sum-PB.flac
 key=d#4
 volume=31
 
@@ -441,7 +441,7 @@ seq_length=2
 group_label=conga-tap-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-Tap1_v1_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Conga-Tap1_v1_rr2_Sum-PB.flac
 key=d#4
 volume=27
 
@@ -456,14 +456,14 @@ seq_length=2
 group_label=tumba-hit-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v2_rr1_Sum-PB.flac
 key=e4
 xfout_lovel=54
 xfout_hivel=104
 volume=20
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v3_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v3_rr1_Sum-PB.flac
 key=e4
 xfin_lovel=54
 xfin_hivel=104
@@ -479,14 +479,14 @@ seq_length=2
 group_label=tumba-hit-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v2_rr2_Sum-PB.flac
 key=e4
 xfout_lovel=54
 xfout_hivel=104
 volume=20
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v3_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v3_rr2_Sum-PB.flac
 key=e4
 xfin_lovel=54
 xfin_hivel=104
@@ -503,7 +503,7 @@ seq_length=2
 group_label=tumba-tap-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-Tap1_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-Tap1_v1_rr1_Sum-PB.flac
 key=f4
 volume=45
 
@@ -516,7 +516,7 @@ seq_length=2
 group_label=tumba-tap-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-Tap1_v1_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-Tap1_v1_rr2_Sum-PB.flac
 key=f4
 volume=38
 
@@ -529,19 +529,19 @@ key=a4
 seq_length=4
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/CabasaDown-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/CabasaDown-PB.flac
 seq_position=1
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/CabasaUp-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/CabasaUp-PB.flac
 seq_position=2
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/CabasaDown2-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/CabasaDown2-PB.flac
 seq_position=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/CabasaUp2-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/CabasaUp2-PB.flac
 seq_position=4
 
 // ---------- shaker ------------
@@ -552,12 +552,12 @@ loop_mode=one_shot
 seq_length=2
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/shake_1-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/shake_1-PB.flac
 key=a#4
 seq_position=1
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/shake_2-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/shake_2-PB.flac
 key=a#4
 seq_position=2
 
@@ -571,13 +571,13 @@ loop_mode=one_shot
 seq_length=2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Crank_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Crank_v1_rr1_Sum-PB.flac
 key=b4
 volume=24
 seq_position=1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Crank_v1_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Crank_v1_rr2_Sum-PB.flac
 key=b4
 volume=22
 seq_position=2
@@ -588,14 +588,14 @@ seq_position=2
 amp_random=1 // randomize like a real player (PB)
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Fast_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Fast_v1_rr1_Sum-PB.flac
 ampeg_release=0.3
 key=c5
 volume=15
 
 // ---------- ratchet slow ------------
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Slow_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Slow_v1_rr1_Sum-PB.flac
 ampeg_release=0.3
 key=c#5
 volume=21
@@ -612,12 +612,12 @@ loop_mode=one_shot
 key=d5
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/castanets_mf1-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/castanets_mf1-PB.flac
 lovel=0
 hivel=79
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/castanets_f2-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/castanets_f2-PB.flac
 lovel=80
 hivel=127
 
@@ -632,12 +632,12 @@ loop_mode=one_shot
 key=d5
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/castanets_mf2-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/castanets_mf2-PB.flac
 lovel=0
 hivel=79
 
 <region>
-sample=../libs/Other/Samples/Percussion/NBO/castanets_f3-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/castanets_f3-PB.flac
 lovel=80
 hivel=127
 
@@ -652,14 +652,14 @@ seq_position=1
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v2_rr1_Sum-PB.flac
 key=d#5
 lovel=0
 hivel=79
 volume=18
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v3_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v3_rr1_Sum-PB.flac
 key=d#5
 lovel=80
 hivel=127
@@ -675,14 +675,14 @@ seq_position=2
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v2_rr2_Sum-PB.flac
 key=d#5
 lovel=0
 hivel=79
 volume=18
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v3_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v3_rr2_Sum-PB.flac
 key=d#5
 lovel=80
 hivel=127
@@ -695,12 +695,12 @@ amp_random=1 // randomize like a real player (PB)
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/wood_block-lo-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/wood_block-lo-PB.flac
 key=e5
 volume=2
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/wood_block-hi-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/wood_block-hi-PB.flac
 key=f5
 volume=2
 
@@ -716,7 +716,7 @@ ampeg_release=0.75
 
 <region>
 key=g5
-sample=../libs/Other/Samples/Percussion/PB/triangle-roll-PB.wav
+sample=../libs/Other/Samples/Percussion/PB/triangle-roll-PB.flac
 
 // ---------- triangle mute ------------
 <group>
@@ -727,7 +727,7 @@ group=80
 <region>
 key=g#5
 loop_mode=one_shot
-sample=../libs/Other/Samples/Percussion/NBO/triangle_m-PB.wav
+sample=../libs/Other/Samples/Percussion/NBO/triangle_m-PB.flac
 
 // ---------- triangle open ------------
 // --- RR1
@@ -742,14 +742,14 @@ group=81
 off_by=80
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr1_Sum-PB.flac
 key=a5
 lovel=0
 hivel=79
 volume=37
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr1_Sum-PB.flac
 key=a5
 lovel=80
 hivel=127
@@ -768,14 +768,14 @@ group=81
 off_by=80
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr2_Sum-PB.flac
 key=a5
 lovel=0
 hivel=79
 volume=37
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr2_Sum-PB.flac
 key=a5
 lovel=80
 hivel=127
@@ -792,7 +792,7 @@ seq_position=1
 ampeg_release=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Sleighbells_Hit_v1_rr1_Mid-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Sleighbells_Hit_v1_rr1_Mid-PB.flac
 key=a#5
 volume=23
 
@@ -806,7 +806,7 @@ seq_position=2
 ampeg_release=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Sleighbells_Hit_v1_rr2_Mid-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Sleighbells_Hit_v1_rr2_Mid-PB.flac
 key=a#5
 volume=23
 
@@ -817,22 +817,22 @@ amp_random=1 // randomize like a real player (PB)
 ampeg_release=6
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke1_v1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke1_v1_Sum-PB.flac
 key=c6
 volume=40
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke2_v1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke2_v1_Sum-PB.flac
 key=c#6
 volume=35
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke3_v1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke3_v1_Sum-PB.flac
 key=d6
 volume=27
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke4_v1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke4_v1_Sum-PB.flac
 key=d#6
 volume=38
 
@@ -842,7 +842,7 @@ amp_random=1 // randomize like a real player (PB)
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/bell_tree-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/bell_tree-PB.flac
 key=e6
 volume=3
 
@@ -853,17 +853,17 @@ amp_random=1 // randomize like a real player (PB)
 ampeg_release=2
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/bar_chimes-a-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/bar_chimes-a-PB.flac
 key=f6
 volume=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/bar_chimes-b-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/bar_chimes-b-PB.flac
 key=f#6
 volume=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/bar_chimes-c-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/bar_chimes-c-PB.flac
 key=g6
 volume=3
 

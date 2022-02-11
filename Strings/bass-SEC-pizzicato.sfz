@@ -28,7 +28,7 @@ ampeg_decay=2.5
 ampeg_vel2decay=10
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-c1-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-c1-PB.flac
 volume=4
 pan=0
 tune=-5
@@ -37,10 +37,10 @@ lokey=c1
 hikey=e1
 pitch_keycenter=c1
 
-// removed basses-piz-rr2-d#1-PB.wav (PB)
+// removed basses-piz-rr2-d#1-PB.flac (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr2-f#1-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr2-f#1-PB.flac
 volume=4
 pan=0
 transpose=-1
@@ -50,7 +50,7 @@ hikey=g1
 pitch_keycenter=f#1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-a1-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-a1-PB.flac
 volume=4
 pan=0
 
@@ -59,7 +59,7 @@ hikey=a#1
 pitch_keycenter=a1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr2-c2-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr2-c2-PB.flac
 volume=4
 transpose=-1
 
@@ -68,7 +68,7 @@ hikey=c#2
 pitch_keycenter=c2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-d#2-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-d#2-PB.flac
 volume=4
 pan=5
 
@@ -77,7 +77,7 @@ hikey=e2
 pitch_keycenter=d#2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr2-f#2-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr2-f#2-PB.flac
 volume=5
 pan=0
 transpose=-1
@@ -87,7 +87,7 @@ hikey=g2
 pitch_keycenter=f#2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-a2-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-a2-PB.flac
 volume=4
 pan=-5
 
@@ -96,7 +96,7 @@ hikey=a#2
 pitch_keycenter=a2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-c3-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-c3-PB.flac
 volume=4
 pan=0
 
@@ -105,7 +105,7 @@ hikey=c#3
 pitch_keycenter=c3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-d#3-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-d#3-PB.flac
 volume=4
 pan=0
 
@@ -114,7 +114,7 @@ hikey=e3
 pitch_keycenter=d#3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-f#3-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-f#3-PB.flac
 volume=4
 pan=0
 
@@ -123,7 +123,7 @@ hikey=g3
 pitch_keycenter=f#3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr2-a3-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr2-a3-PB.flac
 volume=4
 pan=-5
 transpose=-1
@@ -133,7 +133,7 @@ hikey=a#3
 pitch_keycenter=a3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-c4-PB.wav
+sample=..\libs\SSO\Samples\Basses\basses-piz-rr1-c4-PB.flac
 volume=4
 pan=0
 

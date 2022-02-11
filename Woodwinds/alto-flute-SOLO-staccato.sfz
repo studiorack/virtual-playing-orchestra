@@ -27,7 +27,7 @@ delay_random=0.012
 volume=6.5
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#3-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#3-PB-loop.flac
 offset=1000
 
 pitch_keycenter=a#3
@@ -37,7 +37,7 @@ tune=14
 volume=5
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C#4-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C#4-PB-loop.flac
 offset=500
 
 pitch_keycenter=c#4
@@ -47,7 +47,7 @@ tune=10
 volume=4
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E4-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E4-PB-loop.flac
 offset=100
 
 pitch_keycenter=e4
@@ -57,7 +57,7 @@ tune=-5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F4-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F4-PB-loop.flac
 offset=0
 
 pitch_keycenter=f4
@@ -69,7 +69,7 @@ volume=4.5
 // removed f#4 (PB)
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G4-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G4-PB-loop.flac
 offset=250
 
 pitch_keycenter=g4
@@ -79,7 +79,7 @@ tune=-5
 volume=4.5
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G#4-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G#4-PB-loop.flac
 offset=0
 
 pitch_keycenter=g#4
@@ -89,7 +89,7 @@ tune=-15
 volume=4
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A4-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A4-PB-loop.flac
 offset=0
 
 pitch_keycenter=a4
@@ -99,7 +99,7 @@ tune=15
 volume=4
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#4-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#4-PB-loop.flac
 offset=0
 
 pitch_keycenter=a#4
@@ -108,7 +108,7 @@ hikey=b4
 volume=5.5
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C5-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C5-PB-loop.flac
 volume=3
 offset=0
 
@@ -120,7 +120,7 @@ tune=16
 // removed C#5 (PB)
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D5-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D5-PB-loop.flac
 offset=500
 
 pitch_keycenter=d5
@@ -129,7 +129,7 @@ hikey=d#5
 volume=0.5
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E5-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E5-PB-loop.flac
 offset=0
 
 pitch_keycenter=e5
@@ -139,7 +139,7 @@ tune=-15
 volume=1.5
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#5-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#5-PB-loop.flac
 pitch_keycenter=f#5
 lokey=f#5
 hikey=a5
@@ -149,7 +149,7 @@ volume=4
 // removed G#5 (PB)
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C6-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C6-PB-loop.flac
 offset=0
 
 pitch_keycenter=c6
@@ -165,7 +165,7 @@ volume=6.5
 
 offset=500
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D#6-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D#6-PB-loop.flac
 pitch_keycenter=d#6
 lokey=d6
 hikey=f6
@@ -175,7 +175,7 @@ volume=5
 // removed F6 (PB)
 
 <region>
-sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#6-PB-loop.wav
+sample=..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#6-PB-loop.flac
 offset=500
 
 pitch_keycenter=f#6

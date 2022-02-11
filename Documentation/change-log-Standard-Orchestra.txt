@@ -12,8 +12,8 @@ Version 3.2.1 - Apr 13 2020
 ---------------------------
 * IMPROVED
 - adjusted pitch of Flute SEC Sustain g5-f6
-- e3 sounded like it had too much vibrato for some reason so now 3_Bb-PB-loop.wav
-is used to play e3 instead of 3_Db-PB-loop.wav
+- e3 sounded like it had too much vibrato for some reason so now 3_Bb-PB-loop.flac
+is used to play e3 instead of 3_Db-PB-loop.flac
 - cello sus, e3 is now 
 - randomization of stacc and sus patches is now consistently 
 this
@@ -60,8 +60,8 @@ These were accidentally omitted since 3.0
 triggered by which notes
 - cello SEC staccato, improved a few notes by shifting which samples were
 triggered by which notes
-- cello SEC, removed sample SEC 3_E-PB-loop.wav, note sounded weak when 
-compared to others, stretched 3_Db-PB-loop.wav instead
+- cello SEC, removed sample SEC 3_E-PB-loop.flac, note sounded weak when 
+compared to others, stretched 3_Db-PB-loop.flac instead
 - cello SOLO sustain, removed extra vibrato
 - cello SOLO sustain, adjusted key mapping for a few notes to improve 
    sustained vibrato (vibrato becomes too fast if low notes stretched too high)
@@ -175,7 +175,7 @@ Version 3.0 - Feb 10, 2018
    to right and left hand hits
 
 * MOVED
-- all samples (.wav files) are now in a separate samples release file
+- all samples (.flac files) are now in a separate samples release file
 - change log for all percussion and patches other that woodwinds, strings and
 brass now appear in a different change log file "change-log-Other.txt"
 
@@ -254,7 +254,7 @@ Version 2.0 - Mar 20 2017
 - timpani samples
 
 * BUGS FIXED
-- Trombone-sus.mf.F#2-PB.wav was not mapped to cover G2
+- Trombone-sus.mf.F#2-PB.flac was not mapped to cover G2
 - removed vibrato on solo clarinets (vibrato not typically used
    by clarinets in an orchestra)
 - fixed bug in flute-SOLO-accent.sfz where delay was set to a negative number
@@ -264,7 +264,7 @@ Version 2.0 - Mar 20 2017
 
 * IMPROVED
 [ Woodwinds ]
-- removed a squeak sound from the the 6-Ab.wav in flute-SEC-sustain.sfz
+- removed a squeak sound from the the 6-Ab.flac in flute-SEC-sustain.sfz
   (also affects anything derived from flute-SEC-sustain.sfz)
 - adjusted tuning on a few notes from bassoon-SEC-sustain.sfz
 - improved some notes in oboe-SOLO-accent.sfz
@@ -277,8 +277,8 @@ Version 2.0 - Mar 20 2017
 [ Strings ]
 - added noise reduction to upper notes in 1st-violin-SEC-sustain.sfz
 - added noise reduction to upper notes in viola-SEC-sustain.sfz
-- converted all .wav samples in 1st-violin-SEC-sustain.sfz to mono
-   (was always playing back as mono but .wav files were still in stereo)
+- converted all .flac samples in 1st-violin-SEC-sustain.sfz to mono
+   (was always playing back as mono but .flac files were still in stereo)
 - adjusted tuning on solo and section bass sustain
 - removed delay before each harp note
 - reduced noise (a hissing sound) on harp D2, F2
@@ -297,7 +297,7 @@ Version 2.0 - Mar 20 2017
   Trombone-SEC-sustain, Trombone-SOLO-sustain so that loud samples begin
   playing at a higher velocity. This makes playing soft passages easier
   while still being able to play loud when needed
-- re-looped Trombone-SEC-sustain Eb_p.wav sample
+- re-looped Trombone-SEC-sustain Eb_p.flac sample
 - slightly reduced volume of tuba SOLO staccato C2, C#2, D2
 
 [ Vocals ]
@@ -422,8 +422,8 @@ Version 0.4 patch - Oct 25 2016
 
 Version 0.3 patch - Oct 17 2016
 -------------------------------
-  - renamed 2nd-violins-piz-rr2-g3-pb.wav to
-            2nd-violins-piz-rr2-g3-PB.wav
+  - renamed 2nd-violins-piz-rr2-g3-pb.flac to
+            2nd-violins-piz-rr2-g3-PB.flac
   - deleted Strings-1st-violin-SEC-staccato-fix.sfz
   - deleted Strings-1st-violin-SOLO-sustain2.sfz
   - deleted Strings-1st-violin-SOLO-sustain-SSO.sfz

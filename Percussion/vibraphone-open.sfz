@@ -38,151 +38,151 @@ ampeg_release=0.5
 loop_mode=one_shot
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.flac
 lokey=f3
 hikey=f#3
 pitch_keycenter=f3
 volume=2
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G3.flac
 lokey=g3
 hikey=g#3
 pitch_keycenter=g3
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A3.flac
 lokey=a3
 hikey=a#3
 pitch_keycenter=a3
 volume=3
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B3.flac
 lokey=b3
 hikey=b3
 pitch_keycenter=b3
 volume=0
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C4.flac
 lokey=c4
 hikey=c#4
 pitch_keycenter=c4
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D4.flac
 lokey=d4
 hikey=d#4
 pitch_keycenter=d4
 volume=-1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E4.flac
 lokey=e4
 hikey=e4
 pitch_keycenter=e4
 volume=-1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F4.flac
 lokey=f4
 hikey=f#4
 pitch_keycenter=f4
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G4.flac
 lokey=g4
 hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A4.flac
 lokey=a4
 hikey=a#4
 pitch_keycenter=a4
 volume=2
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B4.flac
 lokey=b4
 hikey=b4
 pitch_keycenter=b4
 volume=2
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C5.flac
 lokey=c5
 hikey=c#5
 pitch_keycenter=c5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D5.flac
 lokey=d5
 hikey=d#5
 pitch_keycenter=d5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E5.flac
 lokey=e5
 hikey=e5
 pitch_keycenter=e5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F5.flac
 lokey=f5
 hikey=f#5
 pitch_keycenter=f5
 volume=0
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G5.flac
 lokey=g5
 hikey=g#5
 pitch_keycenter=g5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A5.flac
 lokey=a5
 hikey=a#5
 pitch_keycenter=a5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B5.flac
 lokey=b5
 hikey=b5
 pitch_keycenter=b5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C6.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C6.flac
 lokey=c6
 hikey=c#6
 pitch_keycenter=c6
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D6.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D6.flac
 lokey=d6
 hikey=d#6
 pitch_keycenter=d6
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E6.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E6.flac
 lokey=e6
 hikey=e6
 pitch_keycenter=e6
 volume=2
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F6.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F6.flac
 lokey=f6
 hikey=f6
 pitch_keycenter=f6
@@ -206,151 +206,151 @@ ampeg_release=0.5
 loop_mode=one_shot
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.flac
 lokey=g3
 hikey=g#3
 pitch_keycenter=f3
 volume=2
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G3.flac
 lokey=f3
 hikey=f#3
 pitch_keycenter=g3
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A3.flac
 lokey=b3
 hikey=b3
 pitch_keycenter=a3
 volume=3
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B3.flac
 lokey=a3
 hikey=a#3
 pitch_keycenter=b3
 volume=0
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C4.flac
 lokey=d4
 hikey=d#4
 pitch_keycenter=c4
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D4.flac
 lokey=c4
 hikey=c#4
 pitch_keycenter=d4
 volume=-1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E4.flac
 lokey=f4
 hikey=f#4
 pitch_keycenter=e4
 volume=-1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F4.flac
 lokey=e4
 hikey=e4
 pitch_keycenter=f4
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G4.flac
 lokey=a4
 hikey=a#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A4.flac
 lokey=g4
 hikey=g#4
 pitch_keycenter=a4
 volume=2
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B4.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B4.flac
 lokey=c5
 hikey=c#5
 pitch_keycenter=b4
 volume=2
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C5.flac
 lokey=b4
 hikey=b4
 pitch_keycenter=c5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D5.flac
 lokey=e5
 hikey=e5
 pitch_keycenter=d5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E5.flac
 lokey=d5
 hikey=d#5
 pitch_keycenter=e5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F5.flac
 lokey=g5
 hikey=g#5
 pitch_keycenter=f5
 volume=0
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G5.flac
 lokey=f5
 hikey=f#5
 pitch_keycenter=g5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A5.flac
 lokey=b5
 hikey=b5
 pitch_keycenter=a5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B5.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B5.flac
 lokey=a5
 hikey=a#5
 pitch_keycenter=b5
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C6.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C6.flac
 lokey=d6
 hikey=d#6
 pitch_keycenter=c6
 volume=1
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D6.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D6.flac
 lokey=c6
 hikey=c#6
 pitch_keycenter=d6
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E6.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E6.flac
 lokey=f6
 hikey=f6
 pitch_keycenter=e6
 volume=2
 
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F6.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F6.flac
 lokey=e6
 hikey=e6
 pitch_keycenter=f6
@@ -363,5 +363,5 @@ group=3
 key=e2
 volume=-144 // silence
 <region>
-sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.wav
+sample=..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.flac
 

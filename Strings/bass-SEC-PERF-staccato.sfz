@@ -56,7 +56,7 @@ fil_type=lpf_2p
 cutoff=1000
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-c1.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-c1.flac
 volume=-35
 pan=5
 
@@ -65,7 +65,7 @@ hikey=c#1
 pitch_keycenter=c1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-d#1.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-d#1.flac
 volume=-37
 pan=0
 
@@ -74,7 +74,7 @@ hikey=e1
 pitch_keycenter=d#1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-f#1.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-f#1.flac
 volume=-36
 pan=5
 
@@ -83,7 +83,7 @@ hikey=g1
 pitch_keycenter=f#1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-a1.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-a1.flac
 volume=-35
 pan=0
 
@@ -92,7 +92,7 @@ hikey=a#1
 pitch_keycenter=a1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-c2.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-c2.flac
 volume=-37
 
 lokey=b1
@@ -100,7 +100,7 @@ hikey=c#2
 pitch_keycenter=c2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-d#2.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-d#2.flac
 volume=-37
 pan=0
 
@@ -109,19 +109,19 @@ hikey=g2
 pitch_keycenter=d#2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-f#2.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-f#2.flac
 lokey=f2
 hikey=g2
 pitch_keycenter=f#2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-a2.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-a2.flac
 lokey=g#2
 hikey=a#2
 pitch_keycenter=a2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-c3.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-c3.flac
 volume=-37
 pan=-5
 
@@ -130,7 +130,7 @@ hikey=c#3
 pitch_keycenter=c3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-d#3.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-d#3.flac
 volume=-37
 pan=-5
 
@@ -139,7 +139,7 @@ hikey=e3
 pitch_keycenter=d#3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-f#3.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-f#3.flac
 volume=-36
 pan=5
 tune=-10
@@ -149,7 +149,7 @@ hikey=g3
 pitch_keycenter=f#3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-a3.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-a3.flac
 volume=-36
 pan=3
 
@@ -158,7 +158,7 @@ hikey=a#3
 pitch_keycenter=a3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-c4.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr1-c4.flac
 volume=-37
 pan=0
 
@@ -196,7 +196,7 @@ ampeg_decay=1.5
 ampeg_vel2decay=10
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-c1.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-c1.flac
 volume=-37
 pan=5
 
@@ -205,7 +205,7 @@ hikey=c#1
 pitch_keycenter=c1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-d#1.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-d#1.flac
 volume=-38
 pan=0
 
@@ -214,7 +214,7 @@ hikey=e1
 pitch_keycenter=d#1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-f#1.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-f#1.flac
 volume=-37
 
 lokey=f1
@@ -222,7 +222,7 @@ hikey=g1
 pitch_keycenter=f#1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-a1.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-a1.flac
 volume=-37
 pan=0
 
@@ -231,7 +231,7 @@ hikey=a#1
 pitch_keycenter=a1
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-c2.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-c2.flac
 volume=-37
 pan=0
 
@@ -240,7 +240,7 @@ hikey=c#2
 pitch_keycenter=c2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-d#2.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-d#2.flac
 volume=-38
 pan=0
 
@@ -249,19 +249,19 @@ hikey=g2
 pitch_keycenter=d#2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-f#2.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-f#2.flac
 lokey=f2
 hikey=g2
 pitch_keycenter=f#2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-a2.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-a2.flac
 lokey=g#2
 hikey=a#2
 pitch_keycenter=a2
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-c3.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-c3.flac
 volume=-38
 pan=5
 
@@ -270,7 +270,7 @@ hikey=c#3
 pitch_keycenter=c3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-d#3.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-d#3.flac
 volume=-38
 pan=-5
 tune=-5
@@ -280,7 +280,7 @@ hikey=e3
 pitch_keycenter=d#3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-f#3.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-f#3.flac
 volume=-37
 pan=-5
 tune=-5
@@ -290,7 +290,7 @@ hikey=g3
 pitch_keycenter=f#3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-a3.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-a3.flac
 volume=-37
 pan=0
 
@@ -299,7 +299,7 @@ hikey=a#3
 pitch_keycenter=a3
 
 <region>
-sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-c4.wav
+sample=..\libs\SSO\Samples\Basses\basses-stc-rr2-c4.flac
 volume=-37
 pan=0
 

@@ -83,7 +83,7 @@ fil_type=lpf_2p
 cutoff=5000
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#3-PB-loop.flac
 volume=-38
 
 lokey=a#3
@@ -92,7 +92,7 @@ pitch_keycenter=a#3
 tune=-8
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c#4-PB-loop.flac
 
 volume=-37
 
@@ -102,7 +102,7 @@ pitch_keycenter=c#4
 tune=-9
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-e4-PB-loop.flac
 volume=-37.5
 
 lokey=d#4
@@ -111,7 +111,7 @@ pitch_keycenter=e4
 tune=-14
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-g4-PB-loop.flac
 volume=-34
 
 lokey=f#4
@@ -120,7 +120,7 @@ pitch_keycenter=g4
 tune=-10
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#4-PB-loop.flac
 volume=-35.5
 
 lokey=a4
@@ -129,7 +129,7 @@ pitch_keycenter=a#4
 tune=-5
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c#5-PB-loop.flac
 volume=-33
 
 lokey=c5
@@ -137,10 +137,10 @@ hikey=e5 // extend to replace bad sample e5 (PB)
 pitch_keycenter=c#5
 
 
-// removed oboe-e5-PB-loop.wav (PB)
+// removed oboe-e5-PB-loop.flac (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-g5-PB-loop.flac
 volume=-36.5
 
 lokey=f5
@@ -149,7 +149,7 @@ pitch_keycenter=g5
 tune=-20
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-a#5-PB-loop.flac
 volume=-38
 
 lokey=a5
@@ -158,7 +158,7 @@ pitch_keycenter=a#5
 tune=-22
 
 <region>
-sample=..\libs\SSO\Samples\Oboe\oboe-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboe\oboe-c6-PB-loop.flac
 volume=-36.5
 
 lokey=c6

@@ -53,44 +53,44 @@ ampeg_attack=0.6
 
 
 // removed control, doesn't work when merged with other files (PB)
-<region> lokey=c2 hikey=d2 pitch_keycenter=c#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.wav
+<region> lokey=c2 hikey=d2 pitch_keycenter=c#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.flac
 volume=-1.5
 tune=-5
 
-<region> lokey=d#2 hikey=f2 pitch_keycenter=e2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.wav
+<region> lokey=d#2 hikey=f2 pitch_keycenter=e2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.flac
 pan=-5
 tune=-5
 
-<region> lokey=f#2 hikey=g#2 pitch_keycenter=g2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.wav
+<region> lokey=f#2 hikey=g#2 pitch_keycenter=g2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.flac
 volume=-0.5
 tune=-5
 
-<region> lokey=a2 hikey=b2 pitch_keycenter=a#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.wav
+<region> lokey=a2 hikey=b2 pitch_keycenter=a#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.flac
 volume=0 pan=5
 tune=-5
 
-<region> lokey=c3 hikey=d#3 pitch_keycenter=c#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.wav
+<region> lokey=c3 hikey=d#3 pitch_keycenter=c#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.flac
 pan=5
 tune=-5
 
 // removed 3_E-PB-loop - sounded weaker than others(PB)
 
-<region> lokey=e3 hikey=b3 pitch_keycenter=a#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.wav
+<region> lokey=e3 hikey=b3 pitch_keycenter=a#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.flac
 volume=-1 tune=-5
 
-<region> lokey=c4 hikey=d4 pitch_keycenter=c#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.wav
+<region> lokey=c4 hikey=d4 pitch_keycenter=c#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.flac
 volume=-1.5
 tune=-5
-<region> lokey=d#4 hikey=f4 pitch_keycenter=e4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.wav
+<region> lokey=d#4 hikey=f4 pitch_keycenter=e4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.flac
 volume=-1.5
 tune=-5
-<region> lokey=f#4 hikey=g#4 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.wav
+<region> lokey=f#4 hikey=g#4 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.flac
 volume=-1
 tune=-5
-<region> lokey=a4 hikey=c5 pitch_keycenter=a#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.wav
+<region> lokey=a4 hikey=c5 pitch_keycenter=a#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.flac
 pan=5 tune=5 volume=-1
 
-<region> lokey=c#5 hikey=a5 pitch_keycenter=e5 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.wav
+<region> lokey=c#5 hikey=a5 pitch_keycenter=e5 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.flac
 pan=-5 volume=-1
 tune=-5
 // noise reduction (PB)
@@ -102,7 +102,7 @@ eq2_freq=301.6
 eq2_bw=1.12
 eq2_gain=-11.2
 
-// removed 5_Bb.wav - too high (PB)
+// removed 5_Bb.flac - too high (PB)
 
 
 
@@ -132,29 +132,29 @@ amp_random=1.5
 delay_random=0.012
 
  ampeg_release=1.1 
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_C_t.wav pitch_keycenter=c2 lokey=c2 hikey=c#2
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_D_t.wav pitch_keycenter=d2 lokey=d2 hikey=d#2
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_C_t.flac pitch_keycenter=c2 lokey=c2 hikey=c#2
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_D_t.flac pitch_keycenter=d2 lokey=d2 hikey=d#2
 volume=-1
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_E_t.wav pitch_keycenter=e2 lokey=e2 hikey=f#2
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_E_t.flac pitch_keycenter=e2 lokey=e2 hikey=f#2
 tune=5
 
-// removed 2_Gb_t.wav (PB)
+// removed 2_Gb_t.flac (PB)
 // removed 2_Ab_t (PB)
 
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_Bb_t-PB-loop.wav pitch_keycenter=a#2 lokey=g2 hikey=b2
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_Bb_t-PB-loop.flac pitch_keycenter=a#2 lokey=g2 hikey=b2
 tune=-10
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_C_t.wav pitch_keycenter=c3 lokey=c3 hikey=c#3
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_C_t.flac pitch_keycenter=c3 lokey=c3 hikey=c#3
 tune=15
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_D_t.wav pitch_keycenter=d3 lokey=d3 hikey=d#3
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_D_t.flac pitch_keycenter=d3 lokey=d3 hikey=d#3
 tune=20
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_E_t.wav pitch_keycenter=e3 lokey=e3 hikey=f3
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_E_t.flac pitch_keycenter=e3 lokey=e3 hikey=f3
 tune=10
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Gb_t-PB-loop.wav pitch_keycenter=f#3 lokey=f#3 hikey=g3
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Ab_t-PB-loop.wav pitch_keycenter=g#3 lokey=g#3 hikey=a3
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Gb_t-PB-loop.flac pitch_keycenter=f#3 lokey=f#3 hikey=g3
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Ab_t-PB-loop.flac pitch_keycenter=g#3 lokey=g#3 hikey=a3
 tune=5
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Bb_t.wav pitch_keycenter=a#3 lokey=a#3 hikey=b3
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Bb_t.flac pitch_keycenter=a#3 lokey=a#3 hikey=b3
 tune=5
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_C_t-PB-loop.wav pitch_keycenter=c4 lokey=c4 hikey=c#4
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_C_t-PB-loop.flac pitch_keycenter=c4 lokey=c4 hikey=c#4
 tune=10
 // noise reduction (PB)
 eq1_freq=26.4
@@ -165,7 +165,7 @@ eq2_freq=73.5
 eq2_bw=1.12
 eq2_gain=-12.0
 
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_D_t-PB-loop.wav pitch_keycenter=d4 lokey=d4 hikey=f4
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_D_t-PB-loop.flac pitch_keycenter=d4 lokey=d4 hikey=f4
 tune=5
 volume=1
 // noise reduction (PB)
@@ -177,9 +177,9 @@ eq2_freq=165.9
 eq2_bw=1.12
 eq2_gain=-11.0
 
-// removed 4_E_t.wav (PB)
+// removed 4_E_t.flac (PB)
 
-<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_Gb_t.wav pitch_keycenter=f#4 lokey=f4 hikey=a5
+<region> sample=..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_Gb_t.flac pitch_keycenter=f#4 lokey=f4 hikey=a5
 volume=0
 // noise reduction (PB)
 eq1_freq=49.1
@@ -238,44 +238,44 @@ delay_random=0.012
 
 
 // removed control, doesn't work when merged with other files (PB)
-<region> lokey=c2 hikey=d2 pitch_keycenter=c#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.wav
+<region> lokey=c2 hikey=d2 pitch_keycenter=c#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.flac
 volume=-1.5
 tune=-5
 
-<region> lokey=d#2 hikey=f2 pitch_keycenter=e2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.wav
+<region> lokey=d#2 hikey=f2 pitch_keycenter=e2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.flac
 pan=-5
 tune=-5
 
-<region> lokey=f#2 hikey=g#2 pitch_keycenter=g2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.wav
+<region> lokey=f#2 hikey=g#2 pitch_keycenter=g2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.flac
 volume=-0.5
 tune=-5
 
-<region> lokey=a2 hikey=b2 pitch_keycenter=a#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.wav
+<region> lokey=a2 hikey=b2 pitch_keycenter=a#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.flac
 volume=0 pan=5
 tune=-5
 
-<region> lokey=c3 hikey=d#3 pitch_keycenter=c#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.wav
+<region> lokey=c3 hikey=d#3 pitch_keycenter=c#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.flac
 pan=5
 tune=-5
 
 // removed 3_E-PB-loop - sounded weaker than others(PB)
 
-<region> lokey=e3 hikey=b3 pitch_keycenter=a#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.wav
+<region> lokey=e3 hikey=b3 pitch_keycenter=a#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.flac
 volume=-1 tune=-5
 
-<region> lokey=c4 hikey=d4 pitch_keycenter=c#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.wav
+<region> lokey=c4 hikey=d4 pitch_keycenter=c#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.flac
 volume=-1.5
 tune=-5
-<region> lokey=d#4 hikey=f4 pitch_keycenter=e4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.wav
+<region> lokey=d#4 hikey=f4 pitch_keycenter=e4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.flac
 volume=-1.5
 tune=-5
-<region> lokey=f#4 hikey=g#4 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.wav
+<region> lokey=f#4 hikey=g#4 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.flac
 volume=-1
 tune=-5
-<region> lokey=a4 hikey=c5 pitch_keycenter=a#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.wav
+<region> lokey=a4 hikey=c5 pitch_keycenter=a#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.flac
 pan=5 tune=5 volume=-1
 
-<region> lokey=c#5 hikey=a5 pitch_keycenter=e5 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.wav
+<region> lokey=c#5 hikey=a5 pitch_keycenter=e5 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.flac
 pan=-5 volume=-1
 tune=-5
 // noise reduction (PB)
@@ -287,7 +287,7 @@ eq2_freq=301.6
 eq2_bw=1.12
 eq2_gain=-11.2
 
-// removed 5_Bb.wav - too high (PB)
+// removed 5_Bb.flac - too high (PB)
 
 
 
@@ -335,7 +335,7 @@ ampeg_dynamic=1
 
 // -------------- RR1 low vel v1 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.flac
 pan=-10
 
 lokey=36
@@ -346,7 +346,7 @@ hivel=62
 volume=16
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.flac
 pan=-10
 
 lokey=38
@@ -357,7 +357,7 @@ hivel=62
 volume=19
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.flac
 pan=-35
 
 lokey=42
@@ -367,10 +367,10 @@ lovel=0
 hivel=62
 volume=19
 
-// removed spic_B1_v1_RR1.wav (PB)
+// removed spic_B1_v1_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.flac
 pan=-0
 
 lokey=48
@@ -380,10 +380,10 @@ lovel=0
 hivel=62
 volume=16
 
-// removed spic_F2_v1_RR1.wav (PB)
+// removed spic_F2_v1_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.flac
 pan=-15
 
 lokey=54
@@ -394,7 +394,7 @@ hivel=62
 volume=15
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.flac
 pan=-5
 tune=-10
 
@@ -406,7 +406,7 @@ hivel=62
 volume=17
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.flac
 pan=5
 
 lokey=62
@@ -417,7 +417,7 @@ hivel=62
 volume=17
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.flac
 pan=-5
 
 lokey=66
@@ -428,7 +428,7 @@ hivel=62
 volume=13
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.flac
 pan=5
 
 lokey=69
@@ -439,7 +439,7 @@ hivel=62
 volume=16
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.flac
 pan=-30
 
 lokey=73
@@ -449,12 +449,12 @@ lovel=0
 hivel=62
 volume=17
 
-// removed spic_F4_v1_RR1.wav (PB)
+// removed spic_F4_v1_RR1.flac (PB)
 
 
 // -------------- RR1 high vel v2 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.flac
 pan=-15
 
 lokey=36
@@ -465,7 +465,7 @@ hivel=127
 volume=1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.flac
 pan=-10
 
 lokey=38
@@ -476,7 +476,7 @@ hivel=127
 volume=2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.flac
 pan=-20
 
 lokey=42
@@ -486,10 +486,10 @@ lovel=63
 hivel=127
 volume=4
 
-// removed spic_B1_v2_RR1.wav (PB)
+// removed spic_B1_v2_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.flac
 pan=-9
 
 lokey=48
@@ -499,10 +499,10 @@ lovel=63
 hivel=127
 volume=1
 
-// removed spic_F2_v2_RR1.wav (PB)
+// removed spic_F2_v2_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.flac
 pan=-10
 
 lokey=54
@@ -513,7 +513,7 @@ hivel=127
 volume=-1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.flac
 pan=-10
 tune=-10
 
@@ -525,7 +525,7 @@ hivel=127
 volume=2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.flac
 pan=-10
 
 lokey=62
@@ -536,7 +536,7 @@ hivel=127
 volume=2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.flac
 pan=-8
 
 lokey=66
@@ -547,7 +547,7 @@ hivel=127
 volume=-2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.flac
 pan=5
 
 lokey=69
@@ -558,7 +558,7 @@ hivel=127
 volume=1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.flac
 pan=-25
 
 lokey=73
@@ -568,7 +568,7 @@ lovel=63
 hivel=127
 volume=2
 
-// removed spic_F4_v2_RR1.wav (PB)
+// removed spic_F4_v2_RR1.flac (PB)
 
 <group>
 // sustain by default
@@ -600,7 +600,7 @@ ampeg_dynamic=1
 
 // -------------- RR2 low vel v1 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.flac
 pan=-20
 
 lokey=36
@@ -611,7 +611,7 @@ hivel=62
 volume=14.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.flac
 pan=-10
 
 lokey=38
@@ -622,7 +622,7 @@ hivel=62
 volume=19
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.flac
 pan=-5
 
 lokey=42
@@ -632,10 +632,10 @@ lovel=0
 hivel=62
 volume=17
 
-// removed spic_B1_v1_RR2.wav (PB)
+// removed spic_B1_v1_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.flac
 pan=-10
 
 lokey=48
@@ -645,10 +645,10 @@ lovel=0
 hivel=62
 volume=14
 
-// removed spic_F2_v1_RR2.wav (PB)
+// removed spic_F2_v1_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.flac
 lokey=54
 hikey=58
 pitch_keycenter=57
@@ -657,7 +657,7 @@ hivel=62
 volume=13
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.flac
 pan=-15
 tune=-7
 
@@ -669,7 +669,7 @@ hivel=62
 volume=16
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.flac
 pan=-10
 tune=-5
 
@@ -681,7 +681,7 @@ hivel=62
 volume=16
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.flac
 pan=-15
 
 lokey=66
@@ -692,7 +692,7 @@ hivel=62
 volume=13
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.flac
 pan=-15
 
 lokey=69
@@ -703,7 +703,7 @@ hivel=62
 volume=16
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.flac
 pan=-25
 
 lokey=73
@@ -713,12 +713,12 @@ lovel=0
 hivel=62
 volume=15
 
-// removed spic_F4_v1_RR2.wav (PB)
+// removed spic_F4_v1_RR2.flac (PB)
 
 
 // -------------- RR2 high vel v2 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.flac
 pan=-15
 
 lokey=36
@@ -729,7 +729,7 @@ hivel=127
 volume=-0.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.flac
 pan=-10
 
 lokey=38
@@ -740,7 +740,7 @@ hivel=127
 volume=1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.flac
 pan=-20
 
 lokey=42
@@ -750,10 +750,10 @@ lovel=63
 hivel=127
 volume=2
 
-// removed spic_B1_v2_RR2.wav
+// removed spic_B1_v2_RR2.flac
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.flac
 pan=-7
 
 lokey=48
@@ -763,10 +763,10 @@ lovel=63
 hivel=127
 volume=-1
 
-// removed spic_F2_v2_RR2.wav (PB)
+// removed spic_F2_v2_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.flac
 pan=-5
 
 lokey=54
@@ -777,7 +777,7 @@ hivel=127
 volume=-3
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.flac
 pan=-10
 tune=-7
 
@@ -789,7 +789,7 @@ hivel=127
 volume=1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.flac
 pan=0
 tune=-5
 
@@ -801,7 +801,7 @@ hivel=127
 volume=1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.flac
 pan=-12
 
 lokey=66
@@ -812,7 +812,7 @@ hivel=127
 volume=-2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.flac
 pan=-15
 
 lokey=69
@@ -823,7 +823,7 @@ hivel=127
 volume=1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.flac
 pan=-20
 
 lokey=73
@@ -833,7 +833,7 @@ lovel=63
 hivel=127
 volume=0
 
-// removed spic_F4_v2_RR2.wav (PB)
+// removed spic_F4_v2_RR2.flac (PB)
 
 
 
@@ -888,7 +888,7 @@ ampeg_dynamic=1
 
 // -------------- RR1 low vel v1 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.flac
 pan=-10
 
 lokey=36
@@ -899,7 +899,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.flac
 pan=-10
 
 lokey=38
@@ -910,7 +910,7 @@ hivel=62
 volume=27
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.flac
 pan=-35
 
 lokey=42
@@ -920,10 +920,10 @@ lovel=0
 hivel=62
 volume=27
 
-// removed spic_B1_v1_RR1.wav (PB)
+// removed spic_B1_v1_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.flac
 pan=-0
 
 lokey=48
@@ -933,10 +933,10 @@ lovel=0
 hivel=62
 volume=24
 
-// removed spic_F2_v1_RR1.wav (PB)
+// removed spic_F2_v1_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.flac
 pan=-15
 
 lokey=54
@@ -947,7 +947,7 @@ hivel=62
 volume=23
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.flac
 pan=-5
 tune=-10
 
@@ -959,7 +959,7 @@ hivel=62
 volume=25
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.flac
 pan=5
 
 lokey=62
@@ -970,7 +970,7 @@ hivel=62
 volume=25
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.flac
 pan=-5
 
 lokey=66
@@ -981,7 +981,7 @@ hivel=62
 volume=21
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.flac
 pan=5
 
 lokey=69
@@ -992,7 +992,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.flac
 pan=-30
 
 lokey=73
@@ -1002,12 +1002,12 @@ lovel=0
 hivel=62
 volume=25
 
-// removed spic_F4_v1_RR1.wav (PB)
+// removed spic_F4_v1_RR1.flac (PB)
 
 
 // -------------- RR1 high vel v2 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.flac
 pan=-15
 
 lokey=36
@@ -1018,7 +1018,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.flac
 pan=-10
 
 lokey=38
@@ -1029,7 +1029,7 @@ hivel=127
 volume=10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.flac
 pan=-20
 
 lokey=42
@@ -1039,10 +1039,10 @@ lovel=63
 hivel=127
 volume=12
 
-// removed spic_B1_v2_RR1.wav (PB)
+// removed spic_B1_v2_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.flac
 pan=-9
 
 lokey=48
@@ -1052,10 +1052,10 @@ lovel=63
 hivel=127
 volume=9
 
-// removed spic_F2_v2_RR1.wav (PB)
+// removed spic_F2_v2_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.flac
 pan=-10
 
 lokey=54
@@ -1066,7 +1066,7 @@ hivel=127
 volume=7
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.flac
 pan=-10
 tune=-10
 
@@ -1078,7 +1078,7 @@ hivel=127
 volume=10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.flac
 pan=-10
 
 lokey=62
@@ -1089,7 +1089,7 @@ hivel=127
 volume=10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.flac
 pan=-8
 
 lokey=66
@@ -1100,7 +1100,7 @@ hivel=127
 volume=6
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.flac
 pan=5
 
 lokey=69
@@ -1111,7 +1111,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.flac
 pan=-25
 
 lokey=73
@@ -1121,7 +1121,7 @@ lovel=63
 hivel=127
 volume=10
 
-// removed spic_F4_v2_RR1.wav (PB)
+// removed spic_F4_v2_RR1.flac (PB)
 
 <group>
 // sustain by default
@@ -1148,7 +1148,7 @@ ampeg_dynamic=1
 
 // -------------- RR2 low vel v1 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.flac
 pan=-20
 
 lokey=36
@@ -1159,7 +1159,7 @@ hivel=62
 volume=22.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.flac
 pan=-10
 
 lokey=38
@@ -1170,7 +1170,7 @@ hivel=62
 volume=27
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.flac
 pan=-5
 
 lokey=42
@@ -1180,10 +1180,10 @@ lovel=0
 hivel=62
 volume=25
 
-// removed spic_B1_v1_RR2.wav (PB)
+// removed spic_B1_v1_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.flac
 pan=-10
 
 lokey=48
@@ -1193,10 +1193,10 @@ lovel=0
 hivel=62
 volume=22
 
-// removed spic_F2_v1_RR2.wav (PB)
+// removed spic_F2_v1_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.flac
 lokey=54
 hikey=58
 pitch_keycenter=57
@@ -1205,7 +1205,7 @@ hivel=62
 volume=21
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.flac
 pan=-15
 tune=-7
 
@@ -1217,7 +1217,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.flac
 pan=-10
 tune=-5
 
@@ -1229,7 +1229,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.flac
 pan=-15
 
 lokey=66
@@ -1240,7 +1240,7 @@ hivel=62
 volume=21
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.flac
 pan=-15
 
 lokey=69
@@ -1251,7 +1251,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.flac
 pan=-25
 
 lokey=73
@@ -1261,12 +1261,12 @@ lovel=0
 hivel=62
 volume=23
 
-// removed spic_F4_v1_RR2.wav (PB)
+// removed spic_F4_v1_RR2.flac (PB)
 
 
 // -------------- RR2 high vel v2 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.flac
 pan=-15
 
 lokey=36
@@ -1277,7 +1277,7 @@ hivel=127
 volume=7.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.flac
 pan=-10
 
 lokey=38
@@ -1288,7 +1288,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.flac
 pan=-20
 
 lokey=42
@@ -1298,10 +1298,10 @@ lovel=63
 hivel=127
 volume=10
 
-// removed spic_B1_v2_RR2.wav
+// removed spic_B1_v2_RR2.flac
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.flac
 pan=-7
 
 lokey=48
@@ -1311,10 +1311,10 @@ lovel=63
 hivel=127
 volume=7
 
-// removed spic_F2_v2_RR2.wav (PB)
+// removed spic_F2_v2_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.flac
 pan=-5
 
 lokey=54
@@ -1325,7 +1325,7 @@ hivel=127
 volume=5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.flac
 pan=-10
 tune=-7
 
@@ -1337,7 +1337,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.flac
 pan=0
 tune=-5
 
@@ -1349,7 +1349,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.flac
 pan=-12
 
 lokey=66
@@ -1360,7 +1360,7 @@ hivel=127
 volume=6
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.flac
 pan=-15
 
 lokey=69
@@ -1371,7 +1371,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.flac
 pan=-20
 
 lokey=73
@@ -1381,7 +1381,7 @@ lovel=63
 hivel=127
 volume=8
 
-// removed spic_F4_v2_RR2.wav (PB)
+// removed spic_F4_v2_RR2.flac (PB)
 
 
 //==============================================================
@@ -1416,52 +1416,52 @@ ampeg_attack=0.03
 
 
 // removed control, doesn't work when merged with other files (PB)
-<region> lokey=c2 hikey=d2 pitch_keycenter=c#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.wav
+<region> lokey=c2 hikey=d2 pitch_keycenter=c#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.flac
 volume=-1.5
 tune=-5
 
-<region> lokey=d#2 hikey=f2 pitch_keycenter=e2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.wav
+<region> lokey=d#2 hikey=f2 pitch_keycenter=e2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.flac
 pan=-5
 tune=-5
 
-<region> lokey=f#2 hikey=g#2 pitch_keycenter=g2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.wav
+<region> lokey=f#2 hikey=g#2 pitch_keycenter=g2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.flac
 volume=-0.5
 tune=-5
 
-<region> lokey=a2 hikey=b2 pitch_keycenter=a#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.wav
+<region> lokey=a2 hikey=b2 pitch_keycenter=a#2 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.flac
 
 delay=0.15
 volume=0 pan=5
 tune=-5
 
-<region> lokey=c3 hikey=d#3 pitch_keycenter=c#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.wav
+<region> lokey=c3 hikey=d#3 pitch_keycenter=c#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.flac
 pan=5
 tune=-5
 
 // removed 3_E-PB-loop - sounded weaker than others(PB)
 
-<region> lokey=e3 hikey=b3 pitch_keycenter=a#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.wav
+<region> lokey=e3 hikey=b3 pitch_keycenter=a#3 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.flac
 
 delay=0.15
 volume=-1 tune=-5
 
-<region> lokey=c4 hikey=d4 pitch_keycenter=c#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.wav
+<region> lokey=c4 hikey=d4 pitch_keycenter=c#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.flac
 volume=-1.5
 tune=-5
-<region> lokey=d#4 hikey=f4 pitch_keycenter=e4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.wav
+<region> lokey=d#4 hikey=f4 pitch_keycenter=e4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.flac
 volume=-1.5
 tune=-5
-<region> lokey=f#4 hikey=g#4 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.wav
+<region> lokey=f#4 hikey=g#4 pitch_keycenter=g4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.flac
 delay=0.15
 
 volume=-1
 tune=-5
-<region> lokey=a4 hikey=c5 pitch_keycenter=a#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.wav
+<region> lokey=a4 hikey=c5 pitch_keycenter=a#4 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.flac
 
 delay=0.20
 pan=5 tune=5 volume=-1
 
-<region> lokey=c#5 hikey=a5 pitch_keycenter=e5 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.wav
+<region> lokey=c#5 hikey=a5 pitch_keycenter=e5 sample=..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.flac
 
 delay=0.20
 pan=-5 volume=-1
@@ -1475,7 +1475,7 @@ eq2_freq=301.6
 eq2_bw=1.12
 eq2_gain=-11.2
 
-// removed 5_Bb.wav - too high (PB)
+// removed 5_Bb.flac - too high (PB)
 
 
 
@@ -1520,7 +1520,7 @@ ampeg_dynamic=1
 
 // -------------- RR1 low vel v1 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.flac
 pan=-10
 
 lokey=36
@@ -1531,7 +1531,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.flac
 pan=-10
 
 lokey=38
@@ -1542,7 +1542,7 @@ hivel=62
 volume=27
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.flac
 pan=-35
 
 lokey=42
@@ -1552,10 +1552,10 @@ lovel=0
 hivel=62
 volume=27
 
-// removed spic_B1_v1_RR1.wav (PB)
+// removed spic_B1_v1_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.flac
 pan=-0
 
 lokey=48
@@ -1565,10 +1565,10 @@ lovel=0
 hivel=62
 volume=24
 
-// removed spic_F2_v1_RR1.wav (PB)
+// removed spic_F2_v1_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.flac
 pan=-15
 
 lokey=54
@@ -1579,7 +1579,7 @@ hivel=62
 volume=23
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.flac
 pan=-5
 tune=-10
 
@@ -1591,7 +1591,7 @@ hivel=62
 volume=25
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.flac
 pan=5
 
 lokey=62
@@ -1602,7 +1602,7 @@ hivel=62
 volume=25
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.flac
 pan=-5
 
 lokey=66
@@ -1613,7 +1613,7 @@ hivel=62
 volume=21
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.flac
 pan=5
 
 lokey=69
@@ -1624,7 +1624,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.flac
 pan=-30
 
 lokey=73
@@ -1634,12 +1634,12 @@ lovel=0
 hivel=62
 volume=25
 
-// removed spic_F4_v1_RR1.wav (PB)
+// removed spic_F4_v1_RR1.flac (PB)
 
 
 // -------------- RR1 high vel v2 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.flac
 pan=-15
 
 lokey=36
@@ -1650,7 +1650,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.flac
 pan=-10
 
 lokey=38
@@ -1661,7 +1661,7 @@ hivel=127
 volume=10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.flac
 pan=-20
 
 lokey=42
@@ -1671,10 +1671,10 @@ lovel=63
 hivel=127
 volume=12
 
-// removed spic_B1_v2_RR1.wav (PB)
+// removed spic_B1_v2_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.flac
 pan=-9
 
 lokey=48
@@ -1684,10 +1684,10 @@ lovel=63
 hivel=127
 volume=9
 
-// removed spic_F2_v2_RR1.wav (PB)
+// removed spic_F2_v2_RR1.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.flac
 pan=-10
 
 lokey=54
@@ -1698,7 +1698,7 @@ hivel=127
 volume=7
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.flac
 pan=-10
 tune=-10
 
@@ -1710,7 +1710,7 @@ hivel=127
 volume=10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.flac
 pan=-10
 
 lokey=62
@@ -1721,7 +1721,7 @@ hivel=127
 volume=10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.flac
 pan=-8
 
 lokey=66
@@ -1732,7 +1732,7 @@ hivel=127
 volume=6
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.flac
 pan=5
 
 lokey=69
@@ -1743,7 +1743,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.flac
 pan=-25
 
 lokey=73
@@ -1753,7 +1753,7 @@ lovel=63
 hivel=127
 volume=10
 
-// removed spic_F4_v2_RR1.wav (PB)
+// removed spic_F4_v2_RR1.flac (PB)
 
 <group>
 // sustain by default
@@ -1780,7 +1780,7 @@ ampeg_dynamic=1
 
 // -------------- RR2 low vel v1 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.flac
 pan=-20
 
 lokey=36
@@ -1791,7 +1791,7 @@ hivel=62
 volume=22.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.flac
 pan=-10
 
 lokey=38
@@ -1802,7 +1802,7 @@ hivel=62
 volume=27
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.flac
 pan=-5
 
 lokey=42
@@ -1812,10 +1812,10 @@ lovel=0
 hivel=62
 volume=25
 
-// removed spic_B1_v1_RR2.wav (PB)
+// removed spic_B1_v1_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.flac
 pan=-10
 
 lokey=48
@@ -1825,10 +1825,10 @@ lovel=0
 hivel=62
 volume=22
 
-// removed spic_F2_v1_RR2.wav (PB)
+// removed spic_F2_v1_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.flac
 lokey=54
 hikey=58
 pitch_keycenter=57
@@ -1837,7 +1837,7 @@ hivel=62
 volume=21
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.flac
 pan=-15
 tune=-7
 
@@ -1849,7 +1849,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.flac
 pan=-10
 tune=-5
 
@@ -1861,7 +1861,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.flac
 pan=-15
 
 lokey=66
@@ -1872,7 +1872,7 @@ hivel=62
 volume=21
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.flac
 pan=-15
 
 lokey=69
@@ -1883,7 +1883,7 @@ hivel=62
 volume=24
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.flac
 pan=-25
 
 lokey=73
@@ -1893,12 +1893,12 @@ lovel=0
 hivel=62
 volume=23
 
-// removed spic_F4_v1_RR2.wav (PB)
+// removed spic_F4_v1_RR2.flac (PB)
 
 
 // -------------- RR2 high vel v2 --------------
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.flac
 pan=-15
 
 lokey=36
@@ -1909,7 +1909,7 @@ hivel=127
 volume=7.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.flac
 pan=-10
 
 lokey=38
@@ -1920,7 +1920,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.flac
 pan=-20
 
 lokey=42
@@ -1930,10 +1930,10 @@ lovel=63
 hivel=127
 volume=10
 
-// removed spic_B1_v2_RR2.wav
+// removed spic_B1_v2_RR2.flac
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.flac
 pan=-7
 
 lokey=48
@@ -1943,10 +1943,10 @@ lovel=63
 hivel=127
 volume=7
 
-// removed spic_F2_v2_RR2.wav (PB)
+// removed spic_F2_v2_RR2.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.flac
 pan=-5
 
 lokey=54
@@ -1957,7 +1957,7 @@ hivel=127
 volume=5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.flac
 pan=-10
 tune=-7
 
@@ -1969,7 +1969,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.flac
 pan=0
 tune=-5
 
@@ -1981,7 +1981,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.flac
 pan=-12
 
 lokey=66
@@ -1992,7 +1992,7 @@ hivel=127
 volume=6
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.flac
 pan=-15
 
 lokey=69
@@ -2003,7 +2003,7 @@ hivel=127
 volume=9
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.flac
 pan=-20
 
 lokey=73
@@ -2013,7 +2013,7 @@ lovel=63
 hivel=127
 volume=8
 
-// removed spic_F4_v2_RR2.wav (PB)
+// removed spic_F4_v2_RR2.flac (PB)
 
 
 
@@ -2063,7 +2063,7 @@ delay_random=0.012
 //-------------- low velocity --------------
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v1_RR2.flac
 pan=-15
 
 lokey=55
@@ -2075,7 +2075,7 @@ volume=25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v1_RR1.flac
 pan=-30
 
 lokey=45
@@ -2087,7 +2087,7 @@ volume=27
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v1_RR2.flac
 pan=-33
 
 lokey=69
@@ -2099,7 +2099,7 @@ volume=26
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v1_RR1.flac
 pan=-15
 
 lokey=36
@@ -2113,7 +2113,7 @@ volume=24
 // removed pizzT_C3 - bad click sound (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v1_RR2.flac
 pan=-30
 
 lokey=49
@@ -2125,7 +2125,7 @@ volume=27
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v1_RR1.flac
 pan=-25
 
 lokey=73
@@ -2137,7 +2137,7 @@ volume=27
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v1_RR2.flac
 pan=-20
 
 lokey=39
@@ -2149,7 +2149,7 @@ volume=29
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v1_RR1.flac
 pan=-24
 
 lokey=61
@@ -2161,7 +2161,7 @@ volume=23
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v1_RR1.flac
 pan=-35
 
 lokey=52
@@ -2173,7 +2173,7 @@ volume=25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v1_RR1.flac
 pan=-20
 
 lokey=76
@@ -2185,7 +2185,7 @@ volume=30
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v1_RR1.flac
 pan=-20
 
 lokey=42
@@ -2197,7 +2197,7 @@ volume=25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v1_RR1.flac
 pan=-15
 
 lokey=66
@@ -2210,7 +2210,7 @@ volume=25
 //-------------- high velocity --------------
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v2_RR1.flac
 pan=-20
 
 lokey=55
@@ -2222,7 +2222,7 @@ volume=13
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v2_RR1.flac
 pan=-30
 
 lokey=45
@@ -2234,7 +2234,7 @@ volume=16
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v2_RR2.flac
 pan=-30
 
 lokey=69
@@ -2246,7 +2246,7 @@ volume=15
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v2_RR1.flac
 pan=-18
 
 lokey=36
@@ -2260,7 +2260,7 @@ volume=13
 // removed pizzT_C3 - bad click sound (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v2_RR1.flac
 pan=-35
 
 lokey=49
@@ -2272,7 +2272,7 @@ volume=11
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v2_RR1.flac
 pan=-12
 
 lokey=73
@@ -2284,7 +2284,7 @@ volume=13
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v2_RR2.flac
 pan=-25
 
 lokey=39
@@ -2296,7 +2296,7 @@ volume=18
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v2_RR1.flac
 pan=-25
 
 lokey=61
@@ -2308,7 +2308,7 @@ volume=12
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v2_RR1.flac
 pan=-25
 
 lokey=52
@@ -2320,7 +2320,7 @@ volume=14
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v2_RR2.flac
 pan=-20
 
 lokey=76
@@ -2332,7 +2332,7 @@ volume=10
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v2_RR2.flac
 pan=-25
 
 lokey=42
@@ -2344,7 +2344,7 @@ volume=18
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v2_RR2.flac
 pan=-20
 
 lokey=66

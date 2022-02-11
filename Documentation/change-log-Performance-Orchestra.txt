@@ -11,8 +11,8 @@ Version 3.2.1 - Apr 13 2020
 ---------------------------
 * IMPROVED
 - adjusted pitch of Flute SEC Sustain g5-f6
-- e3 sounded like it had too much vibrato for some reason so now 3_Bb-PB-loop.wav
-is used to play e3 instead of 3_Db-PB-loop.wav
+- e3 sounded like it had too much vibrato for some reason so now 3_Bb-PB-loop.flac
+is used to play e3 instead of 3_Db-PB-loop.flac
 - randomization of stacc and sus patches is now consistently 
 this
   pitch_random=12
@@ -61,8 +61,8 @@ Version 3.1.2 - March 1 2019
 triggered by which notes
 - cello SEC staccato, improved a few notes by shifting which samples were
 triggered by which notes
-- cello SEC, removed sample SEC 3_E-PB-loop.wav, note sounded weak when 
-compared to others, stretched 3_Db-PB-loop.wav instead
+- cello SEC, removed sample SEC 3_E-PB-loop.flac, note sounded weak when 
+compared to others, stretched 3_Db-PB-loop.flac instead
 - cello SOLO sustain, removed extra vibrato
 - cello SOLO sustain, adjusted key mapping for a few notes to improve 
    sustained vibrato (vibrato becomes too fast if low notes stretched too high)

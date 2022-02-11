@@ -50,30 +50,30 @@ delay_random=0.012
 ampeg_release=0.9
 //	loop_mode=loop_continuous
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.flac
 pan=5
 
 	pitch_keycenter=c#4 lokey=c4 hikey=d4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_F.flac
 pan=10
 tune=-5
 
 	pitch_keycenter=f4 lokey=d#4 hikey=f#4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.flac
 	pitch_keycenter=g#4 lokey=g4 hikey=a4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_B.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_B.flac
 	pitch_keycenter=b4 lokey=a#4 hikey=c5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_D.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_D.flac
 	pitch_keycenter=d5 lokey=c#5 hikey=d#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_F.flac
 	pitch_keycenter=f5 lokey=e5 hikey=f#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.flac
 tune=-5
 
 	pitch_keycenter=g#5 lokey=g5 hikey=b5
@@ -81,12 +81,12 @@ tune=-5
 // removed 6_C
 
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.flac
 tune=-5
 
 	pitch_keycenter=d#6 lokey=c6 hikey=f6
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.flac
 tune=-10
 
 	// somehow, removing the squeek, changed the pitch center (PB)
@@ -142,30 +142,30 @@ delay_random=0.012
 ampeg_release=0.9
 //	loop_mode=loop_continuous
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.flac
 pan=5
 
 	pitch_keycenter=c#4 lokey=c4 hikey=d4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_F.flac
 pan=10
 tune=-5
 
 	pitch_keycenter=f4 lokey=d#4 hikey=f#4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.flac
 	pitch_keycenter=g#4 lokey=g4 hikey=a4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_B.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_B.flac
 	pitch_keycenter=b4 lokey=a#4 hikey=c5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_D.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_D.flac
 	pitch_keycenter=d5 lokey=c#5 hikey=d#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_F.flac
 	pitch_keycenter=f5 lokey=e5 hikey=f#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.flac
 tune=-5
 
 	pitch_keycenter=g#5 lokey=g5 hikey=b5
@@ -173,12 +173,12 @@ tune=-5
 // removed 6_C
 
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.flac
 tune=-5
 
 	pitch_keycenter=d#6 lokey=c6 hikey=f6
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.flac
 tune=-10
 
 	// somehow, removing the squeek, changed the pitch center (PB)
@@ -221,7 +221,7 @@ ampeg_dynamic=1
 volume=-7.5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.flac
 tune=-5
 
 lokey=c4
@@ -229,26 +229,26 @@ hikey=d#4
 pitch_keycenter=c4
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.flac
 lokey=e4
 hikey=g#4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.flac
 lokey=g4
 hikey=a#4
 pitch_keycenter=a4
 tune=5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.flac
 lokey=b4
 hikey=d5
 pitch_keycenter=c5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.flac
 volume=-8.5
 
 lokey=d#5
@@ -256,13 +256,13 @@ hikey=f#5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.flac
 lokey=g5
 hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.flac
 volume=-4.5
 
 lokey=b5
@@ -270,13 +270,13 @@ hikey=d6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.flac
 lokey=d#6
 hikey=f#6
 pitch_keycenter=e6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.flac
 volume=-6.5
 
 lokey=g6
@@ -284,7 +284,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.flac
 volume=-6.5
 
 lokey=b6
@@ -338,14 +338,14 @@ delay_random=0.012
 
 //	loop_mode=loop_continuous
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.flac
 
 volume=8
 pan=30
 
 	pitch_keycenter=c#4 lokey=c4 hikey=d4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_F.flac
 
 volume=1
 pan=65
@@ -353,31 +353,31 @@ tune=-5
 
 	pitch_keycenter=f4 lokey=d#4 hikey=f#4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.flac
 volume=3
 pan=10
 
 	pitch_keycenter=g#4 lokey=g4 hikey=a4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_B.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_B.flac
 volume=3
 pan=15
 
 	pitch_keycenter=b4 lokey=a#4 hikey=c5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_D.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_D.flac
 volume=3
 pan=35
 
 	pitch_keycenter=d5 lokey=c#5 hikey=d#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_F.flac
 volume=3
 pan=25
 
 	pitch_keycenter=f5 lokey=e5 hikey=f#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.flac
 
 pan=10
 volume=5
@@ -388,7 +388,7 @@ tune=-5
 // removed 6_C
 
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.flac
 
 pan=10
 volume=5
@@ -396,7 +396,7 @@ tune=-5
 
 	pitch_keycenter=d#6 lokey=c6 hikey=f6
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.flac
 tune=-10
 
 	// somehow, removing the squeek, changed the pitch center (PB)
@@ -450,7 +450,7 @@ ampeg_dynamic=1
 volume=-4.5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.flac
 tune=-5
 
 lokey=c4
@@ -458,26 +458,26 @@ hikey=d#4
 pitch_keycenter=c4
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.flac
 lokey=e4
 hikey=g#4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.flac
 lokey=g4
 hikey=a#4
 pitch_keycenter=a4
 tune=5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.flac
 lokey=b4
 hikey=d5
 pitch_keycenter=c5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.flac
 volume=-5.5
 
 lokey=d#5
@@ -485,13 +485,13 @@ hikey=f#5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.flac
 lokey=g5
 hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.flac
 volume=-1.5
 
 lokey=b5
@@ -499,13 +499,13 @@ hikey=d6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.flac
 lokey=d#6
 hikey=f#6
 pitch_keycenter=e6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.flac
 volume=-3.5
 
 lokey=g6
@@ -513,7 +513,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.flac
 volume=-3.5
 
 lokey=b6
@@ -563,14 +563,14 @@ amp_random=1.5
 
 //	loop_mode=loop_continuous
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.flac
 
 volume=11
 pan=30
 
 	pitch_keycenter=c#4 lokey=c4 hikey=d4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_F.flac
 
 volume=4
 pan=65
@@ -578,31 +578,31 @@ tune=-5
 
 	pitch_keycenter=f4 lokey=d#4 hikey=f#4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.flac
 volume=6
 pan=10
 
 	pitch_keycenter=g#4 lokey=g4 hikey=a4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_B.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_B.flac
 volume=6
 pan=15
 
 	pitch_keycenter=b4 lokey=a#4 hikey=c5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_D.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_D.flac
 volume=6
 pan=35
 
 	pitch_keycenter=d5 lokey=c#5 hikey=d#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_F.flac
 volume=6
 pan=25
 
 	pitch_keycenter=f5 lokey=e5 hikey=f#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.flac
 
 pan=10
 volume=8
@@ -613,7 +613,7 @@ tune=-5
 // removed 6_C
 
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.flac
 
 pan=10
 volume=8
@@ -621,7 +621,7 @@ tune=-5
 
 	pitch_keycenter=d#6 lokey=c6 hikey=f6
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.flac
 tune=-10
 
 	// somehow, removing the squeek, changed the pitch center (PB)
@@ -663,14 +663,14 @@ amp_random=1.5
 ampeg_release=0.9
 //	loop_mode=loop_continuous
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.flac
 
 delay=0.10
 pan=5
 
 	pitch_keycenter=c#4 lokey=c4 hikey=d4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_F.flac
 
 delay=0.10
 pan=10
@@ -678,25 +678,25 @@ tune=-5
 
 	pitch_keycenter=f4 lokey=d#4 hikey=f#4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.flac
 	pitch_keycenter=g#4 lokey=g4 hikey=a4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_B.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_B.flac
 delay=0.10
 
 	pitch_keycenter=b4 lokey=a#4 hikey=c5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_D.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_D.flac
 delay=0.12
 
 	pitch_keycenter=d5 lokey=c#5 hikey=d#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_F.flac
 delay=0.12
 
 	pitch_keycenter=f5 lokey=e5 hikey=f#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.flac
 
 delay=0.15
 tune=-5
@@ -706,14 +706,14 @@ tune=-5
 // removed 6_C
 
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.flac
 
 delay=0.12
 tune=-5
 
 	pitch_keycenter=d#6 lokey=c6 hikey=f6
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.flac
 
 delay=0.13
 tune=-10
@@ -756,7 +756,7 @@ ampeg_dynamic=1
 volume=-4.5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.flac
 tune=-5
 
 lokey=c4
@@ -764,26 +764,26 @@ hikey=d#4
 pitch_keycenter=c4
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.flac
 lokey=e4
 hikey=g#4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.flac
 lokey=g4
 hikey=a#4
 pitch_keycenter=a4
 tune=5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.flac
 lokey=b4
 hikey=d5
 pitch_keycenter=c5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.flac
 volume=-5.5
 
 lokey=d#5
@@ -791,13 +791,13 @@ hikey=f#5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.flac
 lokey=g5
 hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.flac
 volume=-1.5
 
 lokey=b5
@@ -805,13 +805,13 @@ hikey=d6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.flac
 lokey=d#6
 hikey=f#6
 pitch_keycenter=e6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.flac
 volume=-3.5
 
 lokey=g6
@@ -819,7 +819,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.flac
 volume=-3.5
 
 lokey=b6
@@ -869,14 +869,14 @@ delay_random=0.012
 
 //	loop_mode=loop_continuous
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Db.flac
 
 volume=11
 pan=30
 
 	pitch_keycenter=c#4 lokey=c4 hikey=d4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_F.flac
 
 volume=4
 pan=65
@@ -884,31 +884,31 @@ tune=-5
 
 	pitch_keycenter=f4 lokey=d#4 hikey=f#4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_Ab.flac
 volume=6
 pan=10
 
 	pitch_keycenter=g#4 lokey=g4 hikey=a4
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\4_B.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\4_B.flac
 volume=6
 pan=15
 
 	pitch_keycenter=b4 lokey=a#4 hikey=c5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_D.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_D.flac
 volume=6
 pan=35
 
 	pitch_keycenter=d5 lokey=c#5 hikey=d#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_F.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_F.flac
 volume=6
 pan=25
 
 	pitch_keycenter=f5 lokey=e5 hikey=f#5
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\5_Ab.flac
 
 pan=10
 volume=8
@@ -919,7 +919,7 @@ tune=-5
 // removed 6_C
 
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Eb-PB.flac
 
 pan=10
 volume=8
@@ -927,7 +927,7 @@ tune=-5
 
 	pitch_keycenter=d#6 lokey=c6 hikey=f6
 <region>
-	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.wav
+	sample=..\libs\NoBudgetOrch\FluteSect\6_Ab-PB.flac
 tune=-10
 
 	// somehow, removing the squeek, changed the pitch center (PB)

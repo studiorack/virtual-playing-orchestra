@@ -47,7 +47,7 @@ pan=30
 
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-g2-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-g2-PB-loop.flac
 volume=1
 
 lokey=g2
@@ -55,7 +55,7 @@ hikey=g2
 pitch_keycenter=g2
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-g#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-g#2-PB-loop.flac
 volume=7
 
 lokey=g#2
@@ -63,7 +63,7 @@ hikey=g#2
 pitch_keycenter=g#2
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-a2-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-a2-PB-loop.flac
 volume=4
 
 lokey=a2
@@ -71,7 +71,7 @@ hikey=a2
 pitch_keycenter=a2
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-a#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-a#2-PB-loop.flac
 volume=4
 
 lokey=a#2
@@ -79,7 +79,7 @@ hikey=a#2
 pitch_keycenter=a#2
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-b2-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-b2-PB-loop.flac
 volume=4
 
 lokey=b2
@@ -87,7 +87,7 @@ hikey=b2
 pitch_keycenter=b2
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-c3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-c3-PB-loop.flac
 volume=2
 
 lokey=c3
@@ -95,7 +95,7 @@ hikey=c3
 pitch_keycenter=c3
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-c#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-c#3-PB-loop.flac
 volume=5
 
 lokey=c#3
@@ -103,7 +103,7 @@ hikey=c#3
 pitch_keycenter=c#3
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-d3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-d3-PB-loop.flac
 volume=4
 
 lokey=d3
@@ -113,7 +113,7 @@ pitch_keycenter=d3
 // removed d#3 - a little out of tune (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-e3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-e3-PB-loop.flac
 volume=4
 
 lokey=e3
@@ -121,7 +121,7 @@ hikey=e3
 pitch_keycenter=e3
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-f3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-f3-PB-loop.flac
 volume=4
 
 lokey=f3
@@ -131,7 +131,7 @@ pitch_keycenter=f3
 // removed f#3, f3 is a better loop (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-g3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-g3-PB-loop.flac
 volume=4
 
 lokey=g3
@@ -139,7 +139,7 @@ hikey=g3
 pitch_keycenter=g3
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-g#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-g#3-PB-loop.flac
 volume=4
 
 lokey=g#3
@@ -147,7 +147,7 @@ hikey=g#3
 pitch_keycenter=g#3
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-a3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-a3-PB-loop.flac
 volume=4
 
 lokey=a3
@@ -157,7 +157,7 @@ pitch_keycenter=a3
 // removed a#3, a3 is a better loop (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-b3-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-b3-PB-loop.flac
 volume=3
 
 lokey=b3
@@ -165,14 +165,14 @@ hikey=b3
 pitch_keycenter=b3
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-c4-PB-loop.flac
 volume=3
 
 lokey=c4
 hikey=c4
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-c#4-PB-loop.flac
 volume=1
 
 lokey=c#4
@@ -182,7 +182,7 @@ pitch_keycenter=c#4
 // removed D4, c#4 is a better sample (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-d#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-d#4-PB-loop.flac
 volume=4
 
 lokey=d#4
@@ -190,7 +190,7 @@ hikey=d#4
 pitch_keycenter=d#4
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-e4-PB-loop.flac
 volume=2.5
 
 lokey=e4
@@ -198,7 +198,7 @@ hikey=e4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-male-f4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-male-f4-PB-loop.flac
 volume=3
 
 lokey=f4

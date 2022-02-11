@@ -36,7 +36,7 @@ ampeg_release=2.0
 ampeg_vel2release=-1.0
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-g3.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-g3.flac
 volume=1
 pan=5
 
@@ -45,7 +45,7 @@ hikey=g#3
 pitch_keycenter=g3
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-a#3.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-a#3.flac
 volume=1
 
 lokey=a3
@@ -53,7 +53,7 @@ hikey=b3
 pitch_keycenter=a#3
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-c#4.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-c#4.flac
 volume=1
 
 lokey=c4
@@ -61,7 +61,7 @@ hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-e4.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-e4.flac
 volume=4
 
 lokey=d#4
@@ -69,13 +69,13 @@ hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-g4.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-g4.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-a#4.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-a#4.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -89,7 +89,7 @@ eq2_bw=2.01
 eq2_gain=-11.2
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-c#5.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-c#5.flac
 volume=1
 
 lokey=c5
@@ -105,7 +105,7 @@ eq2_bw=2.01
 eq2_gain=-11.8
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-e5.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-e5.flac
 volume=1
 
 lokey=d#5
@@ -121,7 +121,7 @@ eq2_bw=2.01
 eq2_gain=-11.8
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-g5.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-g5.flac
 volume=3
 
 lokey=f#5
@@ -137,7 +137,7 @@ eq2_bw=2.01
 eq2_gain=-12.2
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-a#5.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-a#5.flac
 volume=3
 
 lokey=a5
@@ -153,7 +153,7 @@ eq2_bw=2.01
 eq2_gain=-12.2
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-c#6.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-c#6.flac
 volume=2
 
 lokey=c6
@@ -169,7 +169,7 @@ eq2_bw=0.59
 eq2_gain=-11.6
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-e6.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-e6.flac
 volume=2
 
 lokey=d#6
@@ -185,7 +185,7 @@ eq2_bw=1.03
 eq2_gain=-12.2
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-g6.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-g6.flac
 lokey=f#6
 hikey=g#6
 pitch_keycenter=g6
@@ -199,7 +199,7 @@ eq2_bw=1.03
 eq2_gain=-11.7
 
 <region>
-sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-a#6.wav
+sample=..\libs\SSO\Samples\2nd Violins\2nd-violins-sus-a#6.flac
 lokey=a6
 hikey=a7
 pitch_keycenter=a#6

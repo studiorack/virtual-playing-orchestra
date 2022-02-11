@@ -37,25 +37,25 @@ ampeg_release=0.6
 
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#1-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#1-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=a#1
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B1-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B1-PB.flac
 pitch_keycenter=b1
 lokey=b1
 hikey=b1
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C2-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#2-PB.flac
 tune=-7
 
 pitch_keycenter=c#2
@@ -65,7 +65,7 @@ hikey=d2
 // removed D2, tuning issues
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#2-PB.flac
 tune=-10
 
 pitch_keycenter=d#2
@@ -73,7 +73,7 @@ lokey=d#2
 hikey=d#2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.E2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.E2-PB.flac
 tune=-5
 
 pitch_keycenter=e2
@@ -81,19 +81,19 @@ lokey=e2
 hikey=e2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F2-PB.flac
 pitch_keycenter=f2
 lokey=f2
 hikey=f2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#2-PB.flac
 pitch_keycenter=f#2
 lokey=f#2
 hikey=f#2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G2-PB.flac
 tune=-5
 
 pitch_keycenter=g2
@@ -103,7 +103,7 @@ hikey=g#2
 // removed G#2, tuning issues (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A2-PB.flac
 tune=-5
 
 pitch_keycenter=a2
@@ -111,7 +111,7 @@ lokey=a2
 hikey=a2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#2-PB.flac
 tune=5
 
 pitch_keycenter=a#2
@@ -119,7 +119,7 @@ lokey=a#2
 hikey=a#2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B2-PB.flac
 tune=11
 
 pitch_keycenter=b2
@@ -127,7 +127,7 @@ lokey=b2
 hikey=b2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C3-PB.flac
 volume=1
 tune=5
 
@@ -136,13 +136,13 @@ lokey=c3
 hikey=c3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#3-PB.flac
 pitch_keycenter=c#3
 lokey=c#3
 hikey=c#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D3-PB.flac
 tune=-7
 
 pitch_keycenter=d3
@@ -150,7 +150,7 @@ lokey=d3
 hikey=d3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#3-PB.flac
 tune=-15
 
 pitch_keycenter=d#3
@@ -160,7 +160,7 @@ hikey=e3
 // removed E3, tuning issues
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F3-PB.flac
 tune=-15
 
 pitch_keycenter=f3
@@ -168,7 +168,7 @@ lokey=f3
 hikey=f3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#3-PB.flac
 tune=-15
 
 pitch_keycenter=f#3
@@ -176,7 +176,7 @@ lokey=f#3
 hikey=f#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G3-PB.flac
 volume=1
 
 pitch_keycenter=g3
@@ -184,13 +184,13 @@ lokey=g3
 hikey=g3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G#3-PB.flac
 pitch_keycenter=g#3
 lokey=g#3
 hikey=g#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A3-PB.flac
 tune=-25
 
 pitch_keycenter=a3
@@ -198,7 +198,7 @@ lokey=a3
 hikey=a3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#3-PB.flac
 volume=2
 tune=-3
 
@@ -209,7 +209,7 @@ hikey=b3
 // there is no B3 sample (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C4-PB.flac
 volume=1
 
 pitch_keycenter=c4
@@ -217,7 +217,7 @@ lokey=c4
 hikey=c4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C#4-PB.flac
 volume=1
 
 pitch_keycenter=c#4
@@ -225,13 +225,13 @@ lokey=c#4
 hikey=c#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D4-PB.flac
 pitch_keycenter=d4
 lokey=d4
 hikey=d4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.D#4-PB.flac
 volume=2
 tune=20
 
@@ -240,7 +240,7 @@ lokey=d#4
 hikey=d#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.E4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.E4-PB.flac
 volume=2
 
 pitch_keycenter=e4
@@ -250,7 +250,7 @@ hikey=f4
 // F4 sounds bad (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.F#4-PB.flac
 volume=1.5
 tune=-20
 
@@ -261,7 +261,7 @@ hikey=g4
 // removed G4, has a click sound
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.G#4-PB.flac
 tune=-35
 
 pitch_keycenter=g#4
@@ -269,7 +269,7 @@ lokey=g#4
 hikey=g#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A4-PB.flac
 volume=2
 tune=-15
 
@@ -278,7 +278,7 @@ lokey=a4
 hikey=a4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.A#4-PB.flac
 tune=-10
 
 pitch_keycenter=a#4
@@ -286,7 +286,7 @@ lokey=a#4
 hikey=a#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.B4-PB.flac
 tune=-25
 
 pitch_keycenter=b4
@@ -294,7 +294,7 @@ lokey=b4
 hikey=b4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C5-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.ff.C5-PB.flac
 tune=-15
 
 pitch_keycenter=c5
@@ -324,25 +324,25 @@ ampeg_release=0.6
 
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#1-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#1-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=a#1
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B1-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B1-PB.flac
 pitch_keycenter=b1
 lokey=b1
 hikey=b1
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C2-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#2-PB.flac
 tune=-10
 
 pitch_keycenter=c#2
@@ -352,7 +352,7 @@ hikey=d#2
 // removed D2, D#2 - tuning issues (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E2-PB.flac
 tune=-10
 
 pitch_keycenter=e2
@@ -360,19 +360,19 @@ lokey=e2
 hikey=e2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F2-PB.flac
 pitch_keycenter=f2
 lokey=f2
 hikey=f2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#2-PB.flac
 pitch_keycenter=f#2
 lokey=f#2
 hikey=f#2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G2-PB.flac
 pitch_keycenter=g2
 lokey=g2
 hikey=g#2
@@ -380,7 +380,7 @@ hikey=g#2
 // removed G#2, tuning issues (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A2-PB.flac
 tune=-10
 
 pitch_keycenter=a2
@@ -388,7 +388,7 @@ lokey=a2
 hikey=a2
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#2-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#2-PB.flac
 pitch_keycenter=a#2
 lokey=a#2
 hikey=b2
@@ -396,7 +396,7 @@ hikey=b2
 // removed B2, has a click in it (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C3-PB.flac
 tune=5
 
 pitch_keycenter=c3
@@ -404,7 +404,7 @@ lokey=c3
 hikey=c3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#3-PB.flac
 tune=-10
 
 pitch_keycenter=c#3
@@ -412,7 +412,7 @@ lokey=c#3
 hikey=c#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D3-PB.flac
 tune=-10
 
 pitch_keycenter=d3
@@ -420,7 +420,7 @@ lokey=d3
 hikey=d3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D#3-PB.flac
 tune=-15
 
 pitch_keycenter=d#3
@@ -428,13 +428,13 @@ lokey=d#3
 hikey=d#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E3-PB.flac
 pitch_keycenter=e3
 lokey=e3
 hikey=e3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F3-PB.flac
 tune=-15
 
 pitch_keycenter=f3
@@ -442,7 +442,7 @@ lokey=f3
 hikey=f3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#3-PB.flac
 tune=-25
 
 pitch_keycenter=f#3
@@ -450,7 +450,7 @@ lokey=f#3
 hikey=f#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G3-PB.flac
 pitch_keycenter=g3
 lokey=g3
 hikey=a3
@@ -458,13 +458,13 @@ hikey=a3
 // removed G#3, A3, tuning issues (PB)
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#3-PB.flac
 pitch_keycenter=a#3
 lokey=a#3
 hikey=a#3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B3-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B3-PB.flac
 tune=-10
 
 pitch_keycenter=b3
@@ -472,43 +472,43 @@ lokey=b3
 hikey=b3
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C4-PB.flac
 pitch_keycenter=c4
 lokey=c4
 hikey=c4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C#4-PB.flac
 pitch_keycenter=c#4
 lokey=c#4
 hikey=c#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D4-PB.flac
 pitch_keycenter=d4
 lokey=d4
 hikey=d4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.D#4-PB.flac
 pitch_keycenter=d#4
 lokey=d#4
 hikey=d#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.E4-PB.flac
 pitch_keycenter=e4
 lokey=e4
 hikey=e4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F4-PB.flac
 pitch_keycenter=f4
 lokey=f4
 hikey=f4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.F#4-PB.flac
 tune=-15
 
 pitch_keycenter=f#4
@@ -516,7 +516,7 @@ lokey=f#4
 hikey=f#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G4-PB.flac
 tune=-20
 
 pitch_keycenter=g4
@@ -524,7 +524,7 @@ lokey=g4
 hikey=g4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.G#4-PB.flac
 tune=-35
 
 pitch_keycenter=g#4
@@ -532,13 +532,13 @@ lokey=g#4
 hikey=g#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A4-PB.flac
 pitch_keycenter=a4
 lokey=a4
 hikey=a4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.A#4-PB.flac
 tune=-10
 
 pitch_keycenter=a#4
@@ -546,7 +546,7 @@ lokey=a#4
 hikey=a#4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B4-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.B4-PB.flac
 tune=-25
 
 pitch_keycenter=b4
@@ -554,7 +554,7 @@ lokey=b4
 hikey=b4
 
 <region>
-sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C5-PB.wav
+sample=../libs/Iowa/samples/Bassoon-solo/Bassoon.mf.C5-PB.flac
 tune=-20
 
 pitch_keycenter=c5

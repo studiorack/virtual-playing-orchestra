@@ -37,7 +37,7 @@ delay_random=0.012
 //-------------- low velocity --------------
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v1_RR2.flac
 pan=-15
 
 lokey=55
@@ -49,7 +49,7 @@ volume=25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v1_RR1.flac
 pan=-30
 
 lokey=45
@@ -61,7 +61,7 @@ volume=27
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v1_RR2.flac
 pan=-33
 
 lokey=69
@@ -73,7 +73,7 @@ volume=26
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v1_RR1.flac
 pan=-15
 
 lokey=36
@@ -87,7 +87,7 @@ volume=24
 // removed pizzT_C3 - bad click sound (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v1_RR2.flac
 pan=-30
 
 lokey=49
@@ -99,7 +99,7 @@ volume=27
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v1_RR1.flac
 pan=-25
 
 lokey=73
@@ -111,7 +111,7 @@ volume=27
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v1_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v1_RR2.flac
 pan=-20
 
 lokey=39
@@ -123,7 +123,7 @@ volume=29
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v1_RR1.flac
 pan=-24
 
 lokey=61
@@ -135,7 +135,7 @@ volume=23
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v1_RR1.flac
 pan=-35
 
 lokey=52
@@ -147,7 +147,7 @@ volume=25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v1_RR1.flac
 pan=-20
 
 lokey=76
@@ -159,7 +159,7 @@ volume=30
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v1_RR1.flac
 pan=-20
 
 lokey=42
@@ -171,7 +171,7 @@ volume=25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v1_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v1_RR1.flac
 pan=-15
 
 lokey=66
@@ -184,7 +184,7 @@ volume=25
 //-------------- high velocity --------------
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v2_RR1.flac
 pan=-20
 
 lokey=55
@@ -196,7 +196,7 @@ volume=13
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v2_RR1.flac
 pan=-30
 
 lokey=45
@@ -208,7 +208,7 @@ volume=16
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v2_RR2.flac
 pan=-30
 
 lokey=69
@@ -220,7 +220,7 @@ volume=15
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v2_RR1.flac
 pan=-18
 
 lokey=36
@@ -234,7 +234,7 @@ volume=13
 // removed pizzT_C3 - bad click sound (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v2_RR1.flac
 pan=-35
 
 lokey=49
@@ -246,7 +246,7 @@ volume=11
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v2_RR1.flac
 pan=-12
 
 lokey=73
@@ -258,7 +258,7 @@ volume=13
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v2_RR2.flac
 pan=-25
 
 lokey=39
@@ -270,7 +270,7 @@ volume=18
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v2_RR1.flac
 pan=-25
 
 lokey=61
@@ -282,7 +282,7 @@ volume=12
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v2_RR1.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v2_RR1.flac
 pan=-25
 
 lokey=52
@@ -294,7 +294,7 @@ volume=14
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v2_RR2.flac
 pan=-20
 
 lokey=76
@@ -306,7 +306,7 @@ volume=10
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v2_RR2.flac
 pan=-25
 
 lokey=42
@@ -318,7 +318,7 @@ volume=18
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v2_RR2.wav
+sample=..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v2_RR2.flac
 pan=-20
 
 lokey=66

@@ -58,14 +58,14 @@ pitchlfo_fade=1.0
 // add some volume vibrato [sfz2.0] (PB)
 lfo01_delay=2.1
 lfo01_fade=0.5
-lfo01_wave=1
+lfo01_flace=1
 lfo01_volume=0.20
 lfo01_freq=2.59
 
 // add some pitch vibrato [sfz2.0] (PB)
 lfo02_delay=2.5
 lfo02_fade=0.5
-lfo02_wave=1
+lfo02_flace=1
 lfo02_pitch=5
 lfo02_freq=2.79
 
@@ -75,42 +75,42 @@ fil_type=lpf_2p
 cutoff=120
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g1-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g1-PB-loop.flac
 // extend range to Bb0, I've heard a bass trombone play this low (PB)
 lokey=a#0
 hikey=g#1
 pitch_keycenter=g1
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#1-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#1-PB-loop.flac
 lokey=a1
 hikey=b1
 pitch_keycenter=a#1
 volume=4.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#2-PB-loop.flac
 lokey=c2
 hikey=d2
 pitch_keycenter=c#2
 volume=4.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e2-PB-loop.flac
 lokey=d#2
 hikey=f2
 pitch_keycenter=e2
 volume=7
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
 volume=5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#2-PB-loop.flac
 lokey=a2
 hikey=c#3
 pitch_keycenter=a#2
@@ -119,7 +119,7 @@ volume=3
 // removed sample c#3 due to buzz noise(PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e3-PB-loop.flac
 lokey=d3
 hikey=f3
 pitch_keycenter=e3
@@ -140,28 +140,28 @@ eq3_gain=-7.4
 
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
 volume=5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
 volume=3
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
 volume=5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e4-PB-loop.flac
 lokey=d#4
 // extend range to F5, I've heard a bass trombone play this high (PB)
 hikey=f5
@@ -212,7 +212,7 @@ fil_type=lpf_2p
 cutoff=120
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g1-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g1-PB-loop.flac
 volume=-4
 
 // extend range to Bb0, I've heard a bass trombone play this low (PB)
@@ -221,14 +221,14 @@ hikey=g#1
 pitch_keycenter=g1
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#1-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#1-PB-loop.flac
 lokey=a1
 hikey=b1
 pitch_keycenter=a#1
 volume=-2.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#2-PB-loop.flac
 offset=4000
 
 lokey=c2
@@ -237,7 +237,7 @@ pitch_keycenter=c#2
 volume=-2.5
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e2-PB-loop.flac
 ampeg_attack=0.3
 
 lokey=d#2
@@ -248,7 +248,7 @@ volume=0
 // removed g2 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#2-PB-loop.flac
 offset=2000
 
 lokey=a2
@@ -259,7 +259,7 @@ volume=-3
 // removed sample c#3 due to buzz noise(PB)
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e3-PB-loop.flac
 
 lokey=d3
 hikey=f3
@@ -281,21 +281,21 @@ eq3_gain=-7.4
 
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
 volume=0
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
 volume=1
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#4-PB-loop.flac
 offset=0
 
 lokey=c4
@@ -304,7 +304,7 @@ pitch_keycenter=c#4
 volume=8
 
 <region>
-sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Bass Trombone\bass_trombone-e4-PB-loop.flac
 lokey=d#4
 // extend range to F5, I've heard a bass trombone play this high (PB)
 hikey=f5

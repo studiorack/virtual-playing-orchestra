@@ -78,26 +78,26 @@ fil_type=lpf_2p
 cutoff=120
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-e1-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-e1-PB.flac
 lokey=d1
 hikey=f1
 pitch_keycenter=e1
 tune=-50
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-g1-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-g1-PB.flac
 lokey=f#1
 hikey=g#1
 pitch_keycenter=g1
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-a#1-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-a#1-PB.flac
 lokey=a1
 hikey=b1
 pitch_keycenter=a#1
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-c#2-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-c#2-PB.flac
 volume=-30
 
 lokey=c2
@@ -105,7 +105,7 @@ hikey=d2
 pitch_keycenter=c#2
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-e2-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-e2-PB.flac
 tune=-90
 
 lokey=d#2
@@ -113,7 +113,7 @@ hikey=f2
 pitch_keycenter=e2
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-g2-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-g2-PB.flac
 tune=10
 
 lokey=f#2
@@ -121,7 +121,7 @@ hikey=g#2
 pitch_keycenter=g2
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-a#2-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-a#2-PB.flac
 tune=-100
 
 lokey=a2
@@ -129,13 +129,13 @@ hikey=b2
 pitch_keycenter=a#2
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-c#3-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-c#3-PB.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-e3-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr1-e3-PB.flac
 tune=15
 
 lokey=d#3
@@ -143,7 +143,7 @@ hikey=f3
 pitch_keycenter=e3
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-g3-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-g3-PB.flac
 tune=-100
 
 lokey=f#3
@@ -151,7 +151,7 @@ hikey=g#3
 pitch_keycenter=g3
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-a#3-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-a#3-PB.flac
 tune=-100
 
 lokey=a3
@@ -159,7 +159,7 @@ hikey=b3
 pitch_keycenter=a#3
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-c#4-PB.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-stc-rr2-c#4-PB.flac
 tune=-100
 
 lokey=c4
@@ -233,7 +233,7 @@ gain_cc1=24
 amp_veltrack=60
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.flac
 lokey=b1
 hikey=f2
 pitch_keycenter=e2
@@ -242,7 +242,7 @@ pan=-35
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
@@ -251,7 +251,7 @@ pan=-20
 volume=-23
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
@@ -260,7 +260,7 @@ pan=-10
 volume=-20.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
@@ -269,7 +269,7 @@ pan=-15
 volume=-21
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
@@ -278,7 +278,7 @@ pan=-20
 volume=-21
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
@@ -287,7 +287,7 @@ pan=-20
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -296,7 +296,7 @@ pan=-20
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -305,7 +305,7 @@ pan=-30
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -314,7 +314,7 @@ pan=-25
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -323,7 +323,7 @@ pan=-15
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -332,7 +332,7 @@ pan=-30
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -344,7 +344,7 @@ volume=-24
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.flac
 tune=0
 pan=-10
 volume=-23
@@ -388,7 +388,7 @@ gain_cc1=24
 amp_veltrack=60
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.flac
 lokey=b1
 hikey=f2
 pitch_keycenter=e2
@@ -397,7 +397,7 @@ pan=-20
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
@@ -406,7 +406,7 @@ pan=-30
 volume=-25
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
@@ -415,7 +415,7 @@ pan=-25
 volume=-17.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
@@ -424,7 +424,7 @@ pan=-20
 volume=-12
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
@@ -433,7 +433,7 @@ pan=-45
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
@@ -442,7 +442,7 @@ pan=-55
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -451,7 +451,7 @@ pan=-20
 volume=-17
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -460,7 +460,7 @@ pan=-30
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -469,7 +469,7 @@ pan=-20
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -478,7 +478,7 @@ pan=-40
 volume=-19
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -487,7 +487,7 @@ pan=-25
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -496,7 +496,7 @@ pan=-30
 volume=-19
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.flac
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
@@ -561,31 +561,31 @@ gain_cc1=24
 amp_veltrack=60
 
 
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\2_F.wav pitch_keycenter=f2 lokey=e2 hikey=f#2
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\2_A.wav pitch_keycenter=a2 lokey=g2 hikey=a#2
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_C.wav pitch_keycenter=c3 lokey=b2 hikey=c#3
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\2_F.flac pitch_keycenter=f2 lokey=e2 hikey=f#2
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\2_A.flac pitch_keycenter=a2 lokey=g2 hikey=a#2
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_C.flac pitch_keycenter=c3 lokey=b2 hikey=c#3
 volume=-27
 
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_Eb.wav pitch_keycenter=d#3 lokey=d3 hikey=e3
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_Eb.flac pitch_keycenter=d#3 lokey=d3 hikey=e3
 volume=-28
 pan=55
 
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_Gb.wav pitch_keycenter=f#3 lokey=f3 hikey=g3
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_Gb.flac pitch_keycenter=f#3 lokey=f3 hikey=g3
 pan=45
 
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_A.wav pitch_keycenter=a3 lokey=g#3 hikey=a#3
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_C.wav pitch_keycenter=c4 lokey=b3 hikey=c#4
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_A.flac pitch_keycenter=a3 lokey=g#3 hikey=a#3
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_C.flac pitch_keycenter=c4 lokey=b3 hikey=c#4
 volume=-30
 pan=50
 
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_Eb.wav pitch_keycenter=d#4 lokey=d4 hikey=e4
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_Eb.flac pitch_keycenter=d#4 lokey=d4 hikey=e4
 ampeg_release=0.8
 
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_Gb.wav pitch_keycenter=f#4 lokey=f4 hikey=g4
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_Gb.flac pitch_keycenter=f#4 lokey=f4 hikey=g4
 volume=-30
 
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_A.wav pitch_keycenter=a4 lokey=g#4 hikey=a#4
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\5_C.wav pitch_keycenter=c5 lokey=b4 hikey=f5
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_A.flac pitch_keycenter=a4 lokey=g#4 hikey=a#4
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\5_C.flac pitch_keycenter=c5 lokey=b4 hikey=f5
 
 <group>
 pan=40
@@ -620,21 +620,21 @@ gain_cc1=24
 amp_veltrack=60
 
 
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\2_F_p.wav  pitch_keycenter=f2 lokey=e2  hikey=g2
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\2_F_p.flac  pitch_keycenter=f2 lokey=e2  hikey=g2
 tune=-5
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\2_Bb_p.wav pitch_keycenter=a#2 lokey=g#2 hikey=c3
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\2_Bb_p.flac pitch_keycenter=a#2 lokey=g#2 hikey=c3
 tune=-5
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_Eb_p-PB-loop.wav pitch_keycenter=d#3 lokey=c#3 hikey=f3
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_Eb_p-PB-loop.flac pitch_keycenter=d#3 lokey=c#3 hikey=f3
 volume=-28
 
 tune=-5
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_Ab_p.wav pitch_keycenter=g#3 lokey=f#3 hikey=a#3
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_Db_p.wav pitch_keycenter=c#4 lokey=b3 hikey=d#4
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_Gb_p.wav pitch_keycenter=f#4 lokey=e4 hikey=g#4
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\3_Ab_p.flac pitch_keycenter=g#3 lokey=f#3 hikey=a#3
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_Db_p.flac pitch_keycenter=c#4 lokey=b3 hikey=d#4
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_Gb_p.flac pitch_keycenter=f#4 lokey=e4 hikey=g#4
 volume=-30
 
 tune=-15
-<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_B_p.wav pitch_keycenter=b4 lokey=a4 hikey=f5
+<region> sample=..\libs\NoBudgetOrch2\Trombone\TromboneSect\Sustain\4_B_p.flac pitch_keycenter=b4 lokey=a4 hikey=f5
 
 
 
@@ -695,58 +695,58 @@ amp_veltrack=60
 
 
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_G.wav pitch_keycenter=g3 lokey=f#3 hikey=g3
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_G.flac pitch_keycenter=g3 lokey=f#3 hikey=g3
 volume=-23.5
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Ab.wav key=g#3
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Bb.wav pitch_keycenter=a#3 lokey=a3 hikey=a#3
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Ab.flac key=g#3
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Bb.flac pitch_keycenter=a#3 lokey=a3 hikey=a#3
 volume=-24
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_C.wav pitch_keycenter=c4 lokey=b3 hikey=c4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_C.flac pitch_keycenter=c4 lokey=b3 hikey=c4
 volume=-23.5
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_D.wav pitch_keycenter=d4 lokey=c#4 hikey=d4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_D.flac pitch_keycenter=d4 lokey=c#4 hikey=d4
 volume=-23.5
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_E.wav pitch_keycenter=e4 lokey=d#4 hikey=e4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_E.flac pitch_keycenter=e4 lokey=d#4 hikey=e4
 volume=-25.5
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_F.wav key=f4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_F.flac key=f4
 volume=-26
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_G.wav pitch_keycenter=g4 lokey=f#4 hikey=g4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_G.flac pitch_keycenter=g4 lokey=f#4 hikey=g4
 volume=-23
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_A.wav pitch_keycenter=a4 lokey=g#4 hikey=a4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_A.flac pitch_keycenter=a4 lokey=g#4 hikey=a4
 volume=-24
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Bb.wav key=a#4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Bb.flac key=a#4
 volume=-24
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_C.wav pitch_keycenter=c5 lokey=b4 hikey=c5
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_C.flac pitch_keycenter=c5 lokey=b4 hikey=c5
 volume=-24.5
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_D.wav pitch_keycenter=d5 lokey=c#5 hikey=d5
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_D.flac pitch_keycenter=d5 lokey=c#5 hikey=d5
 
 volume=-25.5
 pan=20
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Eb.wav key=d#5
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_F.wav pitch_keycenter=f5 lokey=e5 hikey=f5
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Eb.flac key=d#5
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_F.flac pitch_keycenter=f5 lokey=e5 hikey=f5
 
 volume=-26
 pan=45
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_G.wav pitch_keycenter=g5 lokey=f#5 hikey=g5
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_G.flac pitch_keycenter=g5 lokey=f#5 hikey=g5
 volume=-27
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_A.wav pitch_keycenter=a5 lokey=g#5 hikey=a5
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_A.flac pitch_keycenter=a5 lokey=g#5 hikey=a5
 volume=-24.5
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_B.wav pitch_keycenter=b5 lokey=a#5 hikey=b5
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_B.flac pitch_keycenter=b5 lokey=a#5 hikey=b5
 volume=-26
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\6_Db.wav pitch_keycenter=c#6 lokey=c6 hikey=c6
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\6_Db.flac pitch_keycenter=c#6 lokey=c6 hikey=c6
 volume=-26
 
 
@@ -784,21 +784,21 @@ amp_veltrack=60
 
 
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Bb_p.wav pitch_keycenter=a#3 lokey=f#3 hikey=c4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Bb_p.flac pitch_keycenter=a#3 lokey=f#3 hikey=c4
 volume=-23.5
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Eb_p.wav pitch_keycenter=d#4 lokey=c#4 hikey=f4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Eb_p.flac pitch_keycenter=d#4 lokey=c#4 hikey=f4
 volume=-23.5
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Ab_p.wav pitch_keycenter=g#4 lokey=f#4 hikey=a#4
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Ab_p.flac pitch_keycenter=g#4 lokey=f#4 hikey=a#4
 volume=-23
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Db_p.wav pitch_keycenter=c#5 lokey=b4 hikey=e5
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Db_p.flac pitch_keycenter=c#5 lokey=b4 hikey=e5
 
 volume=-25.5
 pan=20
 
-<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Ab_p.wav pitch_keycenter=g#5 lokey=f5 hikey=c6
+<region> sample=..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Ab_p.flac pitch_keycenter=g#5 lokey=f5 hikey=c6
 volume=-27
 
 

@@ -63,7 +63,7 @@ group_label=gr_1
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_A3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_A3_v2_rr1-PB.flac
 lokey=67
 hikey=70
 pitch_keycenter=69
@@ -73,7 +73,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B2_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B2_v2_rr1-PB.flac
 lokey=57
 hikey=60
 pitch_keycenter=59
@@ -83,7 +83,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B4_v2_rr1-PB.flac
 lokey=81
 hikey=84
 pitch_keycenter=83
@@ -93,7 +93,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C2_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C2_v2_rr1-PB.flac
 lokey=48
 hikey=51
 pitch_keycenter=48
@@ -103,7 +103,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C4_v2_rr1-PB.flac
 lokey=71
 hikey=73
 pitch_keycenter=72
@@ -113,7 +113,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D3_v2_rr1-PB.flac
 lokey=61
 hikey=63
 pitch_keycenter=62
@@ -123,7 +123,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D5_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D5_v2_rr1-PB.flac
 lokey=85
 hikey=93
 pitch_keycenter=86
@@ -133,7 +133,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E2_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E2_v2_rr1-PB.flac
 lokey=52
 hikey=53
 pitch_keycenter=52
@@ -143,7 +143,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E4_v2_rr1-PB.flac
 lokey=74
 hikey=77
 pitch_keycenter=76
@@ -153,7 +153,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_F3_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_F3_v2_rr1-PB.flac
 lokey=64
 hikey=66
 pitch_keycenter=65
@@ -163,7 +163,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G2_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G2_v2_rr1-PB.flac
 lokey=54
 hikey=56
 pitch_keycenter=55
@@ -173,7 +173,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G4_v2_rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G4_v2_rr1-PB.flac
 lokey=78
 hikey=80
 pitch_keycenter=79
@@ -216,7 +216,7 @@ group_label=gr_2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_A3_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_A3_v2_rr2-PB.flac
 lokey=67
 hikey=70
 pitch_keycenter=69
@@ -226,7 +226,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B2_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B2_v2_rr2-PB.flac
 lokey=57
 hikey=60
 pitch_keycenter=59
@@ -236,7 +236,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B4_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B4_v2_rr2-PB.flac
 lokey=81
 hikey=84
 pitch_keycenter=83
@@ -246,7 +246,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C2_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C2_v2_rr2-PB.flac
 pan=-10
 
 lokey=48
@@ -258,7 +258,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C4_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C4_v2_rr2-PB.flac
 lokey=71
 hikey=73
 pitch_keycenter=72
@@ -268,7 +268,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D3_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D3_v2_rr2-PB.flac
 lokey=61
 hikey=63
 pitch_keycenter=62
@@ -278,7 +278,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D5_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D5_v2_rr2-PB.flac
 lokey=85
 hikey=93
 pitch_keycenter=86
@@ -288,7 +288,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E2_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E2_v2_rr2-PB.flac
 lokey=52
 hikey=53
 pitch_keycenter=52
@@ -298,7 +298,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E4_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E4_v2_rr2-PB.flac
 lokey=74
 hikey=77
 pitch_keycenter=76
@@ -308,7 +308,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_F3_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_F3_v2_rr2-PB.flac
 lokey=64
 hikey=66
 pitch_keycenter=65
@@ -318,7 +318,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G2_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G2_v2_rr2-PB.flac
 lokey=54
 hikey=56
 pitch_keycenter=55
@@ -328,7 +328,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G4_v2_rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G4_v2_rr2-PB.flac
 lokey=78
 hikey=80
 pitch_keycenter=79
@@ -381,74 +381,74 @@ volume=-38.68
 
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c3.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c3.flac
 lokey=c3
 hikey=c#3
 pitch_keycenter=c3
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#3.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#3.flac
 lokey=d3
 hikey=e3
 pitch_keycenter=d#3
 volume=-41.5
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#3.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#3.flac
 lokey=f3
 hikey=g3
 pitch_keycenter=f#3
 volume=-41.5
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a3.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a3.flac
 lokey=g#3
 hikey=a#3
 pitch_keycenter=a3
 volume=-41
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c4.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c4.flac
 lokey=b3
 hikey=c#4
 volume=-41
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#4.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#4.flac
 lokey=d4
 hikey=e4
 pitch_keycenter=d#4
 volume=-41
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#4.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#4.flac
 lokey=f4
 hikey=g4
 pitch_keycenter=f#4
 volume=-42
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a4.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a4.flac
 lokey=g#4
 hikey=a#4
 pitch_keycenter=a4
 volume=-42
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c5.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c5.flac
 lokey=b4
 hikey=c#5
 pitch_keycenter=c5
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#5.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#5.flac
 lokey=d5
 hikey=e5
 pitch_keycenter=d#5
 volume=-42
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#5.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#5.flac
 lokey=f5
 hikey=g5
 pitch_keycenter=f#5
@@ -464,7 +464,7 @@ eq2_bw=2.29
 eq2_gain=-12.0
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a5.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a5.flac
 lokey=g#5
 hikey=a#5
 pitch_keycenter=a5
@@ -480,7 +480,7 @@ eq2_bw=2.29
 eq2_gain=-12.0
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c6.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c6.flac
 lokey=b5
 hikey=c#6
 pitch_keycenter=c6
@@ -496,7 +496,7 @@ eq2_bw=2.29
 eq2_gain=-10.6
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#6.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#6.flac
 lokey=d6
 hikey=e6
 pitch_keycenter=d#6
@@ -512,7 +512,7 @@ eq2_bw=1.86
 eq2_gain=-12.8
 
 <region>
-sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#6.wav
+sample=..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#6.flac
 lokey=f6
 hikey=g6
 pitch_keycenter=f#6
@@ -566,7 +566,7 @@ delay_random=0.012
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_A3_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_A3_v2_1-PB-loop.flac
 lokey=67
 hikey=70
 pitch_keycenter=69
@@ -576,7 +576,7 @@ volume=-29.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_B2_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_B2_v2_1-PB-loop.flac
 lokey=57
 hikey=60
 pitch_keycenter=59
@@ -586,7 +586,7 @@ volume=-29.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_B4_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_B4_v2_1-PB-loop.flac
 offset=2198
 lokey=81
 hikey=84
@@ -607,7 +607,7 @@ eq2_gain=-11.2
 // removed ViolaEns_susvib_C2 (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_C4_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_C4_v2_1-PB-loop.flac
 lokey=71
 hikey=73
 pitch_keycenter=72
@@ -617,7 +617,7 @@ volume=-28.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D2_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D2_v2_1-PB-loop.flac
 lokey=48
 hikey=50
 pitch_keycenter=50
@@ -627,7 +627,7 @@ volume=-28.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D3_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D3_v2_1-PB-loop.flac
 lokey=61
 hikey=63
 pitch_keycenter=62
@@ -637,7 +637,7 @@ volume=-27.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D5_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D5_v2_1-PB-loop.flac
 lokey=85
 hikey=93
 pitch_keycenter=86
@@ -655,7 +655,7 @@ eq2_gain=-10.8
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_E2_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_E2_v2_1-PB-loop.flac
 lokey=51
 hikey=53
 pitch_keycenter=52
@@ -665,7 +665,7 @@ volume=-25.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_E4_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_E4_v2_1-PB-loop.flac
 pan=7
 
 lokey=74
@@ -677,7 +677,7 @@ volume=-29.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_F3_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_F3_v2_1-PB-loop.flac
 lokey=64
 hikey=66
 pitch_keycenter=65
@@ -687,7 +687,7 @@ volume=-27.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_G2_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_G2_v2_1-PB-loop.flac
 lokey=54
 hikey=56
 pitch_keycenter=55
@@ -697,7 +697,7 @@ volume=-28.25
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_G4_v2_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_G4_v2_1-PB-loop.flac
 lokey=78
 hikey=80
 pitch_keycenter=79

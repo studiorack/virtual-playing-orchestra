@@ -21,14 +21,14 @@ delay_random=0.012
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/bass_drum-p-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/bass_drum-p-PB.flac
 key=c2
 volume=7
 xfout_lovel=54
 xfout_hivel=104
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/bass_drum-f-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/bass_drum-f-PB.flac
 key=c2
 volume=7
 xfin_lovel=54
@@ -49,7 +49,7 @@ seq_position=1
 group_label=bass-drum-hit-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v5_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v5_rr1_Sum-PB.flac
 ampeg_release=6
 key=d2
 xfout_lovel=54
@@ -57,7 +57,7 @@ xfout_hivel=104
 volume=10
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v7_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v7_rr1_Sum-PB.flac
 ampeg_release=6
 key=d2
 xfin_lovel=54
@@ -79,7 +79,7 @@ seq_position=2
 group_label=bass-drum-hit-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v5_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v5_rr2_Sum-PB.flac
 ampeg_release=6
 key=d2
 xfout_lovel=54
@@ -87,7 +87,7 @@ xfout_hivel=104
 volume=10
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v7_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v7_rr2_Sum-PB.flac
 ampeg_release=6
 key=d2
 xfin_lovel=54
