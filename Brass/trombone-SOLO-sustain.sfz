@@ -37,70 +37,70 @@ pitchlfo_delay=1
 pitchlfo_fade=1.0
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#2-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#2-PB-loop.flac
 pitch_keycenter=f#2
 lokey=e2
 hikey=a2
 volume=3
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C#3-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C#3-PB-loop.flac
 pitch_keycenter=c#3
 lokey=a#2
 hikey=c#3
 volume=1.5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.D3-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.D3-PB-loop.flac
 pitch_keycenter=d3
 lokey=d3
 hikey=e3
 volume=1
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#3-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#3-PB-loop.flac
 pitch_keycenter=g3
 lokey=f3
 hikey=a3
 volume=5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C#4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C#4-PB-loop.flac
 pitch_keycenter=c#4
 lokey=a#3
 hikey=d4
 volume=6
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.E4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.E4-PB-loop.flac
 pitch_keycenter=e4
 lokey=d#4
 hikey=e4
 volume=6.5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#4-PB-loop.flac
 pitch_keycenter=f#4
 lokey=f4
 hikey=f#4
 volume=5.5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.G4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.G4-PB-loop.flac
 pitch_keycenter=g4
 lokey=g4
 hikey=g4
 volume=1
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.G#4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.G#4-PB-loop.flac
 pitch_keycenter=g#4
 lokey=g#4
 hikey=a#4
 volume=1.5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C5-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C5-PB-loop.flac
 pitch_keycenter=c5
 lokey=b4
 hikey=f5
@@ -131,70 +131,70 @@ pitchlfo_delay=1
 pitchlfo_fade=1.0
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#2-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#2-PB-loop.flac
 pitch_keycenter=f#2
 lokey=e2
 hikey=a2
 volume=2
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C#3-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C#3-PB-loop.flac
 pitch_keycenter=c#3
 lokey=a#2
 hikey=c#3
 volume=2.5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.D3-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.D3-PB-loop.flac
 pitch_keycenter=d3
 lokey=d3
 hikey=e3
 volume=5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#3-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#3-PB-loop.flac
 pitch_keycenter=f#3
 lokey=f3
 hikey=a3
 volume=6
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C#4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C#4-PB-loop.flac
 pitch_keycenter=c#4
 lokey=a#3
 hikey=d4
 volume=3.5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.E4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.E4-PB-loop.flac
 pitch_keycenter=e4
 lokey=d#4
 hikey=e4
 volume=2
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#4-PB-loop.flac
 pitch_keycenter=f#4
 lokey=f4
 hikey=f#4
 volume=0.5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.G4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.G4-PB-loop.flac
 pitch_keycenter=g4
 lokey=g4
 hikey=g4
 volume=2.5
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.G#4-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.G#4-PB-loop.flac
 pitch_keycenter=g#4
 lokey=g#4
 hikey=a#4
 volume=-1
 
 <region>
-sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C5-PB-loop.wav
+sample=../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C5-PB-loop.flac
 pitch_keycenter=c5
 lokey=b4
 hikey=f5

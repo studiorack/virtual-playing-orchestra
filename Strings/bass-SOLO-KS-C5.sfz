@@ -66,7 +66,7 @@ pitchlfo_fade=2.0
 // removed A#0 (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_A1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_A1_v3_rr1-PB-loop.flac
 lokey=45
 hikey=46
 pitch_keycenter=45
@@ -76,7 +76,7 @@ volume=14
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_B2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_B2_v3_rr1-PB-loop.flac
 lokey=58
 hikey=67
 pitch_keycenter=59
@@ -88,7 +88,7 @@ pitchlfo_fade=1.0 // adjust vibrato (PB)
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C#2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C#2_v3_rr1-PB-loop.flac
 lokey=47
 hikey=50
 pitch_keycenter=49
@@ -98,7 +98,7 @@ volume=27
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C1_v3_rr1-PB-loop.flac
 lokey=35
 hikey=36
 pitch_keycenter=36
@@ -107,7 +107,7 @@ hivel=127
 volume=20.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_D1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_D1_v3_rr1-PB-loop.flac
 lokey=37
 hikey=38
 pitch_keycenter=38
@@ -119,7 +119,7 @@ pitchlfo_fade=1.0
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E1_v3_rr1-PB-loop.flac
 lokey=39
 hikey=40
 pitch_keycenter=40
@@ -131,7 +131,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E2_v3_rr1-PB-loop.flac
 lokey=51
 hikey=53
 pitch_keycenter=52
@@ -143,7 +143,7 @@ pitchlfo_fade=1.0
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#0_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#0_v3_rr1-PB-loop.flac
 lokey=24
 hikey=30
 pitch_keycenter=30
@@ -153,7 +153,7 @@ volume=21.5
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#1_v3_rr1-PB-loop.flac
 lokey=41
 hikey=42
 pitch_keycenter=42
@@ -163,7 +163,7 @@ volume=26
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#1_v3_rr1-PB-loop.flac
 lokey=43
 hikey=44
 pitch_keycenter=44
@@ -175,7 +175,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#2_v3_rr1-PB-loop.flac
 lokey=54
 hikey=57
 pitch_keycenter=56
@@ -187,7 +187,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G0_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G0_v3_rr1-PB-loop.flac
 lokey=31
 hikey=34
 pitch_keycenter=31
@@ -257,7 +257,7 @@ pitchlfo_fade=2.0
 // removed A#0 (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_A1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_A1_v3_rr1-PB-loop.flac
 lokey=45
 hikey=46
 pitch_keycenter=45
@@ -267,7 +267,7 @@ volume=14
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_B2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_B2_v3_rr1-PB-loop.flac
 lokey=58
 hikey=67
 pitch_keycenter=59
@@ -279,7 +279,7 @@ pitchlfo_fade=1.0 // adjust vibrato (PB)
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C#2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C#2_v3_rr1-PB-loop.flac
 lokey=47
 hikey=50
 pitch_keycenter=49
@@ -289,7 +289,7 @@ volume=27
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C1_v3_rr1-PB-loop.flac
 lokey=35
 hikey=36
 pitch_keycenter=36
@@ -298,7 +298,7 @@ hivel=127
 volume=20.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_D1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_D1_v3_rr1-PB-loop.flac
 lokey=37
 hikey=38
 pitch_keycenter=38
@@ -310,7 +310,7 @@ pitchlfo_fade=1.0
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E1_v3_rr1-PB-loop.flac
 lokey=39
 hikey=40
 pitch_keycenter=40
@@ -322,7 +322,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E2_v3_rr1-PB-loop.flac
 lokey=51
 hikey=53
 pitch_keycenter=52
@@ -334,7 +334,7 @@ pitchlfo_fade=1.0
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#0_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#0_v3_rr1-PB-loop.flac
 lokey=24
 hikey=30
 pitch_keycenter=30
@@ -344,7 +344,7 @@ volume=21.5
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#1_v3_rr1-PB-loop.flac
 lokey=41
 hikey=42
 pitch_keycenter=42
@@ -354,7 +354,7 @@ volume=26
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#1_v3_rr1-PB-loop.flac
 lokey=43
 hikey=44
 pitch_keycenter=44
@@ -366,7 +366,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#2_v3_rr1-PB-loop.flac
 lokey=54
 hikey=57
 pitch_keycenter=56
@@ -378,7 +378,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G0_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G0_v3_rr1-PB-loop.flac
 lokey=31
 hikey=34
 pitch_keycenter=31
@@ -441,69 +441,69 @@ ampeg_decay=0.06
 ampeg_release=1.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr1-PB.flac
 pitch_keycenter=e1
 lokey=c1
 hikey=f1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr1-PB.flac
 pitch_keycenter=f#1
 lokey=f#1
 hikey=f#1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr1-PB.flac
 pitch_keycenter=g1
 lokey=g1
 hikey=a1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr1-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=b1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr1-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr1-PB.flac
 pitch_keycenter=d2
 lokey=d2
 hikey=d#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr1-PB.flac
 pitch_keycenter=e2
 lokey=e2
 hikey=g2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr1-PB.flac
 pitch_keycenter=a2
 lokey=g#2
 hikey=a#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr1-PB.flac
 pitch_keycenter=c#3
 lokey=b2
 hikey=f3
 
-// removed BKCtbss_Spic_E2-rr1-PB.wav (PB)
+// removed BKCtbss_Spic_E2-rr1-PB.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr1-PB.flac
 pitch_keycenter=g#3
 lokey=f#3
 hikey=a#3
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr1-PB.flac
 pitch_keycenter=b3
 lokey=b3
 hikey=g4
@@ -542,55 +542,55 @@ ampeg_decay=0.06
 ampeg_release=1.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr2-PB.flac
 pitch_keycenter=e1
 lokey=c1
 hikey=f1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr2-PB.flac
 pitch_keycenter=f#1
 lokey=f#1
 hikey=f#1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr2-PB.flac
 pitch_keycenter=g1
 lokey=g1
 hikey=a1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr2-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=b1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr2-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr2-PB.flac
 pitch_keycenter=d2
 lokey=d2
 hikey=d#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr2-PB.flac
 pitch_keycenter=e2
 lokey=e2
 hikey=g2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr2-PB.flac
 pitch_keycenter=a2
 lokey=g#2
 hikey=a#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr2-PB.flac
 pitch_keycenter=c#3
 lokey=b2
 hikey=f3
@@ -598,13 +598,13 @@ hikey=f3
 // removed BKCtbss_Spic_E2-rr2 (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr2-PB.flac
 pitch_keycenter=g#3
 lokey=f#3
 hikey=a#3
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr2-PB.flac
 pitch_keycenter=b3
 lokey=b3
 hikey=g4
@@ -668,69 +668,69 @@ ampeg_decay=0.06
 ampeg_release=1.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr1-PB.flac
 pitch_keycenter=e1
 lokey=c1
 hikey=f1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr1-PB.flac
 pitch_keycenter=f#1
 lokey=f#1
 hikey=f#1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr1-PB.flac
 pitch_keycenter=g1
 lokey=g1
 hikey=a1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr1-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=b1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr1-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr1-PB.flac
 pitch_keycenter=d2
 lokey=d2
 hikey=d#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr1-PB.flac
 pitch_keycenter=e2
 lokey=e2
 hikey=g2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr1-PB.flac
 pitch_keycenter=a2
 lokey=g#2
 hikey=a#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr1-PB.flac
 pitch_keycenter=c#3
 lokey=b2
 hikey=f3
 
-// removed BKCtbss_Spic_E2-rr1-PB.wav (PB)
+// removed BKCtbss_Spic_E2-rr1-PB.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr1-PB.flac
 pitch_keycenter=g#3
 lokey=f#3
 hikey=a#3
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr1-PB.flac
 pitch_keycenter=b3
 lokey=b3
 hikey=g4
@@ -763,55 +763,55 @@ ampeg_decay=0.06
 ampeg_release=1.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr2-PB.flac
 pitch_keycenter=e1
 lokey=c1
 hikey=f1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr2-PB.flac
 pitch_keycenter=f#1
 lokey=f#1
 hikey=f#1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr2-PB.flac
 pitch_keycenter=g1
 lokey=g1
 hikey=a1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr2-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=b1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr2-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr2-PB.flac
 pitch_keycenter=d2
 lokey=d2
 hikey=d#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr2-PB.flac
 pitch_keycenter=e2
 lokey=e2
 hikey=g2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr2-PB.flac
 pitch_keycenter=a2
 lokey=g#2
 hikey=a#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr2-PB.flac
 pitch_keycenter=c#3
 lokey=b2
 hikey=f3
@@ -819,13 +819,13 @@ hikey=f3
 // removed BKCtbss_Spic_E2-rr2 (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr2-PB.flac
 pitch_keycenter=g#3
 lokey=f#3
 hikey=a#3
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr2-PB.flac
 pitch_keycenter=b3
 lokey=b3
 hikey=g4
@@ -873,7 +873,7 @@ pitchlfo_fade=2.0
 // removed A#0 (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_A1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_A1_v3_rr1-PB-loop.flac
 lokey=45
 hikey=46
 pitch_keycenter=45
@@ -883,7 +883,7 @@ volume=14
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_B2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_B2_v3_rr1-PB-loop.flac
 lokey=58
 hikey=67
 pitch_keycenter=59
@@ -895,7 +895,7 @@ pitchlfo_fade=1.0 // adjust vibrato (PB)
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C#2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C#2_v3_rr1-PB-loop.flac
 lokey=47
 hikey=50
 pitch_keycenter=49
@@ -905,7 +905,7 @@ volume=27
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C1_v3_rr1-PB-loop.flac
 lokey=35
 hikey=36
 pitch_keycenter=36
@@ -914,7 +914,7 @@ hivel=127
 volume=20.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_D1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_D1_v3_rr1-PB-loop.flac
 lokey=37
 hikey=38
 pitch_keycenter=38
@@ -926,7 +926,7 @@ pitchlfo_fade=1.0
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E1_v3_rr1-PB-loop.flac
 lokey=39
 hikey=40
 pitch_keycenter=40
@@ -938,7 +938,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E2_v3_rr1-PB-loop.flac
 lokey=51
 hikey=53
 pitch_keycenter=52
@@ -950,7 +950,7 @@ pitchlfo_fade=1.0
 tune=-10
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#0_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#0_v3_rr1-PB-loop.flac
 lokey=24
 hikey=30
 pitch_keycenter=30
@@ -960,7 +960,7 @@ volume=21.5
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#1_v3_rr1-PB-loop.flac
 lokey=41
 hikey=42
 pitch_keycenter=42
@@ -970,7 +970,7 @@ volume=26
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#1_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#1_v3_rr1-PB-loop.flac
 lokey=43
 hikey=44
 pitch_keycenter=44
@@ -982,7 +982,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#2_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#2_v3_rr1-PB-loop.flac
 lokey=54
 hikey=57
 pitch_keycenter=56
@@ -994,7 +994,7 @@ pitchlfo_fade=1.0
 tune=-5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G0_v3_rr1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G0_v3_rr1-PB-loop.flac
 lokey=31
 hikey=34
 pitch_keycenter=31
@@ -1053,69 +1053,69 @@ ampeg_decay=0.06
 ampeg_release=1.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr1-PB.flac
 pitch_keycenter=e1
 lokey=c1
 hikey=f1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr1-PB.flac
 pitch_keycenter=f#1
 lokey=f#1
 hikey=f#1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr1-PB.flac
 pitch_keycenter=g1
 lokey=g1
 hikey=a1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr1-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=b1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr1-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr1-PB.flac
 pitch_keycenter=d2
 lokey=d2
 hikey=d#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr1-PB.flac
 pitch_keycenter=e2
 lokey=e2
 hikey=g2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr1-PB.flac
 pitch_keycenter=a2
 lokey=g#2
 hikey=a#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr1-PB.flac
 pitch_keycenter=c#3
 lokey=b2
 hikey=f3
 
-// removed BKCtbss_Spic_E2-rr1-PB.wav (PB)
+// removed BKCtbss_Spic_E2-rr1-PB.flac (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr1-PB.flac
 pitch_keycenter=g#3
 lokey=f#3
 hikey=a#3
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr1-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr1-PB.flac
 pitch_keycenter=b3
 lokey=b3
 hikey=g4
@@ -1148,55 +1148,55 @@ ampeg_decay=0.06
 ampeg_release=1.5
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E0-rr2-PB.flac
 pitch_keycenter=e1
 lokey=c1
 hikey=f1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_F#0-rr2-PB.flac
 pitch_keycenter=f#1
 lokey=f#1
 hikey=f#1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G0-rr2-PB.flac
 pitch_keycenter=g1
 lokey=g1
 hikey=a1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A#0-rr2-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=b1
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C1-rr2-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_D1-rr2-PB.flac
 pitch_keycenter=d2
 lokey=d2
 hikey=d#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_E1-rr2-PB.flac
 pitch_keycenter=e2
 lokey=e2
 hikey=g2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_A1-rr2-PB.flac
 pitch_keycenter=a2
 lokey=g#2
 hikey=a#2
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_C#2-rr2-PB.flac
 pitch_keycenter=c#3
 lokey=b2
 hikey=f3
@@ -1204,13 +1204,13 @@ hikey=f3
 // removed BKCtbss_Spic_E2-rr2 (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_G#2-rr2-PB.flac
 pitch_keycenter=g#3
 lokey=f#3
 hikey=a#3
 
 <region>
-sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr2-PB.wav
+sample=..\libs\VSCO2-CE\Strings/Solo Contrabass/Spic-PB/BKCtbss_Spic_B2-rr2-PB.flac
 pitch_keycenter=b3
 lokey=b3
 hikey=g4
@@ -1254,136 +1254,136 @@ ampeg_decay=0.06
 ampeg_release=1.2
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Eb1-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Eb1-PB.flac
 pitch_keycenter=d#1
 lokey=c1
 hikey=e1
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.F1-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.F1-PB.flac
 pitch_keycenter=f1
 lokey=f1
 hikey=g1
 tune=-10
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.A1-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.A1-PB.flac
 pitch_keycenter=a1
 lokey=g#1
 hikey=a1
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Bb1-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Bb1-PB.flac
 pitch_keycenter=a#1
 lokey=a#1
 hikey=a#1
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.B1-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.B1-PB.flac
 pitch_keycenter=b1
 lokey=b1
 hikey=b1
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.C2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.C2-PB.flac
 pitch_keycenter=c2
 lokey=c2
 hikey=c2
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Db2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Db2-PB.flac
 pitch_keycenter=c#2
 lokey=c#2
 hikey=d2
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Eb2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Eb2-PB.flac
 pitch_keycenter=d#2
 lokey=d#2
 hikey=d#2
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.E2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.E2-PB.flac
 pitch_keycenter=e2
 lokey=e2
 hikey=e2
 tune=5
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.F2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.F2-PB.flac
 pitch_keycenter=f2
 lokey=f2
 hikey=f2
 tune=10
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Gb2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Gb2-PB.flac
 pitch_keycenter=f#2
 lokey=f#2
 hikey=f#2
 tune=5
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.G2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.G2-PB.flac
 pitch_keycenter=g2
 lokey=g2
 hikey=g#2
 tune=-5
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.A2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.A2-PB.flac
 pitch_keycenter=a2
 lokey=a2
 hikey=a2
 tune=-10
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Bb2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Bb2-PB.flac
 pitch_keycenter=a#2
 lokey=a#2
 hikey=a#2
 tune=-30
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.B2-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.B2-PB.flac
 pitch_keycenter=b2
 lokey=b2
 hikey=b2
 tune=-10
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.C3-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.C3-PB.flac
 pitch_keycenter=c3
 lokey=c3
 hikey=c3
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Db3-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Db3-PB.flac
 pitch_keycenter=c#3
 lokey=c#3
 hikey=d3
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.F3-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.F3-PB.flac
 pitch_keycenter=f3
 lokey=d#3
 hikey=f3
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Gb3-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.Gb3-PB.flac
 pitch_keycenter=f#3
 lokey=f#3
 hikey=g3
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.A3-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.A3-PB.flac
 pitch_keycenter=a3
 lokey=g#3
 hikey=a#3
 volume=4
 
 <region>
-sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.B3-PB.wav
+sample=..\libs\Iowa\samples/Bass-solo/Bass.pizz.B3-PB.flac
 pitch_keycenter=a#3
 lokey=b3
 hikey=g4

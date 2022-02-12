@@ -36,109 +36,109 @@ pan=-5
 
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-g4-PB-loop.flac
 lokey=g4
 hikey=g4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-g#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-g#4-PB-loop.flac
 lokey=g#4
 hikey=g#4
 pitch_keycenter=g#4
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-a4-PB-loop.flac
 lokey=a4
 hikey=a4
 pitch_keycenter=a4
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-a#4-PB-loop.flac
 lokey=a#4
 hikey=a#4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-b4-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-b4-PB-loop.flac
 lokey=b4
 hikey=b4
 pitch_keycenter=b4
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-c5-PB-loop.flac
 lokey=c5
 hikey=c5
 pitch_keycenter=c5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-c#5-PB-loop.flac
 lokey=c#5
 hikey=c#5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-d5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-d5-PB-loop.flac
 lokey=d5
 hikey=d5
 pitch_keycenter=d5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-d#5-PB-loop.flac
 lokey=d#5
 hikey=d#5
 pitch_keycenter=d#5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-e5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-e5-PB-loop.flac
 lokey=e5
 hikey=e5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-f5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-f5-PB-loop.flac
 lokey=f5
 hikey=f5
 pitch_keycenter=f5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-f#5-PB-loop.flac
 lokey=f#5
 hikey=f#5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-g5-PB-loop.flac
 lokey=g5
 hikey=g5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-g#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-g#5-PB-loop.flac
 lokey=g#5
 hikey=g#5
 pitch_keycenter=g#5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-a5-PB-loop.flac
 lokey=a5
 hikey=a5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-a#5-PB-loop.flac
 lokey=a#5
 hikey=a#5
 pitch_keycenter=a#5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-b5-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-b5-PB-loop.flac
 lokey=b5
 hikey=b5
 pitch_keycenter=b5
 
 <region>
-sample=..\libs\SSO\Samples\Chorus\chorus-female-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Chorus\chorus-female-c6-PB-loop.flac
 lokey=c6
 hikey=c6
 pitch_keycenter=c6

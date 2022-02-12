@@ -60,7 +60,7 @@ delay_random=0.012
 ampeg_release=0.550
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.flac
 tune=-10
 
 pitch_keycenter=c5
@@ -70,13 +70,13 @@ hikey=d#5 // reduce the range (PB)
 // removed D#4, vibrato was too fast
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.flac
 lokey=e5
 hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.flac
 tune=-10
 
 lokey=g#5
@@ -84,7 +84,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.flac
 tune=-7
 
 lokey=b5
@@ -92,7 +92,7 @@ hikey=c#6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.flac
 tune=-3
 
 lokey=d6
@@ -100,7 +100,7 @@ hikey=e6
 pitch_keycenter=d#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.flac
 tune=-10
 
 lokey=f6
@@ -108,7 +108,7 @@ hikey=g6
 pitch_keycenter=f#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.flac
 tune=-7
 
 lokey=g#6
@@ -116,7 +116,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.flac
 tune=-10
 
 lokey=b6
@@ -124,7 +124,7 @@ hikey=c#7
 pitch_keycenter=c7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.flac
 tune=-5
 
 lokey=d7
@@ -132,7 +132,7 @@ hikey=e7
 pitch_keycenter=d#7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.flac
 tune=-7
 
 lokey=f7
@@ -194,7 +194,7 @@ delay_random=0.012
 ampeg_release=0.550
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.flac
 tune=-10
 
 pitch_keycenter=c5
@@ -204,13 +204,13 @@ hikey=d#5 // reduce the range (PB)
 // removed D#4, vibrato was too fast
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.flac
 lokey=e5
 hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.flac
 tune=-10
 
 lokey=g#5
@@ -218,7 +218,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.flac
 tune=-7
 
 lokey=b5
@@ -226,7 +226,7 @@ hikey=c#6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.flac
 tune=-3
 
 lokey=d6
@@ -234,7 +234,7 @@ hikey=e6
 pitch_keycenter=d#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.flac
 tune=-10
 
 lokey=f6
@@ -242,7 +242,7 @@ hikey=g6
 pitch_keycenter=f#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.flac
 tune=-7
 
 lokey=g#6
@@ -250,7 +250,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.flac
 tune=-10
 
 lokey=b6
@@ -258,7 +258,7 @@ hikey=c#7
 pitch_keycenter=c7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.flac
 tune=-5
 
 lokey=d7
@@ -266,7 +266,7 @@ hikey=e7
 pitch_keycenter=d#7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.flac
 tune=-7
 
 lokey=f7
@@ -325,7 +325,7 @@ delay_random=0.012
 
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.flac
 
 volume=6
 tune=-10
@@ -337,7 +337,7 @@ hikey=d#5 // reduce the range (PB)
 // removed D#4, vibrato was too fast
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.flac
 volume=6.5
 
 lokey=e5
@@ -345,7 +345,7 @@ hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.flac
 
 volume=3
 tune=-10
@@ -355,7 +355,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.flac
 
 volume=3
 tune=-7
@@ -365,7 +365,7 @@ hikey=c#6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.flac
 
 volume=7
 tune=-3
@@ -375,7 +375,7 @@ hikey=e6
 pitch_keycenter=d#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.flac
 
 volume=6
 tune=-10
@@ -385,7 +385,7 @@ hikey=g6
 pitch_keycenter=f#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.flac
 
 volume=1
 tune=-7
@@ -395,7 +395,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.flac
 
 volume=2
 tune=-10
@@ -405,7 +405,7 @@ hikey=c#7
 pitch_keycenter=c7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.flac
 
 volume=2
 tune=-5
@@ -415,7 +415,7 @@ hikey=e7
 pitch_keycenter=d#7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.flac
 
 volume=-1
 tune=-7
@@ -489,7 +489,7 @@ amp_random=1.5
 
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.flac
 
 volume=6
 tune=-10
@@ -501,7 +501,7 @@ hikey=d#5 // reduce the range (PB)
 // removed D#4, vibrato was too fast
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.flac
 volume=6.5
 
 lokey=e5
@@ -509,7 +509,7 @@ hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.flac
 
 volume=3
 tune=-10
@@ -519,7 +519,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.flac
 
 volume=3
 tune=-7
@@ -529,7 +529,7 @@ hikey=c#6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.flac
 
 volume=7
 tune=-3
@@ -539,7 +539,7 @@ hikey=e6
 pitch_keycenter=d#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.flac
 
 volume=6
 tune=-10
@@ -549,7 +549,7 @@ hikey=g6
 pitch_keycenter=f#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.flac
 
 volume=1
 tune=-7
@@ -559,7 +559,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.flac
 
 volume=2
 tune=-10
@@ -569,7 +569,7 @@ hikey=c#7
 pitch_keycenter=c7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.flac
 
 volume=2
 tune=-5
@@ -579,7 +579,7 @@ hikey=e7
 pitch_keycenter=d#7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.flac
 
 volume=-1
 tune=-7
@@ -629,7 +629,7 @@ amp_random=1.5
 ampeg_release=0.550
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.flac
 tune=-10
 
 pitch_keycenter=c5
@@ -639,13 +639,13 @@ hikey=d#5 // reduce the range (PB)
 // removed D#4, vibrato was too fast
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.flac
 lokey=e5
 hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.flac
 tune=-10
 
 lokey=g#5
@@ -653,7 +653,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.flac
 tune=-7
 
 lokey=b5
@@ -661,7 +661,7 @@ hikey=c#6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.flac
 tune=-3
 
 lokey=d6
@@ -669,7 +669,7 @@ hikey=e6
 pitch_keycenter=d#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.flac
 tune=-10
 
 lokey=f6
@@ -677,7 +677,7 @@ hikey=g6
 pitch_keycenter=f#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.flac
 tune=-7
 
 lokey=g#6
@@ -685,7 +685,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.flac
 tune=-10
 
 lokey=b6
@@ -693,7 +693,7 @@ hikey=c#7
 pitch_keycenter=c7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.flac
 tune=-5
 
 lokey=d7
@@ -701,7 +701,7 @@ hikey=e7
 pitch_keycenter=d#7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.flac
 tune=-7
 
 lokey=f7
@@ -758,7 +758,7 @@ delay_random=0.012
 
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c4-PB-loop.flac
 
 volume=6
 tune=-10
@@ -770,7 +770,7 @@ hikey=d#5 // reduce the range (PB)
 // removed D#4, vibrato was too fast
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#4-PB-loop.flac
 volume=6.5
 
 lokey=e5
@@ -778,7 +778,7 @@ hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a4-PB-loop.flac
 
 volume=3
 tune=-10
@@ -788,7 +788,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c5-PB-loop.flac
 
 volume=3
 tune=-7
@@ -798,7 +798,7 @@ hikey=c#6
 pitch_keycenter=c6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#5-PB-loop.flac
 
 volume=7
 tune=-3
@@ -808,7 +808,7 @@ hikey=e6
 pitch_keycenter=d#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#5-PB-loop.flac
 
 volume=6
 tune=-10
@@ -818,7 +818,7 @@ hikey=g6
 pitch_keycenter=f#6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-a5-PB-loop.flac
 
 volume=1
 tune=-7
@@ -828,7 +828,7 @@ hikey=a#6
 pitch_keycenter=a6
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-c6-PB-loop.flac
 
 volume=2
 tune=-10
@@ -838,7 +838,7 @@ hikey=c#7
 pitch_keycenter=c7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-d#6-PB-loop.flac
 
 volume=2
 tune=-5
@@ -848,7 +848,7 @@ hikey=e7
 pitch_keycenter=d#7
 
 <region>
-sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.wav
+sample=..\libs\SSO\Samples\Piccolo\piccolo-f#6-PB-loop.flac
 
 volume=-1
 tune=-7

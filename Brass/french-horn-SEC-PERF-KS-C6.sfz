@@ -85,7 +85,7 @@ xf_cccurve=gain
 gain_cc1=24
 // reduce velocity tracking, use cc1 for volume (PB)
 amp_veltrack=60<region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.flac
 lokey=b1
 hikey=f2
 pitch_keycenter=e2
@@ -94,7 +94,7 @@ pan=-5
 volume=-22
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
@@ -103,7 +103,7 @@ pan=-5
 volume=-26
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
@@ -112,7 +112,7 @@ pan=5
 volume=-24.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
@@ -121,7 +121,7 @@ pan=0
 volume=-25
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
@@ -130,7 +130,7 @@ pan=5
 volume=-23
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
@@ -139,7 +139,7 @@ pan=5
 volume=-24
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -148,7 +148,7 @@ pan=5
 volume=-22
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -157,7 +157,7 @@ pan=0
 volume=-23
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -166,7 +166,7 @@ pan=10
 volume=-23
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -175,7 +175,7 @@ pan=0
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -184,7 +184,7 @@ pan=0
 volume=-22.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -196,7 +196,7 @@ volume=-23
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.flac
 tune=0
 pan=20
 volume=-26
@@ -240,7 +240,7 @@ gain_cc1=24
 amp_veltrack=60
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.flac
 lokey=b1
 hikey=f2
 pitch_keycenter=e2
@@ -249,7 +249,7 @@ pan=0
 volume=-19
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
@@ -258,7 +258,7 @@ pan=0
 volume=-25
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
@@ -267,7 +267,7 @@ pan=5
 volume=-23.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
@@ -276,7 +276,7 @@ pan=-5
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
@@ -285,7 +285,7 @@ pan=5
 volume=-22
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
@@ -294,7 +294,7 @@ pan=0
 volume=-24
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -303,7 +303,7 @@ pan=10
 volume=-22
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -312,7 +312,7 @@ pan=0
 volume=-21
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -321,7 +321,7 @@ pan=10
 volume=-23
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -330,7 +330,7 @@ pan=0
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -339,7 +339,7 @@ pan=10
 volume=-22.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -348,7 +348,7 @@ pan=0
 volume=-23
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.flac
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
@@ -414,7 +414,7 @@ gain_cc1=24
 amp_veltrack=60
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.flac
 lokey=b1
 hikey=f2
 pitch_keycenter=e2
@@ -423,7 +423,7 @@ pan=-5
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
@@ -432,7 +432,7 @@ pan=10
 volume=-23
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
@@ -441,7 +441,7 @@ pan=20
 volume=-20.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
@@ -450,7 +450,7 @@ pan=15
 volume=-21
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
@@ -459,7 +459,7 @@ pan=10
 volume=-21
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
@@ -468,7 +468,7 @@ pan=10
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -477,7 +477,7 @@ pan=10
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -486,7 +486,7 @@ pan=0
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -495,7 +495,7 @@ pan=5
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -504,7 +504,7 @@ pan=15
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -513,7 +513,7 @@ pan=0
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -525,7 +525,7 @@ volume=-24
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.flac
 tune=0
 pan=20
 volume=-23
@@ -575,7 +575,7 @@ gain_cc1=24
 amp_veltrack=60
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.flac
 lokey=b1
 hikey=f2
 pitch_keycenter=e2
@@ -584,7 +584,7 @@ pan=10
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
@@ -593,7 +593,7 @@ pan=0
 volume=-25
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
@@ -602,7 +602,7 @@ pan=5
 volume=-17.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
@@ -611,7 +611,7 @@ pan=10
 volume=-12
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
@@ -620,7 +620,7 @@ pan=-15
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
@@ -629,7 +629,7 @@ pan=-25
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -638,7 +638,7 @@ pan=10
 volume=-17
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -647,7 +647,7 @@ pan=0
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -656,7 +656,7 @@ pan=10
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -665,7 +665,7 @@ pan=-10
 volume=-19
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -674,7 +674,7 @@ pan=5
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -683,7 +683,7 @@ pan=0
 volume=-19
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.flac
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
@@ -758,7 +758,7 @@ gain_cc1=24
 amp_veltrack=60
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.flac
 lokey=b1
 hikey=f2
 pitch_keycenter=e2
@@ -767,7 +767,7 @@ pan=-5
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
@@ -776,7 +776,7 @@ pan=10
 volume=-23
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
@@ -785,7 +785,7 @@ pan=20
 volume=-20.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
@@ -794,7 +794,7 @@ pan=15
 volume=-21
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
@@ -803,7 +803,7 @@ pan=10
 volume=-21
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
@@ -812,7 +812,7 @@ pan=10
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -821,7 +821,7 @@ pan=10
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -830,7 +830,7 @@ pan=0
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -839,7 +839,7 @@ pan=5
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -848,7 +848,7 @@ pan=15
 volume=-20
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -857,7 +857,7 @@ pan=0
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -869,7 +869,7 @@ volume=-24
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.flac
 tune=0
 pan=20
 volume=-23
@@ -915,7 +915,7 @@ gain_cc1=24
 amp_veltrack=60
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.flac
 lokey=b1
 hikey=f2
 pitch_keycenter=e2
@@ -924,7 +924,7 @@ pan=10
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.flac
 lokey=f#2
 hikey=g#2
 pitch_keycenter=g2
@@ -933,7 +933,7 @@ pan=0
 volume=-25
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
@@ -942,7 +942,7 @@ pan=5
 volume=-17.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.flac
 lokey=c3
 hikey=d3
 pitch_keycenter=c#3
@@ -951,7 +951,7 @@ pan=10
 volume=-12
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.flac
 lokey=d#3
 hikey=f3
 pitch_keycenter=e3
@@ -960,7 +960,7 @@ pan=-15
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.flac
 lokey=f#3
 hikey=g#3
 pitch_keycenter=g3
@@ -969,7 +969,7 @@ pan=-25
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.flac
 lokey=a3
 hikey=b3
 pitch_keycenter=a#3
@@ -978,7 +978,7 @@ pan=10
 volume=-17
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
@@ -987,7 +987,7 @@ pan=0
 volume=-16
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
@@ -996,7 +996,7 @@ pan=10
 volume=-18
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
@@ -1005,7 +1005,7 @@ pan=-10
 volume=-19
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
@@ -1014,7 +1014,7 @@ pan=5
 volume=-19.5
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
@@ -1023,7 +1023,7 @@ pan=0
 volume=-19
 
 <region>
-sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.wav
+sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.flac
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5

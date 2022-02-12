@@ -54,7 +54,7 @@ delay_random=0.012
 
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#0-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#0-PB-loop.flac
 ampeg_hold=0.05
 
 lokey=a#0
@@ -64,7 +64,7 @@ tune=-20
 volume=-29
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#1-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#1-PB-loop.flac
 ampeg_hold=0.07
 
 lokey=c1
@@ -74,7 +74,7 @@ tune=-16
 volume=-32
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-e1-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-e1-PB-loop.flac
 ampeg_hold=0.04
 
 lokey=d#1
@@ -83,7 +83,7 @@ pitch_keycenter=e1
 volume=-33
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-g1-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-g1-PB-loop.flac
 ampeg_hold=0.07
 
 lokey=f#1
@@ -93,7 +93,7 @@ tune=-11
 volume=-32
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#1-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#1-PB-loop.flac
 ampeg_hold=0.05
 
 lokey=a1
@@ -103,7 +103,7 @@ tune=-18
 volume=-33
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#2-PB-loop.flac
 ampeg_hold=0.05
 
 lokey=c2
@@ -112,7 +112,7 @@ pitch_keycenter=c#2
 volume=-30
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-e2-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-e2-PB-loop.flac
 ampeg_hold=0.05
 
 lokey=d#2
@@ -123,14 +123,14 @@ volume=-33
 // removed g2 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#2-PB-loop.flac
 lokey=a2
 hikey=b2
 pitch_keycenter=a#2
 volume=-32.5
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#3-PB-loop.flac
 ampeg_hold=0.05
 offset=5000
 
@@ -143,7 +143,7 @@ volume=-29
 // removed sample e3 (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#3-PB-loop.flac
 ampeg_hold=0.05
 offset=2000
 

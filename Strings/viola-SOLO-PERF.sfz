@@ -70,46 +70,46 @@ volume=-32
  group=1  xfin_lovel=54
 xfin_hivel=104
 // removed <control> - won't work when merging files
-<region> lokey=c3 hikey=c#3 pitch_keycenter=c3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_f-PB.wav
+<region> lokey=c3 hikey=c#3 pitch_keycenter=c3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_f-PB.flac
 volume=-32
 
-<region> lokey=d3 hikey=e3 pitch_keycenter=d#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_f-PB.wav
+<region> lokey=d3 hikey=e3 pitch_keycenter=d#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_f-PB.flac
 volume=-32
 
-<region> lokey=f3 hikey=g3 pitch_keycenter=f#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_f-PB.wav
+<region> lokey=f3 hikey=g3 pitch_keycenter=f#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_f-PB.flac
 volume=-34
 
-<region> lokey=g#3 hikey=a#3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_f-PB.wav
+<region> lokey=g#3 hikey=a#3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_f-PB.flac
 volume=-31
 
-<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_f-PB.wav
+<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_f-PB.flac
 volume=-33
 
-<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_f-PB.wav
+<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_f-PB.flac
 volume=-33
 
-<region> lokey=f4 hikey=g4 pitch_keycenter=f#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_f-PB.wav
+<region> lokey=f4 hikey=g4 pitch_keycenter=f#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_f-PB.flac
 volume=-34
 
-<region> lokey=g#4 hikey=a#4 pitch_keycenter=a4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_f-PB.wav
+<region> lokey=g#4 hikey=a#4 pitch_keycenter=a4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_f-PB.flac
 volume=-32
 
-<region> lokey=b4 hikey=c#5 pitch_keycenter=c5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_f-PB.wav
+<region> lokey=b4 hikey=c#5 pitch_keycenter=c5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_f-PB.flac
 volume=-28
 
-<region> lokey=d5 hikey=e5 pitch_keycenter=d#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_f-PB.wav
+<region> lokey=d5 hikey=e5 pitch_keycenter=d#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_f-PB.flac
 volume=-29
 
-<region> lokey=f5 hikey=g5 pitch_keycenter=f#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_f-PB.wav
+<region> lokey=f5 hikey=g5 pitch_keycenter=f#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_f-PB.flac
 volume=-33
 
-<region> lokey=g#5 hikey=a#5 pitch_keycenter=a5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_f-PB.wav
+<region> lokey=g#5 hikey=a#5 pitch_keycenter=a5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_f-PB.flac
 volume=-32
 
-<region> lokey=b5 hikey=c#6 pitch_keycenter=c6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_f-PB.wav
+<region> lokey=b5 hikey=c#6 pitch_keycenter=c6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_f-PB.flac
 volume=-31
 
-<region> lokey=d6 hikey=a6 pitch_keycenter=d#6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_f-PB.wav
+<region> lokey=d6 hikey=a6 pitch_keycenter=d#6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_f-PB.flac
 volume=-32
 
 
@@ -153,46 +153,46 @@ volume=-32
  group=1  lovel=0 xfout_lovel=54
 xfout_hivel=104
 // removed <control> - won't work when merging files
-<region> lokey=c3 hikey=c#3 pitch_keycenter=c3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_mf-PB.wav
+<region> lokey=c3 hikey=c#3 pitch_keycenter=c3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_mf-PB.flac
 volume=-32
 
-<region> lokey=d3 hikey=e3 pitch_keycenter=d#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_mf-PB.wav
+<region> lokey=d3 hikey=e3 pitch_keycenter=d#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_mf-PB.flac
 volume=-32
 
-<region> lokey=f3 hikey=g3 pitch_keycenter=f#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_mf-PB.wav
+<region> lokey=f3 hikey=g3 pitch_keycenter=f#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_mf-PB.flac
 volume=-34
 
-<region> lokey=g#3 hikey=a#3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_mf-PB.wav
+<region> lokey=g#3 hikey=a#3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_mf-PB.flac
 volume=-31
 
-<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_mf-PB.wav
+<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_mf-PB.flac
 volume=-33
 
-<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_mf-PB.wav
+<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_mf-PB.flac
 volume=-33
 
-<region> lokey=f4 hikey=g4 pitch_keycenter=f#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_mf-PB.wav
+<region> lokey=f4 hikey=g4 pitch_keycenter=f#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_mf-PB.flac
 volume=-34
 
-<region> lokey=g#4 hikey=a#4 pitch_keycenter=a4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_mf-PB.wav
+<region> lokey=g#4 hikey=a#4 pitch_keycenter=a4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_mf-PB.flac
 volume=-32
 
-<region> lokey=b4 hikey=c#5 pitch_keycenter=c5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_mf-PB.wav
+<region> lokey=b4 hikey=c#5 pitch_keycenter=c5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_mf-PB.flac
 volume=-28
 
-<region> lokey=d5 hikey=e5 pitch_keycenter=d#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_mf-PB.wav
+<region> lokey=d5 hikey=e5 pitch_keycenter=d#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_mf-PB.flac
 volume=-29
 
-<region> lokey=f5 hikey=g5 pitch_keycenter=f#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_mf-PB.wav
+<region> lokey=f5 hikey=g5 pitch_keycenter=f#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_mf-PB.flac
 volume=-33
 
-<region> lokey=g#5 hikey=a#5 pitch_keycenter=a5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_mf-PB.wav
+<region> lokey=g#5 hikey=a#5 pitch_keycenter=a5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_mf-PB.flac
 volume=-32
 
-<region> lokey=b5 hikey=c#6 pitch_keycenter=c6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_mf-PB.wav
+<region> lokey=b5 hikey=c#6 pitch_keycenter=c6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_mf-PB.flac
 volume=-31
 
-<region> lokey=d6 hikey=a6 pitch_keycenter=d#6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_mf-PB.wav
+<region> lokey=d6 hikey=a6 pitch_keycenter=d#6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_mf-PB.flac
 volume=-32
 
 
@@ -251,7 +251,7 @@ ampeg_decay=0.06
 ampeg_release=0.6
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_C3-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_C3-staccato-rr1-PB.flac
 volume=-45.5
 
 tune=5
@@ -260,27 +260,27 @@ lokey=c3
 hikey=d#3
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_E3-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_E3-staccato-rr1-PB.flac
 pitch_keycenter=e3
 tune=5
 lokey=e3
 hikey=f#3
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr1-PB.flac
 tune=-5
 pitch_keycenter=g3
 lokey=g3
 hikey=a3
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr1-PB.flac
 pitch_keycenter=a#3
 lokey=a#3
 hikey=b3
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_C4-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_C4-staccato-rr1-PB.flac
 volume=-45.5
 
 tune=-5
@@ -289,7 +289,7 @@ lokey=c4
 hikey=d#4
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_E4-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_E4-staccato-rr1-PB.flac
 volume=-45.5
 
 pitch_keycenter=e4
@@ -298,21 +298,21 @@ lokey=e4
 hikey=f#4
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_G4-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_G4-staccato-rr1-PB.flac
 tune=-5
 pitch_keycenter=g4
 lokey=g4
 hikey=a4
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr1-PB.flac
 tune=-15
 pitch_keycenter=a#4
 lokey=a#4
 hikey=b4
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_C#5-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_C#5-staccato-rr1-PB.flac
 volume=-45.5
 
 pitch_keycenter=c#5
@@ -320,7 +320,7 @@ lokey=c5
 hikey=d#5
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr1-PB.flac
 volume=-44.5
 
 tune=-20
@@ -329,7 +329,7 @@ lokey=e5
 hikey=f#5
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr1-PB.flac
 volume=-44.5
 
 pitch_keycenter=g#5
@@ -337,7 +337,7 @@ lokey=g5
 hikey=g#5
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr1-PB.flac
 volume=-44.5
 
 pitch_keycenter=a5
@@ -345,7 +345,7 @@ lokey=a5
 hikey=b5
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr1-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr1-PB.flac
 tune=-20
 pitch_keycenter=e6
 lokey=c6
@@ -383,14 +383,14 @@ ampeg_decay=0.06
 ampeg_release=0.6
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_C#3-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_C#3-staccato-rr2-PB.flac
 tune=10
 pitch_keycenter=c#3
 lokey=c3
 hikey=d#3
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_F#3-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_F#3-staccato-rr2-PB.flac
 volume=-44.5
 
 pitch_keycenter=f#3
@@ -398,20 +398,20 @@ lokey=e3
 hikey=f#3
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr2-PB.flac
 pitch_keycenter=g3
 lokey=g3
 hikey=a3
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr2-PB.flac
 tune=-15
 pitch_keycenter=a#3
 lokey=a#3
 hikey=b3
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_D#4-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_D#4-staccato-rr2-PB.flac
 volume=-45.5
 
 pitch_keycenter=d#4
@@ -419,7 +419,7 @@ lokey=c4
 hikey=d#4
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_F4-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_F4-staccato-rr2-PB.flac
 volume=-44.5
 
 pitch_keycenter=f4
@@ -428,7 +428,7 @@ lokey=e4
 hikey=f#4
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_G#4-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_G#4-staccato-rr2-PB.flac
 volume=-43.5
 
 tune=-5
@@ -437,7 +437,7 @@ lokey=g4
 hikey=a4
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr2-PB.flac
 volume=-43.5
 
 pitch_keycenter=a#4
@@ -445,7 +445,7 @@ lokey=a#4
 hikey=b4
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_C5-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_C5-staccato-rr2-PB.flac
 volume=-44.5
 
 tune=-20
@@ -454,7 +454,7 @@ lokey=c5
 hikey=d#5
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr2-PB.flac
 volume=-44.5
 
 pitch_keycenter=e5
@@ -462,7 +462,7 @@ lokey=e5
 hikey=f#5
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr2-PB.flac
 volume=-43.5
 
 tune=-40
@@ -471,7 +471,7 @@ lokey=g5
 hikey=g#5
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr2-PB.flac
 volume=-44.5
 
 pitch_keycenter=a5
@@ -480,7 +480,7 @@ lokey=a5
 hikey=b5
 
 <region>
-sample=../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr2-PB.wav
+sample=../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr2-PB.flac
 volume=-44.5
 
 tune=-15

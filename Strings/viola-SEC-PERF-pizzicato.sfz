@@ -56,7 +56,7 @@ ampeg_decay=1
 ampeg_vel2decay=10
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-c3-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-c3-PB.flac
 volume=-33
 
 lokey=c3
@@ -64,7 +64,7 @@ hikey=c#3
 pitch_keycenter=c3
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-d#3-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-d#3-PB.flac
 volume=-32.5
 pan=10
 
@@ -73,7 +73,7 @@ hikey=e3
 pitch_keycenter=d#3
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-f#3-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-f#3-PB.flac
 volume=-32
 pan=5
 
@@ -82,7 +82,7 @@ hikey=g3
 pitch_keycenter=f#3
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-a3-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-a3-PB.flac
 volume=-34
 
 lokey=g#3
@@ -90,14 +90,14 @@ hikey=a#3
 pitch_keycenter=a3
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-c4-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-c4-PB.flac
 volume=-33
 
 lokey=b3
 hikey=c#4
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-d#4-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-d#4-PB.flac
 volume=-33.5
 
 lokey=d4
@@ -105,7 +105,7 @@ hikey=e4
 pitch_keycenter=d#4
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-f#4-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-f#4-PB.flac
 volume=-31
 pan=5
 
@@ -114,7 +114,7 @@ hikey=g4
 pitch_keycenter=f#4
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-a4-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-a4-PB.flac
 volume=-32
 
 lokey=g#4
@@ -122,7 +122,7 @@ hikey=a#4
 pitch_keycenter=a4
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-c5-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-c5-PB.flac
 volume=-33
 
 lokey=b4
@@ -130,7 +130,7 @@ hikey=c#5
 pitch_keycenter=c5
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-d#5-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-d#5-PB.flac
 volume=-34
 
 lokey=d5
@@ -138,7 +138,7 @@ hikey=e5
 pitch_keycenter=d#5
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-f#5-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-f#5-PB.flac
 volume=-33
 
 lokey=f5
@@ -146,7 +146,7 @@ hikey=g5
 pitch_keycenter=f#5
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-a5-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-a5-PB.flac
 volume=-36
 
 lokey=g#5
@@ -154,7 +154,7 @@ hikey=a#5
 pitch_keycenter=a5
 
 <region>
-sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-c6-PB.wav
+sample=..\libs\SSO\Samples\Violas\violas-piz-rr1-c6-PB.flac
 volume=-36
 
 lokey=b5

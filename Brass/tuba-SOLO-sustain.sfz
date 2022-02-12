@@ -29,7 +29,7 @@ fil_type=lpf_2p
 cutoff=120
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-e1-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-e1-PB-loop.flac
 volume=5
 
 lokey=d1
@@ -38,7 +38,7 @@ pitch_keycenter=e1
 tune=-3
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-g1-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-g1-PB-loop.flac
 volume=6
 
 lokey=f#1
@@ -47,7 +47,7 @@ pitch_keycenter=g1
 tune=5
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-a#1-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-a#1-PB-loop.flac
 volume=4
 
 lokey=a1
@@ -55,7 +55,7 @@ hikey=b1
 pitch_keycenter=a#1
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-c#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-c#2-PB-loop.flac
 volume=7
 
 lokey=c2
@@ -64,7 +64,7 @@ pitch_keycenter=c#2
 tune=-14
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-e2-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-e2-PB-loop.flac
 volume=5
 
 lokey=d#2
@@ -73,7 +73,7 @@ pitch_keycenter=e2
 tune=-17
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-g2-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-g2-PB-loop.flac
 volume=7
 
 lokey=f2
@@ -81,7 +81,7 @@ hikey=g#2
 pitch_keycenter=g2
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-a#2-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-a#2-PB-loop.flac
 volume=5
 
 lokey=a2
@@ -89,7 +89,7 @@ hikey=b2
 pitch_keycenter=a#2
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-c#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-c#3-PB-loop.flac
 volume=5
 
 lokey=c3
@@ -98,7 +98,7 @@ pitch_keycenter=c#3
 tune=10
 
 <region>
-sample=..\libs\SSO\Samples\Tuba\tuba-sus-e3-PB-loop.wav
+sample=..\libs\SSO\Samples\Tuba\tuba-sus-e3-PB-loop.flac
 volume=6
 
 lokey=d#3

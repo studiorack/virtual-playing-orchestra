@@ -35,46 +35,46 @@ volume=4
  group=1  xfin_lovel=54
 xfin_hivel=104
 // removed <control> - won't work when merging files
-<region> lokey=c3 hikey=c#3 pitch_keycenter=c3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_f-PB.wav
+<region> lokey=c3 hikey=c#3 pitch_keycenter=c3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_f-PB.flac
 volume=4
 
-<region> lokey=d3 hikey=e3 pitch_keycenter=d#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_f-PB.wav
+<region> lokey=d3 hikey=e3 pitch_keycenter=d#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_f-PB.flac
 volume=4
 
-<region> lokey=f3 hikey=g3 pitch_keycenter=f#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_f-PB.wav
+<region> lokey=f3 hikey=g3 pitch_keycenter=f#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_f-PB.flac
 volume=2
 
-<region> lokey=g#3 hikey=a#3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_f-PB.wav
+<region> lokey=g#3 hikey=a#3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_f-PB.flac
 volume=5
 
-<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_f-PB.wav
+<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_f-PB.flac
 volume=3
 
-<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_f-PB.wav
+<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_f-PB.flac
 volume=3
 
-<region> lokey=f4 hikey=g4 pitch_keycenter=f#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_f-PB.wav
+<region> lokey=f4 hikey=g4 pitch_keycenter=f#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_f-PB.flac
 volume=2
 
-<region> lokey=g#4 hikey=a#4 pitch_keycenter=a4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_f-PB.wav
+<region> lokey=g#4 hikey=a#4 pitch_keycenter=a4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_f-PB.flac
 volume=4
 
-<region> lokey=b4 hikey=c#5 pitch_keycenter=c5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_f-PB.wav
+<region> lokey=b4 hikey=c#5 pitch_keycenter=c5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_f-PB.flac
 volume=8
 
-<region> lokey=d5 hikey=e5 pitch_keycenter=d#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_f-PB.wav
+<region> lokey=d5 hikey=e5 pitch_keycenter=d#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_f-PB.flac
 volume=7
 
-<region> lokey=f5 hikey=g5 pitch_keycenter=f#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_f-PB.wav
+<region> lokey=f5 hikey=g5 pitch_keycenter=f#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_f-PB.flac
 volume=3
 
-<region> lokey=g#5 hikey=a#5 pitch_keycenter=a5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_f-PB.wav
+<region> lokey=g#5 hikey=a#5 pitch_keycenter=a5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_f-PB.flac
 volume=4
 
-<region> lokey=b5 hikey=c#6 pitch_keycenter=c6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_f-PB.wav
+<region> lokey=b5 hikey=c#6 pitch_keycenter=c6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_f-PB.flac
 volume=5
 
-<region> lokey=d6 hikey=a6 pitch_keycenter=d#6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_f-PB.wav
+<region> lokey=d6 hikey=a6 pitch_keycenter=d#6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_f-PB.flac
 volume=4
 
 
@@ -106,46 +106,46 @@ volume=4
  group=1  lovel=0 xfout_lovel=54
 xfout_hivel=104
 // removed <control> - won't work when merging files
-<region> lokey=c3 hikey=c#3 pitch_keycenter=c3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_mf-PB.wav
+<region> lokey=c3 hikey=c#3 pitch_keycenter=c3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_mf-PB.flac
 volume=4
 
-<region> lokey=d3 hikey=e3 pitch_keycenter=d#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_mf-PB.wav
+<region> lokey=d3 hikey=e3 pitch_keycenter=d#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_mf-PB.flac
 volume=4
 
-<region> lokey=f3 hikey=g3 pitch_keycenter=f#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_mf-PB.wav
+<region> lokey=f3 hikey=g3 pitch_keycenter=f#3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_mf-PB.flac
 volume=2
 
-<region> lokey=g#3 hikey=a#3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_mf-PB.wav
+<region> lokey=g#3 hikey=a#3 pitch_keycenter=a3 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_mf-PB.flac
 volume=5
 
-<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_mf-PB.wav
+<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_mf-PB.flac
 volume=3
 
-<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_mf-PB.wav
+<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_mf-PB.flac
 volume=3
 
-<region> lokey=f4 hikey=g4 pitch_keycenter=f#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_mf-PB.wav
+<region> lokey=f4 hikey=g4 pitch_keycenter=f#4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_mf-PB.flac
 volume=2
 
-<region> lokey=g#4 hikey=a#4 pitch_keycenter=a4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_mf-PB.wav
+<region> lokey=g#4 hikey=a#4 pitch_keycenter=a4 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_mf-PB.flac
 volume=4
 
-<region> lokey=b4 hikey=c#5 pitch_keycenter=c5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_mf-PB.wav
+<region> lokey=b4 hikey=c#5 pitch_keycenter=c5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_mf-PB.flac
 volume=8
 
-<region> lokey=d5 hikey=e5 pitch_keycenter=d#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_mf-PB.wav
+<region> lokey=d5 hikey=e5 pitch_keycenter=d#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_mf-PB.flac
 volume=7
 
-<region> lokey=f5 hikey=g5 pitch_keycenter=f#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_mf-PB.wav
+<region> lokey=f5 hikey=g5 pitch_keycenter=f#5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_mf-PB.flac
 volume=3
 
-<region> lokey=g#5 hikey=a#5 pitch_keycenter=a5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_mf-PB.wav
+<region> lokey=g#5 hikey=a#5 pitch_keycenter=a5 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_mf-PB.flac
 volume=4
 
-<region> lokey=b5 hikey=c#6 pitch_keycenter=c6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_mf-PB.wav
+<region> lokey=b5 hikey=c#6 pitch_keycenter=c6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_mf-PB.flac
 volume=5
 
-<region> lokey=d6 hikey=a6 pitch_keycenter=d#6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_mf-PB.wav
+<region> lokey=d6 hikey=a6 pitch_keycenter=d#6 sample=..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_mf-PB.flac
 volume=4
 
 

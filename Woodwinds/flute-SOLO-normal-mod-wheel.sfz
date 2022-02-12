@@ -31,21 +31,21 @@ ampeg_release=0.7
 ampeg_dynamic=1
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A3_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A3_v1_1-PB-loop.flac
 volume=3.5
 lokey=67
 hikey=70
 pitch_keycenter=69
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A4_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A4_v1_1-PB-loop.flac
 volume=1.5
 lokey=79
 hikey=82
 pitch_keycenter=81
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A5_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A5_v1_1-PB-loop.flac
 volume=1.5
 lokey=91
 hikey=94
@@ -61,21 +61,21 @@ eq2_bw=2
 eq2_gain=-10.2
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C3-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C3-PB-loop.flac
 volume=6.5
 lokey=60
 hikey=61
 pitch_keycenter=60
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C4_v1_2-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C4_v1_2-PB-loop.flac
 volume=3.5
 lokey=71
 hikey=73
 pitch_keycenter=72
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C5_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C5_v1_1-PB-loop.flac
 volume=2.5
 lokey=83
 hikey=85
@@ -91,28 +91,28 @@ eq2_bw=2
 eq2_gain=-11.2
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C6_v1_1-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C6_v1_1-PB-loop.flac
 volume=1.5
 lokey=95
 hikey=98
 pitch_keycenter=96
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E3-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E3-PB-loop.flac
 volume=6.5
 lokey=62
 hikey=66
 pitch_keycenter=64
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E4_v1_2-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E4_v1_2-PB-loop.flac
 volume=4.5
 lokey=74
 hikey=78
 pitch_keycenter=76
 
 <region>
-sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E5_v1_2-PB-loop.wav
+sample=..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E5_v1_2-PB-loop.flac
 volume=1.5
 lokey=86
 hikey=90

@@ -21,14 +21,14 @@ delay_random=0.012
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/bass_drum-p-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/bass_drum-p-PB.flac
 key=c2
 volume=7
 xfout_lovel=54
 xfout_hivel=104
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/bass_drum-f-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/bass_drum-f-PB.flac
 key=c2
 volume=7
 xfin_lovel=54
@@ -49,7 +49,7 @@ seq_position=1
 group_label=bass-drum-hit-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v5_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v5_rr1_Sum-PB.flac
 ampeg_release=6
 key=d2
 xfout_lovel=54
@@ -57,7 +57,7 @@ xfout_hivel=104
 volume=10
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v7_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v7_rr1_Sum-PB.flac
 ampeg_release=6
 key=d2
 xfin_lovel=54
@@ -79,7 +79,7 @@ seq_position=2
 group_label=bass-drum-hit-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v5_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v5_rr2_Sum-PB.flac
 ampeg_release=6
 key=d2
 xfout_lovel=54
@@ -87,7 +87,7 @@ xfout_hivel=104
 volume=10
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v7_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/BDrumNewhit_v7_rr2_Sum-PB.flac
 ampeg_release=6
 key=d2
 xfin_lovel=54
@@ -106,14 +106,14 @@ delay_random=0.012
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-lh-ff-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-lh-ff-PB.flac
 key=c3
 hivel=127
 lovel=80
 volume=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-lh-mf-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-lh-mf-PB.flac
 key=c3
 hivel=79
 lovel=0
@@ -133,14 +133,14 @@ seq_position=1
 group_label=snare-hit-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-lh-ff-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-lh-ff-PB.flac
 key=c#3
 hivel=127
 lovel=80
 volume=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-lh-mf-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-lh-mf-PB.flac
 key=c#3
 hivel=79
 lovel=0
@@ -160,14 +160,14 @@ seq_position=2
 group_label=snare-hit-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-rh-ff-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-rh-ff-PB.flac
 key=c#3
 hivel=127
 lovel=80
 volume=4
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-rh-mf-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-rh-mf-PB.flac
 key=c#3
 hivel=79
 lovel=0
@@ -184,14 +184,14 @@ delay_random=0.012
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-rh-ff-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-rh-ff-PB.flac
 key=d3
 hivel=127
 lovel=80
 volume=4
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-rh-mf-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-rh-mf-PB.flac
 key=d3
 hivel=79
 lovel=0
@@ -210,7 +210,7 @@ width=0
 offset=96
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/snare-roll.wav
+sample=../libs/Other/Samples/Percussion/SSO/snare-roll.flac
 transpose=-1
 tune=-50
 key=e3
@@ -228,14 +228,14 @@ delay_random=0.012
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr1_Sum-PB.flac
 key=f3
 xfout_lovel=54
 xfout_hivel=104
 volume=12
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr1_Sum-PB.flac
 key=f3
 xfin_lovel=54
 xfin_hivel=104
@@ -255,14 +255,14 @@ seq_position=1
 group_label=snare-hit-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr1_Sum-PB.flac
 key=f#3
 xfout_lovel=54
 xfout_hivel=104
 volume=12
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr1_Sum-PB.flac
 key=f#3
 xfin_lovel=54
 xfin_hivel=104
@@ -282,14 +282,14 @@ seq_position=2
 group_label=snare-hit-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr2_Sum-PB.flac
 key=f#3
 xfout_lovel=54
 xfout_hivel=104
 volume=12
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr2_Sum-PB.flac
 key=f#3
 xfin_lovel=54
 xfin_hivel=104
@@ -306,14 +306,14 @@ delay_random=0.012
 loop_mode=one_shot
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr2_Sum-PB.flac
 key=g3
 xfout_lovel=54
 xfout_hivel=104
 volume=12
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr2_Sum-PB.flac
 key=g3
 xfin_lovel=54
 xfin_hivel=104
@@ -334,14 +334,14 @@ seq_position=1
 group_label=snare-tap-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v2_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v2_rr1_Sum-PB.flac
 key=g#3
 xfout_lovel=54
 xfout_hivel=104
 volume=27
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v4_rr1_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v4_rr1_Sum-PB.flac
 key=g#3
 xfin_lovel=54
 xfin_hivel=104
@@ -361,14 +361,14 @@ seq_position=2
 group_label=snare-tap-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v2_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v2_rr2_Sum-PB.flac
 key=g#3
 xfout_lovel=54
 xfout_hivel=104
 volume=29
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v4_rr2_Sum-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v4_rr2_Sum-PB.flac
 key=g#3
 xfin_lovel=54
 xfin_hivel=104
@@ -385,7 +385,7 @@ delay_random=0.012
 width=0
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-rollSN_v3_rr1_Sum.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-rollSN_v3_rr1_Sum.flac
 ampeg_release=0.3
 key=a3
 xfout_lovel=54
@@ -393,7 +393,7 @@ xfout_hivel=104
 volume=17
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-rollSN_v5_rr1_Sum.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-rollSN_v5_rr1_Sum.flac
 ampeg_release=0.3
 key=a3
 xfin_lovel=54
@@ -411,32 +411,32 @@ delay_random=0.012
 ampeg_release=2
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/cymbal_roll-a-mf-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/cymbal_roll-a-mf-PB.flac
 key=c4
 lovel=0
 hivel=79
 volume=5
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/cymbal_roll-a-f-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/cymbal_roll-a-f-PB.flac
 key=c4
 lovel=80
 hivel=127
 volume=5
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/piatti-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/piatti-PB.flac
 key=c#4
 volume=6
 ampeg_release=1
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/cymbal_roll-b-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/cymbal_roll-b-PB.flac
 key=d4
 volume=5
 
 <region>
-sample=../libs/Other/Samples/Percussion/SSO/piatti-PB.wav
+sample=../libs/Other/Samples/Percussion/SSO/piatti-PB.flac
 key=d#4
 volume=6
 ampeg_release=1
@@ -456,7 +456,7 @@ ampeg_release=3
 
 // --- short roll
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Short_v1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Short_v1-PB.flac
 key=f4
 volume=10
 
@@ -474,14 +474,14 @@ seq_position=1
 group_label=crash-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_mf_rr1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_mf_rr1-PB.flac
 key=f#4
 lovel=0
 hivel=79
 volume=10
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_ff_rr1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_ff_rr1-PB.flac
 key=f#4
 lovel=80
 hivel=127
@@ -501,14 +501,14 @@ seq_position=2
 group_label=crash-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_mf_rr2-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_mf_rr2-PB.flac
 key=f#4
 lovel=0
 hivel=79
 volume=6
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_ff_rr2-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_ff_rr2-PB.flac
 key=f#4
 lovel=80
 hivel=127
@@ -525,7 +525,7 @@ delay_random=0.012
 ampeg_release=2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Median_v1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Median_v1-PB.flac
 key=g4
 volume=12
 
@@ -544,14 +544,14 @@ seq_position=1
 group_label=stick-hit1-rr1
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr1-PB.flac
 key=g#4
 lovel=0
 hivel=79
 volume=17
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr1-PB.flac
 key=g#4
 lovel=80
 hivel=127
@@ -572,14 +572,14 @@ seq_position=2
 group_label=stick-hit1-rr2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr2-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr2-PB.flac
 key=g#4
 lovel=0
 hivel=79
 volume=19
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr2-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr2-PB.flac
 key=g#4
 lovel=80
 hivel=127
@@ -596,7 +596,7 @@ delay_random=0.012
 ampeg_release=2
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Long_v1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Long_v1-PB.flac
 key=a4
 volume=10
 
@@ -616,14 +616,14 @@ group_label=stick-hit2-rr1
 transpose=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr1-PB.flac
 key=a#4
 lovel=0
 hivel=79
 volume=17
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr1-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr1-PB.flac
 key=a#4
 lovel=80
 hivel=127
@@ -645,14 +645,14 @@ group_label=stick-hit2-rr2
 transpose=3
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr2-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr2-PB.flac
 key=a#4
 lovel=0
 hivel=79
 volume=19
 
 <region>
-sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr2-PB.wav
+sample=../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr2-PB.flac
 key=a#4
 lovel=80
 hivel=127

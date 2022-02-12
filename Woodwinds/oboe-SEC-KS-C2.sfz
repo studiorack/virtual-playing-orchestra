@@ -57,56 +57,56 @@ delay_random=0.012
 
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.flac
 lokey=a#3
 hikey=b3
 pitch_keycenter=a#3
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.flac
 pan=-10
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.flac
 lokey=f#5
 hikey=g#5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.flac
 lokey=a5
 hikey=d6
 pitch_keycenter=a#5
@@ -114,7 +114,7 @@ pitch_keycenter=a#5
 // removed C#6, had a click sound (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.flac
 lokey=d#6
 hikey=a6 // extend the range (PB)
 pitch_keycenter=e6
@@ -178,50 +178,50 @@ delay_random=0.012
 // removed a#3, sounds accented (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.flac
 lokey=a#3
 hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.flac
 pan=-10
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.flac
 lokey=f#5
 hikey=g#5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.flac
 lokey=a5
 hikey=d6
 pitch_keycenter=a#5
@@ -229,7 +229,7 @@ pitch_keycenter=a#5
 // removed C#6, had a click sound (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.flac
 lokey=d#6
 hikey=a6 // extend the range (PB)
 pitch_keycenter=e6
@@ -284,7 +284,7 @@ delay_random=0.012
 // removed a#3, sounds accented (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.flac
 volume=0
 pan=10
 
@@ -293,7 +293,7 @@ hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.flac
 volume=1
 pan=15
 
@@ -302,7 +302,7 @@ hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.flac
 
 volume=1
 lokey=f#4
@@ -310,7 +310,7 @@ hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.flac
 
 pan=-10
 volume=5
@@ -319,7 +319,7 @@ hikey=b4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.flac
 
 pan=-5
 volume=5
@@ -328,7 +328,7 @@ hikey=d5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.flac
 
 volume=5
 pan=-10
@@ -337,7 +337,7 @@ hikey=f5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.flac
 
 volume=2
 lokey=f#5
@@ -345,7 +345,7 @@ hikey=g#5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.flac
 
 pan=-20
 volume=2
@@ -356,7 +356,7 @@ pitch_keycenter=a#5
 // removed C#6, had a click sound (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.flac
 
 pan=20
 volume=1
@@ -423,7 +423,7 @@ amp_random=1.5
 
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.flac
 
 volume=6
 lokey=a#3
@@ -431,7 +431,7 @@ hikey=b3
 pitch_keycenter=a#3
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.flac
 volume=6
 pan=10
 
@@ -440,7 +440,7 @@ hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.flac
 volume=7
 pan=15
 
@@ -449,7 +449,7 @@ hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.flac
 
 volume=7
 lokey=f#4
@@ -457,7 +457,7 @@ hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.flac
 
 pan=-10
 volume=11
@@ -466,7 +466,7 @@ hikey=b4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.flac
 
 pan=-5
 volume=11
@@ -475,7 +475,7 @@ hikey=d5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.flac
 
 volume=11
 pan=-10
@@ -484,7 +484,7 @@ hikey=f5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.flac
 
 volume=8
 lokey=f#5
@@ -492,7 +492,7 @@ hikey=g#5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.flac
 
 pan=-20
 volume=8
@@ -503,7 +503,7 @@ pitch_keycenter=a#5
 // removed C#6, had a click sound (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.flac
 
 pan=20
 volume=7
@@ -554,56 +554,56 @@ amp_random=1.5
 
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.flac
 lokey=a#3
 hikey=b3
 pitch_keycenter=a#3
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.flac
 lokey=c4
 hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.flac
 lokey=d#4
 hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.flac
 lokey=f#4
 hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.flac
 lokey=a4
 hikey=b4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.flac
 lokey=c5
 hikey=d5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.flac
 pan=-10
 lokey=d#5
 hikey=f5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.flac
 lokey=f#5
 hikey=g#5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.flac
 lokey=a5
 hikey=d6
 pitch_keycenter=a#5
@@ -611,7 +611,7 @@ pitch_keycenter=a#5
 // removed C#6, had a click sound (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.flac
 
 delay=0.17
 lokey=d#6
@@ -664,7 +664,7 @@ delay_random=0.012
 
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.flac
 
 volume=6
 lokey=a#3
@@ -672,7 +672,7 @@ hikey=b3
 pitch_keycenter=a#3
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.flac
 volume=6
 pan=10
 
@@ -681,7 +681,7 @@ hikey=d4
 pitch_keycenter=c#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.flac
 volume=7
 pan=15
 
@@ -690,7 +690,7 @@ hikey=f4
 pitch_keycenter=e4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.flac
 
 volume=7
 lokey=f#4
@@ -698,7 +698,7 @@ hikey=g#4
 pitch_keycenter=g4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.flac
 
 pan=-10
 volume=11
@@ -707,7 +707,7 @@ hikey=b4
 pitch_keycenter=a#4
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.flac
 
 pan=-5
 volume=11
@@ -716,7 +716,7 @@ hikey=d5
 pitch_keycenter=c#5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.flac
 
 volume=11
 pan=-10
@@ -725,7 +725,7 @@ hikey=f5
 pitch_keycenter=e5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.flac
 
 volume=8
 lokey=f#5
@@ -733,7 +733,7 @@ hikey=g#5
 pitch_keycenter=g5
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.flac
 
 pan=-20
 volume=8
@@ -744,7 +744,7 @@ pitch_keycenter=a#5
 // removed C#6, had a click sound (PB)
 
 <region>
-sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.wav
+sample=..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.flac
 
 pan=20
 volume=7

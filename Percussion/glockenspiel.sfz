@@ -26,7 +26,7 @@ amp_random=1 // randomize like a real player (PB)
 
 
 <region>
-sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C5-PB.wav
+sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C5-PB.flac
 lokey=82
 hikey=87
 pitch_keycenter=84
@@ -36,7 +36,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C6-PB.wav
+sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C6-PB.flac
 lokey=94
 hikey=99
 pitch_keycenter=96
@@ -46,7 +46,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C7-PB.wav
+sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C7-PB.flac
 lokey=106
 hikey=108
 pitch_keycenter=108
@@ -56,7 +56,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G4-PB.wav
+sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G4-PB.flac
 lokey=77
 hikey=81
 pitch_keycenter=79
@@ -66,7 +66,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G5-PB.wav
+sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G5-PB.flac
 lokey=88
 hikey=93
 pitch_keycenter=91
@@ -76,7 +76,7 @@ hivel=127
 
 
 <region>
-sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G6-PB.wav
+sample=..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G6-PB.flac
 lokey=100
 hikey=105
 pitch_keycenter=103

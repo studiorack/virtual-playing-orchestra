@@ -46,7 +46,7 @@ width=0
 // removed A2 - had a click noise (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_A4_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_A4_mf.flac
 tune=10
 offset=855
 
@@ -59,7 +59,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_A6_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_A6_mf.flac
 offset=1304
 
 lokey=91
@@ -73,7 +73,7 @@ volume=2
 // removed B1 - too noisy (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_B3_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_B3_mf.flac
 tune=10
 offset=1243
 
@@ -86,7 +86,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_B5_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_B5_mf.flac
 tune=5
 offset=884
 
@@ -101,7 +101,7 @@ volume=2
 // removed B6 - muffled (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_C3_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_C3_mf.flac
 lokey=46
 // reduced range to reduce noise (PB)
 hikey=47
@@ -113,7 +113,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_C5_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_C5_mf.flac
 tune=10
 offset=1046
 
@@ -126,7 +126,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D2_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D2_mf.flac
 offset=1736
 // reduce noise (PB)
 eq1_freq=8783.6
@@ -144,7 +144,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D4_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D4_mf.flac
 tune=10
 offset=984
 
@@ -157,7 +157,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D6_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D6_mf.flac
 tune=5
 offset=839
 
@@ -170,7 +170,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_E3_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_E3_mf.flac
 offset=1906
 
 // increased range to cover noisy sample (PB)
@@ -184,7 +184,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_E5_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_E5_mf.flac
 tune=10
 offset=1014
 
@@ -197,7 +197,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F2_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F2_mf.flac
 tune=5
 offset=1213
 // reduce noise (PB)
@@ -214,7 +214,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F4_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F4_mf.flac
 offset=430
 
 lokey=64
@@ -226,7 +226,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F6_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F6_mf.flac
 offset=1192
 
 lokey=88
@@ -238,7 +238,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_G3_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_G3_mf.flac
 tune=5
 offset=2735
 
@@ -251,7 +251,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_G5_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_G5_mf.flac
 tune=5
 offset=822
 
@@ -264,7 +264,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D7_f.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D7_f.flac
 tune=5
 offset=2377
 
@@ -279,7 +279,7 @@ volume=2
 // removed E1 - tuning is suspect (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F7_f.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F7_f.flac
 tune=25
 offset=1468
 
@@ -327,7 +327,7 @@ width=0
 // removed A2 - had a click noise (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_A4_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_A4_mf.flac
 tune=10
 offset=855
 
@@ -340,7 +340,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_A6_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_A6_mf.flac
 offset=1304
 
 lokey=91
@@ -354,7 +354,7 @@ volume=2
 // removed B1 - too noisy (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_B3_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_B3_mf.flac
 tune=10
 offset=1243
 
@@ -367,7 +367,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_B5_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_B5_mf.flac
 tune=5
 offset=884
 
@@ -382,7 +382,7 @@ volume=2
 // removed B6 - muffled (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_C3_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_C3_mf.flac
 lokey=46
 // reduced range to reduce noise (PB)
 hikey=47
@@ -394,7 +394,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_C5_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_C5_mf.flac
 tune=10
 offset=1046
 
@@ -407,7 +407,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D2_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D2_mf.flac
 offset=1736
 // reduce noise (PB)
 eq1_freq=8783.6
@@ -425,7 +425,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D4_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D4_mf.flac
 tune=10
 offset=984
 
@@ -438,7 +438,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D6_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D6_mf.flac
 tune=5
 offset=839
 
@@ -451,7 +451,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_E3_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_E3_mf.flac
 offset=1906
 
 // increased range to cover noisy sample (PB)
@@ -465,7 +465,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_E5_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_E5_mf.flac
 tune=10
 offset=1014
 
@@ -478,7 +478,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F2_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F2_mf.flac
 tune=5
 offset=1213
 // reduce noise (PB)
@@ -495,7 +495,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F4_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F4_mf.flac
 offset=430
 
 lokey=64
@@ -507,7 +507,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F6_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F6_mf.flac
 offset=1192
 
 lokey=88
@@ -519,7 +519,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_G3_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_G3_mf.flac
 tune=5
 offset=2735
 
@@ -532,7 +532,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_G5_mf.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_G5_mf.flac
 tune=5
 offset=822
 
@@ -545,7 +545,7 @@ volume=2
 
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D7_f.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_D7_f.flac
 tune=5
 offset=2377
 
@@ -560,7 +560,7 @@ volume=2
 // removed E1 - tuning is suspect (PB)
 
 <region>
-sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F7_f.wav
+sample=..\libs\VSCO2-CE\Strings\Harp\KSHarp_F7_f.flac
 tune=25
 offset=1468
 
