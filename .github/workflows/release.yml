@@ -31,7 +31,6 @@ jobs:
     with:
       release_id: ${{ needs.create_release.outputs.upload_id }}
       release_url: ${{ needs.create_release.outputs.upload_url }}
-      audio_ext: wav
 
   publish_release:
     name: Publish release
