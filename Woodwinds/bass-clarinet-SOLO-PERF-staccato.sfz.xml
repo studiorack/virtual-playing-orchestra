@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="volume" value="-35" />
+	<opcode name="gain_cc1" value="29" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.05" />
+	<opcode name="ampeg_decay" value="0.6" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d2-PB-loop.ogg" />
+	<opcode name="offset" value="2000" />
+	<opcode name="lokey" value="a#1" />
+	<opcode name="hikey" value="d#2" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="tune" value="19" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f2-PB-loop.ogg" />
+	<opcode name="offset" value="2500" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="f#2" />
+	<opcode name="pitch_keycenter" value="f2" />
+	<opcode name="tune" value="6" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-g#2-PB-loop.ogg" />
+	<opcode name="offset" value="2500" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="g#2" />
+	<opcode name="volume" value="-25.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f3-PB-loop.ogg" />
+	<opcode name="offset" value="1500" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="f3" />
+	<opcode name="tune" value="8" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b3-PB-loop.ogg" />
+	<opcode name="offset" value="250" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="tune" value="7" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d4-PB-loop.ogg" />
+	<opcode name="offset" value="500" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="tune" value="4" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-f4-PB-loop.ogg" />
+	<opcode name="offset" value="750" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="tune" value="1" />
+	<opcode name="volume" value="-24.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-b4-PB-loop.ogg" />
+	<opcode name="offset" value="500" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="tune" value="3" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Clarinet\bass_clarinet-d5-PB-loop.ogg" />
+	<opcode name="offset" value="250" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="volume" value="-22.5" />
+</region>

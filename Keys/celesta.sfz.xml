@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sustain_lo" value="63" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="volume" value="-1" />
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\c4-hard-PB.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\e4-hard-PB.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\g4-hard-PB.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\e5-hard-PB.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\g5-hard-PB.ogg" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\c6-hard-PB.ogg" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="d6" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\e6-hard-PB.ogg" />
+	<opcode name="lokey" value="d#6" />
+	<opcode name="hikey" value="g#6" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="tune" value="-10" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\c7-hard-PB.ogg" />
+	<opcode name="lokey" value="a6" />
+	<opcode name="hikey" value="d7" />
+	<opcode name="pitch_keycenter" value="c7" />
+	<opcode name="tune" value="-30" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\e7-hard-PB.ogg" />
+	<opcode name="lokey" value="d#7" />
+	<opcode name="hikey" value="f7" />
+	<opcode name="pitch_keycenter" value="e7" />
+	<opcode name="tune" value="-45" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\g7-hard-PB.ogg" />
+	<opcode name="lokey" value="f#7" />
+	<opcode name="hikey" value="c8" />
+	<opcode name="pitch_keycenter" value="a7" />
+	<opcode name="tune" value="35" />
+	<opcode name="volume" value="1.5" />
+</region>
+<group>
+	<opcode name="sustain_lo" value="63" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="volume" value="-1" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="xfout_hivel" value="95" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\c4-hard-PB.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\e4-soft-PB.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\g4-soft-PB.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\e5-soft-PB.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\g5-soft-PB.ogg" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\c6-soft-PB.ogg" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="d6" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\e6-soft-PB.ogg" />
+	<opcode name="lokey" value="d#6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\g6-soft-PB.ogg" />
+	<opcode name="lokey" value="f#6" />
+	<opcode name="hikey" value="a6" />
+	<opcode name="pitch_keycenter" value="g#6" />
+	<opcode name="tune" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\c7-soft-PB.ogg" />
+	<opcode name="lokey" value="a#6" />
+	<opcode name="hikey" value="d7" />
+	<opcode name="pitch_keycenter" value="c7" />
+	<opcode name="tune" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\e7-soft-PB.ogg" />
+	<opcode name="lokey" value="d#7" />
+	<opcode name="hikey" value="f7" />
+	<opcode name="pitch_keycenter" value="e7" />
+	<opcode name="tune" value="-45" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\stamperadam\samples\celesta\g7-soft-PB.ogg" />
+	<opcode name="lokey" value="f#7" />
+	<opcode name="hikey" value="c8" />
+	<opcode name="pitch_keycenter" value="a7" />
+	<opcode name="tune" value="32" />
+</region>

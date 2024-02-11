@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="amplfo_freq" value="4.57" />
+	<opcode name="amplfo_depth" value="0.6" />
+	<opcode name="amplfo_delay" value="1.0" />
+	<opcode name="amplfo_fade" value="0.5" />
+	<opcode name="lfo01_delay" value="2.3" />
+	<opcode name="lfo01_fade" value="0.5" />
+	<opcode name="lfo01_flace" value="1" />
+	<opcode name="lfo01_volume" value="0.20" />
+	<opcode name="lfo01_freq" value="2.79" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="0.500" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#0-PB-loop.ogg" />
+	<opcode name="lokey" value="a#0" />
+	<opcode name="hikey" value="b0" />
+	<opcode name="pitch_keycenter" value="a#0" />
+	<opcode name="tune" value="-20" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#1-PB-loop.ogg" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="d1" />
+	<opcode name="pitch_keycenter" value="c#1" />
+	<opcode name="tune" value="-16" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-e1-PB-loop.ogg" />
+	<opcode name="lokey" value="d#1" />
+	<opcode name="hikey" value="f1" />
+	<opcode name="pitch_keycenter" value="e1" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-g1-PB-loop.ogg" />
+	<opcode name="lokey" value="f#1" />
+	<opcode name="hikey" value="g#1" />
+	<opcode name="pitch_keycenter" value="g1" />
+	<opcode name="tune" value="-11" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#1-PB-loop.ogg" />
+	<opcode name="lokey" value="a1" />
+	<opcode name="hikey" value="b1" />
+	<opcode name="pitch_keycenter" value="a#1" />
+	<opcode name="tune" value="-18" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#2-PB-loop.ogg" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="c#2" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="-16" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="-10" />
+	<opcode name="volume" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="1" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="3" />
+	<opcode name="volume" value="4" />
+</region>
+<group>
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="gain_cc1" value="-15" />
+	<opcode name="offset" value="1000" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.10" />
+	<opcode name="ampeg_decay" value="0.4" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#0-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.05" />
+	<opcode name="lokey" value="a#0" />
+	<opcode name="hikey" value="b0" />
+	<opcode name="pitch_keycenter" value="a#0" />
+	<opcode name="tune" value="-20" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#1-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.07" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="d1" />
+	<opcode name="pitch_keycenter" value="c#1" />
+	<opcode name="tune" value="-16" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-e1-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.04" />
+	<opcode name="lokey" value="d#1" />
+	<opcode name="hikey" value="f1" />
+	<opcode name="pitch_keycenter" value="e1" />
+	<opcode name="volume" value="-2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-g1-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.07" />
+	<opcode name="lokey" value="f#1" />
+	<opcode name="hikey" value="g#1" />
+	<opcode name="pitch_keycenter" value="g1" />
+	<opcode name="tune" value="-11" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#1-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.05" />
+	<opcode name="lokey" value="a1" />
+	<opcode name="hikey" value="b1" />
+	<opcode name="pitch_keycenter" value="a#1" />
+	<opcode name="tune" value="-18" />
+	<opcode name="volume" value="-2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#2-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.05" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="c#2" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-e2-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.20" />
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="volume" value="-2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="volume" value="-1.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-c#3-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.05" />
+	<opcode name="offset" value="5000" />
+	<opcode name="lokey" value="a#2" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="-10" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-e3-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.04" />
+	<opcode name="offset" value="60000" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="1" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Contrabassoon\contrabassoon-a#3-PB-loop.ogg" />
+	<opcode name="ampeg_hold" value="0.05" />
+	<opcode name="offset" value="2000" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="3" />
+	<opcode name="volume" value="1" />
+</region>

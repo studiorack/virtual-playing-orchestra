@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="2.5" />
+	<opcode name="ampeg_vel2decay" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-c1-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="e1" />
+	<opcode name="pitch_keycenter" value="c1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr2-f#1-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-a1-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr2-c2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-d#2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="e2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr2-f#2-PB.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="pan" value="0" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-a2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-c3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-d#3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-f#3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr2-a3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="-5" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-c4-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>

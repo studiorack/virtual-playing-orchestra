@@ -1,0 +1,743 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group" value="79" />
+	<opcode name="off_by" value="81" />
+	<opcode name="volume" value="6" />
+	<opcode name="ampeg_release" value="0.75" />
+	<opcode name="transpose" value="4" />
+</group>
+<region>
+	<opcode name="key" value="g2" />
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/PB/triangle-roll-PB.ogg" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group" value="80" />
+	<opcode name="transpose" value="4" />
+</group>
+<region>
+	<opcode name="key" value="g#2" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/triangle_m-PB.ogg" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="triangle-open-rr1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="group" value="81" />
+	<opcode name="off_by" value="80" />
+	<opcode name="transpose" value="4" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="a2" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="a2" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="23" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="triangle-open-rr2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="group" value="81" />
+	<opcode name="off_by" value="80" />
+	<opcode name="transpose" value="4" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="a2" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="a2" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="23" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/gongHit_f-PB.ogg" />
+	<opcode name="key" value="a#2" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="ampeg_release" value="6" />
+	<opcode name="volume" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/gongHit_fff-PB.ogg" />
+	<opcode name="key" value="a#2" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="ampeg_release" value="6" />
+	<opcode name="volume" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/tamtam-a-PB.ogg" />
+	<opcode name="key" value="b2" />
+	<opcode name="loop_mode" value="one_shot" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/tamtam-b-PB.ogg" />
+	<opcode name="key" value="c3" />
+	<opcode name="loop_mode" value="one_shot" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/tamtam-c-PB.ogg" />
+	<opcode name="key" value="c#3" />
+	<opcode name="loop_mode" value="one_shot" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/finger_cymbal-hi-PB.ogg" />
+	<opcode name="key" value="d#3" />
+	<opcode name="loop_mode" value="one_shot" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/finger_cymbal-lo-PB.ogg" />
+	<opcode name="key" value="e3" />
+	<opcode name="loop_mode" value="one_shot" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="tamb-shake-1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Shake_v1_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="f3" />
+	<opcode name="volume" value="26" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="tamb-shake-2" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Shake_v1_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="f3" />
+	<opcode name="volume" value="26" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="tamb-hit-1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v1_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="f#3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="33" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="f#3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="19" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="tamb-hit-2" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v1_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="f#3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="33" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="f#3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="19" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Roll_v2_rr1_Sum-PB.ogg" />
+	<opcode name="ampeg_release" value="0.3" />
+	<opcode name="key" value="g3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="26" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Roll_v3_rr1_Sum-PB.ogg" />
+	<opcode name="ampeg_release" value="0.3" />
+	<opcode name="key" value="g3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="19" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="cowbell-rr1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="g#3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="18" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v4_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="g#3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="4" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="cowbell-rr2" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="g#3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="18" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v4_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="g#3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="4" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/vibraslap-PB.ogg" />
+	<opcode name="key" value="a#3" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="quinto-hit-rr1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="c4" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v3_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="c4" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="9" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="quinto-hit-rr2" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="c4" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v3_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="c4" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="9" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="quinto-tap-rr1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-Tap1_v1_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="c#4" />
+	<opcode name="volume" value="35" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="quinto-tap-rr2" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-Tap1_v1_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="c#4" />
+	<opcode name="volume" value="35" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="conga-hit-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="d4" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v3_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="d4" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="12" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="conga-hit-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="d4" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v3_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="d4" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="12" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="conga-tap-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Conga-Tap1_v1_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="d#4" />
+	<opcode name="volume" value="31" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="conga-tap-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Conga-Tap1_v1_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="d#4" />
+	<opcode name="volume" value="27" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="tumba-hit-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="e4" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v3_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="e4" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="16" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="tumba-hit-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="e4" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v3_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="e4" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="16" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="tumba-tap-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-Tap1_v1_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="f4" />
+	<opcode name="volume" value="45" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="group_label" value="tumba-tap-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-Tap1_v1_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="f4" />
+	<opcode name="volume" value="38" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="key" value="a4" />
+	<opcode name="seq_length" value="4" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/CabasaDown-PB.ogg" />
+	<opcode name="seq_position" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/CabasaUp-PB.ogg" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/CabasaDown2-PB.ogg" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/CabasaUp2-PB.ogg" />
+	<opcode name="seq_position" value="4" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/shake_1-PB.ogg" />
+	<opcode name="key" value="a#4" />
+	<opcode name="seq_position" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/shake_2-PB.ogg" />
+	<opcode name="key" value="a#4" />
+	<opcode name="seq_position" value="2" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Crank_v1_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="b4" />
+	<opcode name="volume" value="24" />
+	<opcode name="seq_position" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Crank_v1_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="b4" />
+	<opcode name="volume" value="22" />
+	<opcode name="seq_position" value="2" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Fast_v1_rr1_Sum-PB.ogg" />
+	<opcode name="ampeg_release" value="0.3" />
+	<opcode name="key" value="c5" />
+	<opcode name="volume" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Slow_v1_rr1_Sum-PB.ogg" />
+	<opcode name="ampeg_release" value="0.3" />
+	<opcode name="key" value="c#5" />
+	<opcode name="volume" value="21" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="castanets-rr1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="key" value="d5" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/castanets_mf1-PB.ogg" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/castanets_f2-PB.ogg" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="castanets-rr2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="key" value="d5" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/castanets_mf2-PB.ogg" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/castanets_f3-PB.ogg" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="claves-rr1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="d#5" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="18" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v3_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="d#5" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="11" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="claves-rr2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="d#5" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="18" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v3_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="d#5" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="13" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/wood_block-lo-PB.ogg" />
+	<opcode name="key" value="e5" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/wood_block-hi-PB.ogg" />
+	<opcode name="key" value="f5" />
+	<opcode name="volume" value="2" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group" value="79" />
+	<opcode name="off_by" value="81" />
+	<opcode name="volume" value="6" />
+	<opcode name="ampeg_release" value="0.75" />
+</group>
+<region>
+	<opcode name="key" value="g5" />
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/PB/triangle-roll-PB.ogg" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group" value="80" />
+</group>
+<region>
+	<opcode name="key" value="g#5" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/NBO/triangle_m-PB.ogg" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="triangle-open-rr1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="group" value="81" />
+	<opcode name="off_by" value="80" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="a5" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="a5" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="23" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="triangle-open-rr2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="group" value="81" />
+	<opcode name="off_by" value="80" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="a5" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="a5" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="23" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="sleigh-bells-rr1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="ampeg_release" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Sleighbells_Hit_v1_rr1_Mid-PB.ogg" />
+	<opcode name="key" value="a#5" />
+	<opcode name="volume" value="23" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group_label" value="sleigh-bells-rr2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="ampeg_release" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Sleighbells_Hit_v1_rr2_Mid-PB.ogg" />
+	<opcode name="key" value="a#5" />
+	<opcode name="volume" value="23" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="ampeg_release" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke1_v1_Sum-PB.ogg" />
+	<opcode name="key" value="c6" />
+	<opcode name="volume" value="40" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke2_v1_Sum-PB.ogg" />
+	<opcode name="key" value="c#6" />
+	<opcode name="volume" value="35" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke3_v1_Sum-PB.ogg" />
+	<opcode name="key" value="d6" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke4_v1_Sum-PB.ogg" />
+	<opcode name="key" value="d#6" />
+	<opcode name="volume" value="38" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/bell_tree-PB.ogg" />
+	<opcode name="key" value="e6" />
+	<opcode name="volume" value="3" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="ampeg_release" value="2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/bar_chimes-a-PB.ogg" />
+	<opcode name="key" value="f6" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/bar_chimes-b-PB.ogg" />
+	<opcode name="key" value="f#6" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/bar_chimes-c-PB.ogg" />
+	<opcode name="key" value="g6" />
+	<opcode name="volume" value="3" />
+</region>

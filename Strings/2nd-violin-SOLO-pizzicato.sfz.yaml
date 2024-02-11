@@ -1,0 +1,1078 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '295.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '4.6'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '4871.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\3_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\3_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\3_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_D-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_D-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_D-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '11.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '11'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-30'
+

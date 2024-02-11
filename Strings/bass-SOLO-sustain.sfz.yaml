@@ -1,0 +1,645 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1.8'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_vel2release
+          value: '-1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_dynamic
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '4.531'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_delay
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '2.0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_A1_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '14'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_B2_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '16'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '1.0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_C#2_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_C1_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '35'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '20.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_D1_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_delay
+          value: '1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_E1_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_delay
+          value: '1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_E2_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_delay
+          value: '0.75'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_F#0_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '30'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '30'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '21.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_F#1_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_G#1_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '14'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_delay
+          value: '0.75'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_G#2_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_delay
+          value: '0.75'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ..\libs\VSCO2-CE\Strings\Solo
+            Contrabass\SusVib\BKCtbss_SusVib_G0_v3_rr1-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '31'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '34'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '31'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '27.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '0'
+

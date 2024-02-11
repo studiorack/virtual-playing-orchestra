@@ -1,0 +1,511 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="c2" />
+	<opcode name="sw_label" value="C2 Performance" />
+	<opcode name="gain_cc1" value="32" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="delay_cc1" value="0.06" />
+	<opcode name="pitchlfo_freq" value="2.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="0.600" />
+	<opcode name="volume" value="-33" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#3-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.12" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="tune" value="14" />
+	<opcode name="volume" value="-35.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C#4-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.06" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="tune" value="10" />
+	<opcode name="volume" value="-35.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E4-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.14" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F4-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.16" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-35" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#4-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.14" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G4-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.16" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-35" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G#4-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.13" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A4-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.13" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+	<opcode name="tune" value="15" />
+	<opcode name="volume" value="-34.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#4-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.13" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="volume" value="-36" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C5-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.11" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="tune" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D5-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.08" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="volume" value="-35" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E5-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.16" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-35" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#5-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.12" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="tune" value="-20" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="volume" value="-36" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C6-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.14" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="c6" />
+	<opcode name="tune" value="-20" />
+	<opcode name="volume" value="-35" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C#6-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#6" />
+	<opcode name="lokey" value="c#6" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D6-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.14" />
+	<opcode name="pitch_keycenter" value="d6" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="d6" />
+	<opcode name="tune" value="-30" />
+	<opcode name="volume" value="-36" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D#6-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.12" />
+	<opcode name="pitch_keycenter" value="d#6" />
+	<opcode name="lokey" value="d#6" />
+	<opcode name="hikey" value="e6" />
+	<opcode name="tune" value="-25" />
+	<opcode name="volume" value="-35" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F6-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f6" />
+	<opcode name="lokey" value="f6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="tune" value="-30" />
+	<opcode name="volume" value="-35" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#6-PB-loop.ogg" />
+	<opcode name="delay_cc1" value="0.14" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="lokey" value="f#6" />
+	<opcode name="hikey" value="g6" />
+	<opcode name="tune" value="-35" />
+	<opcode name="volume" value="-28" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="c2" />
+	<opcode name="sw_label" value="C2 Performance" />
+	<opcode name="gain_cc1" value="32" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="offset" value="1000" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.08" />
+	<opcode name="ampeg_decay" value="1.0" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="volume" value="-26.5" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#3-PB-loop.ogg" />
+	<opcode name="offset" value="1000" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="tune" value="14" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C#4-PB-loop.ogg" />
+	<opcode name="offset" value="500" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="tune" value="10" />
+	<opcode name="volume" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E4-PB-loop.ogg" />
+	<opcode name="offset" value="100" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G4-PB-loop.ogg" />
+	<opcode name="offset" value="250" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G#4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+	<opcode name="tune" value="15" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="tune" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D5-PB-loop.ogg" />
+	<opcode name="offset" value="500" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E5-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-31.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="tune" value="-20" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C6-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="tune" value="-20" />
+	<opcode name="volume" value="-26.5" />
+	<opcode name="offset" value="500" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D#6-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d#6" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="tune" value="-25" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#6-PB-loop.ogg" />
+	<opcode name="offset" value="500" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="lokey" value="f#6" />
+	<opcode name="hikey" value="g6" />
+	<opcode name="tune" value="-35" />
+	<opcode name="volume" value="-23.5" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="e2" />
+	<opcode name="sw_label" value="E2 Staccato" />
+	<opcode name="gain_cc1" value="32" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="offset" value="1000" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.08" />
+	<opcode name="ampeg_decay" value="1.0" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="volume" value="-26.5" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#3-PB-loop.ogg" />
+	<opcode name="offset" value="1000" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="tune" value="14" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C#4-PB-loop.ogg" />
+	<opcode name="offset" value="500" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="tune" value="10" />
+	<opcode name="volume" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E4-PB-loop.ogg" />
+	<opcode name="offset" value="100" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G4-PB-loop.ogg" />
+	<opcode name="offset" value="250" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-G#4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+	<opcode name="tune" value="15" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-A#4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="tune" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D5-PB-loop.ogg" />
+	<opcode name="offset" value="500" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-E5-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-31.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="tune" value="-20" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-C6-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="tune" value="-20" />
+	<opcode name="volume" value="-26.5" />
+	<opcode name="offset" value="500" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-D#6-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d#6" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="tune" value="-25" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples/Alto-Flute-solo/Alto-Flute-sus-F#6-PB-loop.ogg" />
+	<opcode name="offset" value="500" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="lokey" value="f#6" />
+	<opcode name="hikey" value="g6" />
+	<opcode name="tune" value="-35" />
+	<opcode name="volume" value="-23.5" />
+</region>

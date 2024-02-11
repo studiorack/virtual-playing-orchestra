@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.4" />
+	<opcode name="ampeg_release" value="1.8" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="ampeg_dynamic" value="1" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="0" />
+	<opcode name="pitchlfo_fade" value="2.0" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_A1_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="46" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="14" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_B2_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="67" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="16" />
+	<opcode name="tune" value="-10" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C#2_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="50" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="27" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_C1_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="35" />
+	<opcode name="hikey" value="36" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="20.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_D1_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="37" />
+	<opcode name="hikey" value="38" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="24" />
+	<opcode name="pitchlfo_delay" value="1.0" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E1_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="40" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="25" />
+	<opcode name="pitchlfo_delay" value="1.0" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_E2_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="25" />
+	<opcode name="pitchlfo_delay" value="0.75" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#0_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="24" />
+	<opcode name="hikey" value="30" />
+	<opcode name="pitch_keycenter" value="30" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="21.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_F#1_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="42" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="26" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#1_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="44" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="14" />
+	<opcode name="pitchlfo_delay" value="0.75" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G#2_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="57" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="21" />
+	<opcode name="pitchlfo_delay" value="0.75" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Contrabass\SusVib\BKCtbss_SusVib_G0_v3_rr1-PB-loop.ogg" />
+	<opcode name="lokey" value="31" />
+	<opcode name="hikey" value="34" />
+	<opcode name="pitch_keycenter" value="31" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="27.5" />
+	<opcode name="pitchlfo_depth" value="0" />
+</region>

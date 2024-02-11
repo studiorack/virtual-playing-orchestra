@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="0.30" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="volume" value="-24" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#2-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#2" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="a2" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="lokey" value="a#2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="volume" value="-22.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.D3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.E4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="volume" value="-17.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-18.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.G4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.G#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="volume" value="-22.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="volume" value="-22" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="0.30" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="volume" value="-24" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="1.0" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#2-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#2" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="a2" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="lokey" value="a#2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="volume" value="-21.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.D3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="volume" value="-20.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.E4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-23.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.G4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="-21.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.G#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="volume" value="-23.5" />
+</region>

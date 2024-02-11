@@ -1,0 +1,741 @@
+elements:
+  - type: element
+    name: control
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: set_cc1
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: set_cc10
+          value: '64'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attackcc73
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_locc1
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc1
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: xf_cccurve
+          value: gain
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc1
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.6'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-24'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '4.531'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_delay
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '1.0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#2-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-21'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C#3-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-22.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.D3-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-23'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#3-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-19'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C#4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-18'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.E4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-17.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.F#4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-18.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.G4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-23'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.G#4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-22.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.ff.C5-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-22'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attackcc73
+          value: '0.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_locc1
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hicc1
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: xf_cccurve
+          value: gain
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc1
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.6'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-24'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_freq
+          value: '4.531'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_depth
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_delay
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitchlfo_fade
+          value: '1.0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#2-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-22'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C#3-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-21.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.D3-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-19'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#3-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-18'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C#4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-20.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.E4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-22'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.F#4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-23.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.G4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-21.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.G#4-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Iowa/samples/Trombone-solo/Trombone-sus.mf.C5-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-23.5'
+

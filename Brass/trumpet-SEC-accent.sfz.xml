@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.10" />
+	<opcode name="ampeg_decay" value="0.4" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="group" value="1" />
+	<opcode name="xfin_lovel" value="75" />
+	<opcode name="xfin_hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_G.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="volume" value="3.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Ab.ogg" />
+	<opcode name="key" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="3.0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_C.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="volume" value="3.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_D.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="volume" value="3.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_E.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="volume" value="1.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_F.ogg" />
+	<opcode name="key" value="f4" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_G.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_A.ogg" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a4" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Bb.ogg" />
+	<opcode name="key" value="a#4" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_C.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="volume" value="2.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_D.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="volume" value="2.5" />
+	<opcode name="pan" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Eb.ogg" />
+	<opcode name="key" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_F.ogg" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="volume" value="1" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_G.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_A.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="volume" value="3.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_B.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\6_Db.ogg" />
+	<opcode name="pitch_keycenter" value="c#6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c6" />
+	<opcode name="volume" value="1" />
+</region>
+<group>
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.10" />
+	<opcode name="ampeg_decay" value="0.4" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="group" value="1" />
+	<opcode name="xfout_lovel" value="75" />
+	<opcode name="xfout_hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Bb_p.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="volume" value="3.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Eb_p.ogg" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="volume" value="3.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Ab_p.ogg" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="volume" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Db_p.ogg" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="volume" value="2.5" />
+	<opcode name="pan" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Ab_p.ogg" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="c6" />
+	<opcode name="volume" value="1" />
+</region>
+<group>
+	<opcode name="delay" value="0.10" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="group" value="1" />
+	<opcode name="xfin_lovel" value="75" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="ampeg_attack" value="0.3" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_G.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Ab.ogg" />
+	<opcode name="key" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_C.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_D.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="d4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_E.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_F.ogg" />
+	<opcode name="key" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_G.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_A.ogg" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Bb.ogg" />
+	<opcode name="key" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_C.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_D.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pan" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Eb.ogg" />
+	<opcode name="key" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_F.ogg" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_G.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="g5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_A.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="a5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_B.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\6_Db.ogg" />
+	<opcode name="pitch_keycenter" value="c#6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c6" />
+</region>
+<group>
+	<opcode name="delay" value="0.10" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="group" value="1" />
+	<opcode name="xfout_lovel" value="75" />
+	<opcode name="xfout_hivel" value="127" />
+	<opcode name="ampeg_attack" value="0.3" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\3_Bb_p.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="c4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Eb_p.ogg" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\4_Ab_p.ogg" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Db_p.ogg" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pan" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Trumpet\TrumpetSect\Sustain\5_Ab_p.ogg" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="c6" />
+</region>

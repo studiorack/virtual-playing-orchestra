@@ -1,0 +1,373 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '.6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\1_Bb.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#1
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c2
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\2_D.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#2
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\2_F.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\2_Ab.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\3_C.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\3_Gb.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\3_A.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\4_C.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\4_Eb.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2.4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\4_A.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\BassoonSect\Sustain\5_Db.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-1'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+

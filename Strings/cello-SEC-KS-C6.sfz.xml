@@ -1,0 +1,2021 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="c6" />
+	<opcode name="sw_label" value="C6 Sustain" />
+	<opcode name="ampeg_release" value="2.1" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.6" />
+</group>
+<region>
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="c#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.ogg" />
+	<opcode name="volume" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.ogg" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.ogg" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="5" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+	<opcode name="eq1_freq" value="61.6" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.5" />
+	<opcode name="eq2_freq" value="301.6" />
+	<opcode name="eq2_bw" value="1.12" />
+	<opcode name="eq2_gain" value="-11.2" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="c#6" />
+	<opcode name="sw_label" value="C#6 Tremolo" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="1.1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_C_t.ogg" />
+	<opcode name="pitch_keycenter" value="c2" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="c#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_D_t.ogg" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="d#2" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_E_t.ogg" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="f#2" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\2_Bb_t-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_C_t.ogg" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="tune" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_D_t.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="tune" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_E_t.ogg" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="tune" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Gb_t-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Ab_t-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\3_Bb_t.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_C_t-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="tune" value="10" />
+	<opcode name="eq1_freq" value="26.4" />
+	<opcode name="eq1_bw" value="3.01" />
+	<opcode name="eq1_gain" value="-12.1" />
+	<opcode name="eq2_freq" value="73.5" />
+	<opcode name="eq2_bw" value="1.12" />
+	<opcode name="eq2_gain" value="-12.0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_D_t-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="tune" value="5" />
+	<opcode name="volume" value="1" />
+	<opcode name="eq1_freq" value="49.1" />
+	<opcode name="eq1_bw" value="2.10" />
+	<opcode name="eq1_gain" value="-15.6" />
+	<opcode name="eq2_freq" value="165.9" />
+	<opcode name="eq2_bw" value="1.12" />
+	<opcode name="eq2_gain" value="-11.0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Cello\CelloSect\Tremulo\4_Gb_t.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="volume" value="0" />
+	<opcode name="eq1_freq" value="49.1" />
+	<opcode name="eq1_bw" value="2.10" />
+	<opcode name="eq1_gain" value="-15.6" />
+	<opcode name="eq2_freq" value="168.7" />
+	<opcode name="eq2_bw" value="1.12" />
+	<opcode name="eq2_gain" value="-11.4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal Mod Wheel" />
+	<opcode name="ampeg_attackcc1" value="0.6" />
+	<opcode name="ampeg_release" value="2.1" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+</group>
+<region>
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="c#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.ogg" />
+	<opcode name="volume" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.ogg" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.ogg" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="5" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+	<opcode name="eq1_freq" value="61.6" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.5" />
+	<opcode name="eq2_freq" value="301.6" />
+	<opcode name="eq2_bw" value="1.12" />
+	<opcode name="eq2_gain" value="-11.2" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal Mod Wheel" />
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="gain_cc1" value="-15" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="gr_1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_dynamic" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.ogg" />
+	<opcode name="pan" value="-35" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.ogg" />
+	<opcode name="pan" value="-0" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.ogg" />
+	<opcode name="pan" value="-30" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.ogg" />
+	<opcode name="pan" value="-9" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.ogg" />
+	<opcode name="pan" value="-8" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal Mod Wheel" />
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="gain_cc1" value="-15" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="gr_1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_dynamic" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="14.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="tune" value="-7" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-0.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.ogg" />
+	<opcode name="pan" value="-7" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-7" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.ogg" />
+	<opcode name="pan" value="0" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.ogg" />
+	<opcode name="pan" value="-12" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="0" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="gr_1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_dynamic" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.ogg" />
+	<opcode name="pan" value="-35" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.ogg" />
+	<opcode name="pan" value="-0" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="23" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.ogg" />
+	<opcode name="pan" value="-30" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.ogg" />
+	<opcode name="pan" value="-9" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.ogg" />
+	<opcode name="pan" value="-8" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="gr_1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_dynamic" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="22.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="tune" value="-7" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="23" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="7.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.ogg" />
+	<opcode name="pan" value="-7" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-7" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.ogg" />
+	<opcode name="pan" value="0" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.ogg" />
+	<opcode name="pan" value="-12" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="8" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="delay" value="0.09" />
+	<opcode name="ampeg_release" value="2.1" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="ampeg_attack" value="0.03" />
+</group>
+<region>
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="c#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.ogg" />
+	<opcode name="delay" value="0.15" />
+	<opcode name="volume" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.ogg" />
+	<opcode name="delay" value="0.15" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.ogg" />
+	<opcode name="delay" value="0.15" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.ogg" />
+	<opcode name="delay" value="0.20" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="5" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.ogg" />
+	<opcode name="delay" value="0.20" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+	<opcode name="eq1_freq" value="61.6" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.5" />
+	<opcode name="eq2_freq" value="301.6" />
+	<opcode name="eq2_bw" value="1.12" />
+	<opcode name="eq2_gain" value="-11.2" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="e6" />
+	<opcode name="sw_label" value="E6 Staccato" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="gr_1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_dynamic" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.ogg" />
+	<opcode name="pan" value="-35" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.ogg" />
+	<opcode name="pan" value="-0" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="23" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.ogg" />
+	<opcode name="pan" value="-30" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.ogg" />
+	<opcode name="pan" value="-9" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.ogg" />
+	<opcode name="pan" value="-8" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="e6" />
+	<opcode name="sw_label" value="E6 Staccato" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="gr_1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_dynamic" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="22.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="tune" value="-7" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="23" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="37" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="7.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.ogg" />
+	<opcode name="pan" value="-7" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="58" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="tune" value="-7" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.ogg" />
+	<opcode name="pan" value="0" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.ogg" />
+	<opcode name="pan" value="-12" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="lovel" value="63" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="8" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="f6" />
+	<opcode name="sw_label" value="F6 Pizzicato" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="1.0" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v1_RR2.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="60" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v1_RR1.ogg" />
+	<opcode name="pan" value="-30" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="48" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v1_RR2.ogg" />
+	<opcode name="pan" value="-33" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="26" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v1_RR1.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="38" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v1_RR2.ogg" />
+	<opcode name="pan" value="-30" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="51" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v1_RR1.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="76" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v1_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v1_RR1.ogg" />
+	<opcode name="pan" value="-24" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="23" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v1_RR1.ogg" />
+	<opcode name="pan" value="-35" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="54" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v1_RR1.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="30" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v1_RR1.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="44" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v1_RR1.ogg" />
+	<opcode name="pan" value="-15" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="xfout_lovel" value="0" />
+	<opcode name="hivel" value="62" />
+	<opcode name="volume" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v2_RR1.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="60" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v2_RR1.ogg" />
+	<opcode name="pan" value="-30" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="48" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v2_RR2.ogg" />
+	<opcode name="pan" value="-30" />
+	<opcode name="lokey" value="69" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v2_RR1.ogg" />
+	<opcode name="pan" value="-18" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="38" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v2_RR1.ogg" />
+	<opcode name="pan" value="-35" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="51" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v2_RR1.ogg" />
+	<opcode name="pan" value="-12" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="76" />
+	<opcode name="pitch_keycenter" value="74" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="13" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v2_RR2.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="41" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v2_RR1.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v2_RR1.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="54" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v2_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v2_RR2.ogg" />
+	<opcode name="pan" value="-25" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="44" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v2_RR2.ogg" />
+	<opcode name="pan" value="-20" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="68" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="volume" value="-37" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="eq1_freq" value="441.6" />
+	<opcode name="eq1_bw" value="0.8" />
+	<opcode name="eq1_gain" value="-3.4" />
+	<opcode name="eq2_freq" value="3589.4" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="7.4" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1" />
+	<opcode name="ampeg_vel2decay" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-c3-PB.ogg" />
+	<opcode name="volume" value="-33" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-d#3-PB.ogg" />
+	<opcode name="volume" value="-32.5" />
+	<opcode name="pan" value="10" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-f#3-PB.ogg" />
+	<opcode name="volume" value="-32" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-a3-PB.ogg" />
+	<opcode name="volume" value="-34" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-c4-PB.ogg" />
+	<opcode name="volume" value="-33" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-d#4-PB.ogg" />
+	<opcode name="volume" value="-33.5" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-f#4-PB.ogg" />
+	<opcode name="volume" value="-31" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-a4-PB.ogg" />
+	<opcode name="volume" value="-32" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="pitch_keycenter" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-c5-PB.ogg" />
+	<opcode name="volume" value="-33" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="pitch_keycenter" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-d#5-PB.ogg" />
+	<opcode name="volume" value="-34" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pitch_keycenter" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-f#5-PB.ogg" />
+	<opcode name="volume" value="-33" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="pitch_keycenter" value="f#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-a5-PB.ogg" />
+	<opcode name="volume" value="-36" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="pitch_keycenter" value="a5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Violas\violas-piz-rr1-c6-PB.ogg" />
+	<opcode name="volume" value="-36" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="a6" />
+	<opcode name="pitch_keycenter" value="c6" />
+</region>

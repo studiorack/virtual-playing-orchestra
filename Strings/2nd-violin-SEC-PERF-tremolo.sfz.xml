@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="volume" value="-40.7" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="group" value="1" />
+	<opcode name="ampeg_release" value="0.7" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\3_G-PB.ogg" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\3_A-PB.ogg" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\3_B-PB.ogg" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_Db-PB.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_Eb-PB.ogg" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="volume" value="-41.7" />
+	<opcode name="tune" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_F-PB.ogg" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="tune" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_G-PB.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_A-PB.ogg" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a4" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="volume" value="-39.7" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_B-PB.ogg" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="tune" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_Db-PB.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_Eb-PB.ogg" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="pitch_keycenter" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_F-PB.ogg" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="volume" value="-34.7" />
+	<opcode name="eq1_freq" value="108.3" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.0" />
+	<opcode name="eq2_freq" value="365.5" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-11.3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_G-PB.ogg" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="volume" value="-37.7" />
+	<opcode name="eq1_freq" value="108.3" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.0" />
+	<opcode name="eq2_freq" value="365.5" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-11.3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_A-PB.ogg" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="volume" value="-33.7" />
+	<opcode name="eq1_freq" value="108.3" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.0" />
+	<opcode name="eq2_freq" value="483.8" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-11.3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_B-PB.ogg" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="volume" value="-35.7" />
+	<opcode name="eq1_freq" value="108.3" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.0" />
+	<opcode name="eq2_freq" value="450.8" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-11.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_Db-PB.ogg" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="pitch_keycenter" value="c#6" />
+	<opcode name="tune" value="-10" />
+	<opcode name="volume" value="-35.7" />
+	<opcode name="eq1_freq" value="108.3" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.0" />
+	<opcode name="eq2_freq" value="450.8" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-11.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_Eb-PB.ogg" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="pitch_keycenter" value="d#6" />
+	<opcode name="volume" value="-38.7" />
+	<opcode name="tune" value="-10" />
+	<opcode name="eq1_freq" value="108.3" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.0" />
+	<opcode name="eq2_freq" value="396.9" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-10.7" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_F-PB.ogg" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="pitch_keycenter" value="f6" />
+	<opcode name="volume" value="-36.7" />
+	<opcode name="tune" value="-10" />
+	<opcode name="eq1_freq" value="226.4" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-10.5" />
+	<opcode name="eq2_freq" value="855.6" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-6.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_G-PB.ogg" />
+	<opcode name="lokey" value="f#6" />
+	<opcode name="hikey" value="g6" />
+	<opcode name="pitch_keycenter" value="g6" />
+	<opcode name="tune" value="-25" />
+	<opcode name="volume" value="-35.7" />
+	<opcode name="eq1_freq" value="226.4" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-10.5" />
+	<opcode name="eq2_freq" value="855.6" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-6.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_A-PB.ogg" />
+	<opcode name="lokey" value="g#6" />
+	<opcode name="hikey" value="a6" />
+	<opcode name="pitch_keycenter" value="a6" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-33.7" />
+	<opcode name="eq1_freq" value="134.8" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-11.4" />
+	<opcode name="eq2_freq" value="815.5" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-10.8" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_B-PB.ogg" />
+	<opcode name="lokey" value="a#6" />
+	<opcode name="hikey" value="a7" />
+	<opcode name="pitch_keycenter" value="b6" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="-37.7" />
+	<opcode name="eq1_freq" value="134.8" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-11.4" />
+	<opcode name="eq2_freq" value="815.5" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-10.8" />
+</region>
+<group>
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="0.9" />
+	<opcode name="volume" value="-32" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\G3-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="volume" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\A3-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\C4-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\D4-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\E4-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\G4-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pan" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\A4-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\C5-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pan" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\D5-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\E5-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\G5-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="volume" value="-24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\A5-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\C6-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\D6-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d6" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\E6-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\G6-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g6" />
+	<opcode name="lokey" value="f#6" />
+	<opcode name="hikey" value="g#6" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\A6-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a6" />
+	<opcode name="lokey" value="a6" />
+	<opcode name="hikey" value="a#6" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\C7-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c7" />
+	<opcode name="lokey" value="b6" />
+	<opcode name="hikey" value="c#7" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\D7-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="d7" />
+	<opcode name="lokey" value="d7" />
+	<opcode name="hikey" value="d#7" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\E7-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e7" />
+	<opcode name="lokey" value="e7" />
+	<opcode name="hikey" value="f7" />
+	<opcode name="volume" value="-20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\G7-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g7" />
+	<opcode name="lokey" value="f#7" />
+	<opcode name="hikey" value="g#7" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\2nd-Violin-Section\A7-tremolo-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a7" />
+	<opcode name="lokey" value="a7" />
+	<opcode name="hikey" value="a7" />
+	<opcode name="volume" value="-19" />
+</region>

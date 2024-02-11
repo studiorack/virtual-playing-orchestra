@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_attackcc1" value="1.0" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.625" />
+	<opcode name="ampeg_vel2attack" value="-0.625" />
+	<opcode name="ampeg_hold" value="0.840" />
+	<opcode name="ampeg_decay" value="22" />
+	<opcode name="ampeg_sustain" value="70" />
+	<opcode name="ampeg_release" value="1.250" />
+	<opcode name="pan" value="30" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-g2-PB-loop.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="g2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-g#2-PB-loop.ogg" />
+	<opcode name="volume" value="7" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-a2-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="a2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-a#2-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-b2-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="b2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-c3-PB-loop.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-c#3-PB-loop.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="c#3" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-d3-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="pitch_keycenter" value="d3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-e3-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="e3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-f3-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="f3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-g3-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="g3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-g#3-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-a3-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-b3-PB-loop.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="b3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-c4-PB-loop.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-c#4-PB-loop.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-d#4-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="pitch_keycenter" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-e4-PB-loop.ogg" />
+	<opcode name="volume" value="2.5" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Chorus\chorus-male-f4-PB-loop.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="pitch_keycenter" value="f4" />
+</region>

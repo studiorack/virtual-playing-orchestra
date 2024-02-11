@@ -1,0 +1,1090 @@
+elements:
+  - type: element
+    name: control
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: set_cc1
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: set_cc10
+          value: '64'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-38'
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc1
+          value: '34'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-30'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-11'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-33'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-30'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-11'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-25'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-11'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-24'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-35'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_A2_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B1_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-30'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-22'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_B3_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-30'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_C1_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-18'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D2_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-35'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-27'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_D4_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-12'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E1_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-25'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_E3_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-25'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-26'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F2_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-25'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-24'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_F4_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-28'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G1_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-25'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\pizzT\pizzT_G3_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-28'
+

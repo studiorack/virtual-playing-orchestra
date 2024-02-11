@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.6" />
+	<opcode name="offset" value="1016" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="volume" value="0" />
+	<opcode name="ampeg_release" value=".6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\1_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#1" />
+	<opcode name="lokey" value="a#1" />
+	<opcode name="hikey" value="c2" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\2_D.ogg" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="lokey" value="c#2" />
+	<opcode name="hikey" value="d#2" />
+	<opcode name="volume" value="0.5" />
+	<opcode name="tune" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\2_F.ogg" />
+	<opcode name="pitch_keycenter" value="f2" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="f#2" />
+	<opcode name="tune" value="-10" />
+	<opcode name="pan" value="3" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\2_Ab.ogg" />
+	<opcode name="pitch_keycenter" value="g#2" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="a2" />
+	<opcode name="tune" value="-10" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\3_C.ogg" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="lokey" value="a#2" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="1" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\3_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="tune" value="-15" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\3_A.ogg" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\4_C.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="tune" value="-10" />
+	<opcode name="volume" value="0" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\4_Eb.ogg" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pan" value="10" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\4_A.ogg" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="1" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\BassoonSect\Sustain\5_Db.ogg" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="pan" value="-10" />
+	<opcode name="volume" value="2" />
+	<opcode name="tune" value="-12" />
+</region>

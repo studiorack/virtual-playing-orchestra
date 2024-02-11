@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group" value="1" />
+	<opcode name="offby" value="3" />
+	<opcode name="group_label" value="group1-RR1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.ogg" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="f3" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G3.ogg" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A3.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B3.ogg" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C4.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D4.ogg" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E4.ogg" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F4.ogg" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="pitch_keycenter" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G4.ogg" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A4.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B4.ogg" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C5.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D5.ogg" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E5.ogg" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F5.ogg" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G5.ogg" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A5.ogg" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B5.ogg" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C6.ogg" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D6.ogg" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="pitch_keycenter" value="d6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E6.ogg" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="e6" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F6.ogg" />
+	<opcode name="lokey" value="f6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="pitch_keycenter" value="f6" />
+	<opcode name="volume" value="1" />
+</region>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="group" value="1" />
+	<opcode name="offby" value="3" />
+	<opcode name="group_label" value="group1-RR2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="off_mode" value="normal" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.ogg" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="f3" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G3.ogg" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A3.ogg" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B3.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C4.ogg" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D4.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E4.ogg" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F4.ogg" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G4.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A4.ogg" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B4.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C5.ogg" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D5.ogg" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E5.ogg" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F5.ogg" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.G5.ogg" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.A5.ogg" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.B5.ogg" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.C6.ogg" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.D6.ogg" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="pitch_keycenter" value="d6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.E6.ogg" />
+	<opcode name="lokey" value="f6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F6.ogg" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="e6" />
+	<opcode name="pitch_keycenter" value="f6" />
+	<opcode name="volume" value="1" />
+</region>
+<group>
+	<opcode name="group" value="3" />
+	<opcode name="key" value="e2" />
+	<opcode name="volume" value="-144" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Iowa\samples\Vibraphone\Vibraphone.sustain.ff.F3.ogg" />
+</region>

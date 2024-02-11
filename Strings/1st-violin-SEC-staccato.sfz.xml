@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="tune" value="4" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1" />
+	<opcode name="ampeg_vel2decay" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g3-PB.ogg" />
+	<opcode name="volume" value="4.5" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#4-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e4-PB.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g4-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#4-PB.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#5-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e5-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g5-PB.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="pitch_keycenter" value="g5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#5-PB.ogg" />
+	<opcode name="volume" value="8" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="pitch_keycenter" value="a#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-c#6-PB.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="d6" />
+	<opcode name="pitch_keycenter" value="c#6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-e6-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="d#6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="pitch_keycenter" value="e6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-g6-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="f#6" />
+	<opcode name="hikey" value="g#6" />
+	<opcode name="pitch_keycenter" value="g6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr1-a#6-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="a6" />
+	<opcode name="hikey" value="a7" />
+	<opcode name="pitch_keycenter" value="a#6" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1" />
+	<opcode name="ampeg_vel2decay" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#4-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e4-PB.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g4-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#4-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#5-PB.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e5-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g5-PB.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="pitch_keycenter" value="g5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#5-PB.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="pitch_keycenter" value="a#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-c#6-PB.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="d6" />
+	<opcode name="pitch_keycenter" value="c#6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-e6-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="d#6" />
+	<opcode name="hikey" value="f6" />
+	<opcode name="pitch_keycenter" value="e6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-g6-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="f#6" />
+	<opcode name="hikey" value="g#6" />
+	<opcode name="pitch_keycenter" value="g6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\1st Violins\1st-violins-stc-rr2-a#6-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="a6" />
+	<opcode name="hikey" value="a7" />
+	<opcode name="pitch_keycenter" value="a#6" />
+</region>

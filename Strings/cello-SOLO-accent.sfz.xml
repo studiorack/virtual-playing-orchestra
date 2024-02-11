@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="group_label" value="group1-RR1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\c2-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c2" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="c#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\d2-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\e2-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="e2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\f2-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f2" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\g2-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="g#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\a2-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a2" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="a#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\b2-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b2" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="b2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\c3-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\d3-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\e3-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="e3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\f3-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f3" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\g3-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\a3-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\b3-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="b3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\c4-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\d4-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\e4-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\f4-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\g4-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\a4-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\b4-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\c5-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\d5-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\e5-stac-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="a5" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="group_label" value="group1-stac-rr2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\c2-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c2" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="c#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\d2-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\e2-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="e2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\f2-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f2" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\g2-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="g#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\a2-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a2" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="a#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\b2-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b2" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="b2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\c3-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\d3-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\e3-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="e3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\f3-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f3" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\g3-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\a3-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\b3-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="b3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\c4-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\d4-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\e4-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\f4-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\g4-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\a4-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\b4-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\c5-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\d5-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Cello\e5-stac-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="a5" />
+</region>
+<group>
+	<opcode name="delay" value="0.1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="group" value="1" />
+	<opcode name="ampeg_attack" value="0.3" />
+	<opcode name="ampeg_release" value="1.8" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+</group>
+<region>
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d#2" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\2_D-PB.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="tune" value="-25" />
+</region>
+<region>
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="f#2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\2_Gb-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+</region>
+<region>
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\2_A-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+</region>
+<region>
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\3_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="pitchlfo_depth" value="0" />
+</region>
+<region>
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="f3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\3_F-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+</region>
+<region>
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\3_A-PB-loop.ogg" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\4_C-PB-loop.ogg" />
+	<opcode name="volume" value="1.0" />
+</region>
+<region>
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\4_Eb-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+</region>
+<region>
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\4_G-PB.ogg" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Vibrato\4_Bb-PB.ogg" />
+	<opcode name="volume" value="-1" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="group" value="3" />
+	<opcode name="off_by" value="1" />
+	<opcode name="off_mode" value="normal" />
+	<opcode name="trigger" value="release" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="ampeg_attack" value="0.2" />
+	<opcode name="width" value="0" />
+</group>
+<region>
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d#2" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\2_D_r-PB.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="tune" value="-35" />
+</region>
+<region>
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="f#2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\2_Gb_r-PB.ogg" />
+	<opcode name="volume" value="0.5" />
+	<opcode name="tune" value="-20" />
+</region>
+<region>
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\2_Bb_r-PB.ogg" />
+	<opcode name="volume" value="1.5" />
+</region>
+<region>
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="b2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\2_B_r-PB.ogg" />
+	<opcode name="volume" value="1.5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\3_E_r-PB.ogg" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\3_Ab_r-PB.ogg" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\3_B_r-PB.ogg" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\4_D_r-PB.ogg" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\4_F_r-PB.ogg" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloCello\Release-PB\4_G_r-PB.ogg" />
+	<opcode name="volume" value="2" />
+</region>

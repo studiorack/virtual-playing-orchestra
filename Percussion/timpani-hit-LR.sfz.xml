@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="amp_random" value="1" />
+	<opcode name="pitch_random" value="20" />
+	<opcode name="eq1_freq" value="25.2" />
+	<opcode name="eq1_bw" value="1.25" />
+	<opcode name="eq1_gain" value="-10.7" />
+	<opcode name="eq1_freq" value="323.1" />
+	<opcode name="eq1_bw" value="1.06" />
+	<opcode name="eq1_gain" value="-6.1" />
+	<opcode name="eq1_freq" value="2843.4" />
+	<opcode name="eq1_bw" value="1.48" />
+	<opcode name="eq1_gain" value="4.4" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0" />
+	<opcode name="ampeg_decay" value="20" />
+	<opcode name="ampeg_release" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\C2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="c2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\D2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="c#2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="d2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\E2-PB.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="e2" />
+	<opcode name="pitch_keycenter" value="e2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\F2-PB.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="f#2" />
+	<opcode name="pitch_keycenter" value="f2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Ab2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\A2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="a2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Bb2-PB.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="a#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\C3-PB.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="c3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\D3-PB.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="lokey" value="c#3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="pitch_keycenter" value="d3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Gb3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\G3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="g3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Ab3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\A3-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Bb3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="pitch_keycenter" value="a#3" />
+</region>
+<group>
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="amp_random" value="1" />
+	<opcode name="pitch_random" value="20" />
+	<opcode name="eq1_freq" value="25.2" />
+	<opcode name="eq1_bw" value="1.25" />
+	<opcode name="eq1_gain" value="-10.7" />
+	<opcode name="eq1_freq" value="323.1" />
+	<opcode name="eq1_bw" value="1.06" />
+	<opcode name="eq1_gain" value="-6.1" />
+	<opcode name="eq1_freq" value="2843.4" />
+	<opcode name="eq1_bw" value="1.48" />
+	<opcode name="eq1_gain" value="4.4" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0" />
+	<opcode name="ampeg_decay" value="20" />
+	<opcode name="ampeg_release" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\C2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="pitch_keycenter" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\D2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\E2-PB.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pitch_keycenter" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\F2-PB.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="pitch_keycenter" value="f5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Ab2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="pitch_keycenter" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\A2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="a5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Bb2-PB.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="a#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\C3-PB.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="c6" />
+	<opcode name="pitch_keycenter" value="c6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\D3-PB.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="lokey" value="c#6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="pitch_keycenter" value="d6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Gb3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="f#6" />
+	<opcode name="pitch_keycenter" value="f#6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\G3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g6" />
+	<opcode name="hikey" value="g6" />
+	<opcode name="pitch_keycenter" value="g6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Ab3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="g#6" />
+	<opcode name="hikey" value="g#6" />
+	<opcode name="pitch_keycenter" value="g#6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\A3-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="a6" />
+	<opcode name="hikey" value="a6" />
+	<opcode name="pitch_keycenter" value="a6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Timpani\Bb3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a#6" />
+	<opcode name="hikey" value="c7" />
+	<opcode name="pitch_keycenter" value="a#6" />
+</region>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.001" />
+	<opcode name="ampeg_release" value="3" />
+	<opcode name="ampeg_dynamic" value="1" />
+	<opcode name="volume" value="2.5" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C3-PB.ogg" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E3-PB.ogg" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A3_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C4_v4_rr1-PB.ogg" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E4_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="1.5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="pitch_keycenter" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A4_v3_rr2-PB.ogg" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="pitch_keycenter" value="a5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C5_v1_rr1-PB.ogg" />
+	<opcode name="volume" value="5.5" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="d6" />
+	<opcode name="pitch_keycenter" value="c6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_E5_v1_rr2-PB.ogg" />
+	<opcode name="lokey" value="d#6" />
+	<opcode name="hikey" value="f#6" />
+	<opcode name="pitch_keycenter" value="e6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_A5_v1_rr1-PB.ogg" />
+	<opcode name="volume" value="3.5" />
+	<opcode name="lokey" value="g6" />
+	<opcode name="hikey" value="a#6" />
+	<opcode name="pitch_keycenter" value="a6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\stac-PB\LDFlute_stac_C6_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="3.5" />
+	<opcode name="lokey" value="b6" />
+	<opcode name="hikey" value="d7" />
+	<opcode name="pitch_keycenter" value="c7" />
+</region>

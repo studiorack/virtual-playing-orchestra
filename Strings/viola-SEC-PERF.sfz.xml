@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="delay_cc1" value="0.05" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="volume" value="-38.68" />
+	<opcode name="ampeg_release" value="2.1" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="ampeg_attack" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c3.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#3.ogg" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+	<opcode name="volume" value="-41.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#3.ogg" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="volume" value="-41.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a3.ogg" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c4.ogg" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#4.ogg" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#4.ogg" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a4.ogg" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c5.ogg" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="pitch_keycenter" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#5.ogg" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#5.ogg" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="volume" value="-39" />
+	<opcode name="eq1_freq" value="58.9" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.4" />
+	<opcode name="eq2_freq" value="249.2" />
+	<opcode name="eq2_bw" value="2.29" />
+	<opcode name="eq2_gain" value="-12.0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_a5.ogg" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="volume" value="-39" />
+	<opcode name="eq1_freq" value="58.9" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.4" />
+	<opcode name="eq2_freq" value="249.2" />
+	<opcode name="eq2_bw" value="2.29" />
+	<opcode name="eq2_gain" value="-12.0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_c6.ogg" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="volume" value="-38" />
+	<opcode name="eq1_freq" value="58.9" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.4" />
+	<opcode name="eq2_freq" value="379.5" />
+	<opcode name="eq2_bw" value="2.29" />
+	<opcode name="eq2_gain" value="-10.6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_d#6.ogg" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="e6" />
+	<opcode name="pitch_keycenter" value="d#6" />
+	<opcode name="volume" value="-39" />
+	<opcode name="eq1_freq" value="55.0" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.2" />
+	<opcode name="eq2_freq" value="422.5" />
+	<opcode name="eq2_bw" value="1.86" />
+	<opcode name="eq2_gain" value="-12.8" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\ViolaSect\Samples\Violas_f#6.ogg" />
+	<opcode name="lokey" value="f6" />
+	<opcode name="hikey" value="g6" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="volume" value="-38" />
+	<opcode name="eq1_freq" value="58.9" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.4" />
+	<opcode name="eq2_freq" value="543.3" />
+	<opcode name="eq2_bw" value="2.29" />
+	<opcode name="eq2_gain" value="-12.6" />
+</region>
+<group>
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="delay_cc1" value="0.05" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="volume" value="-37.25" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_A3_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="70" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-29.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_B2_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="60" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-29.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_B4_v2_1-PB-loop.ogg" />
+	<opcode name="offset" value="2198" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="84" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-24.25" />
+	<opcode name="eq1_freq" value="130" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-20.8" />
+	<opcode name="eq2_freq" value="582.4" />
+	<opcode name="eq2_bw" value="0.41" />
+	<opcode name="eq2_gain" value="-11.2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_C4_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="73" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-28.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D2_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="50" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-28.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D3_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="63" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-27.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_D5_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="93" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-26.25" />
+	<opcode name="eq1_freq" value="130" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-20.8" />
+	<opcode name="eq2_freq" value="667.8" />
+	<opcode name="eq2_bw" value="0.64" />
+	<opcode name="eq2_gain" value="-10.8" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_E2_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-25.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_E4_v2_1-PB-loop.ogg" />
+	<opcode name="pan" value="7" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="77" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-29.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_F3_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="66" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-27.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_G2_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="56" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-28.25" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\susvib\ViolaEns_susvib_G4_v2_1-PB-loop.ogg" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="80" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="-26.25" />
+	<opcode name="eq1_freq" value="130" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-20.8" />
+	<opcode name="eq2_freq" value="399.4" />
+	<opcode name="eq2_bw" value="0.41" />
+	<opcode name="eq2_gain" value="-11.0" />
+</region>
+<group>
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="4" />
+	<opcode name="ampeg_dynamic" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="gr_1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_A3_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="70" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B2_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="60" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B4_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="84" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C2_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="51" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C4_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="73" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D3_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="63" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D5_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="93" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E2_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E4_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="77" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_F3_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="66" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G2_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="56" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G4_v2_rr1-PB.ogg" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="80" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<group>
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="4" />
+	<opcode name="ampeg_dynamic" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="gr_2" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_A3_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="70" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B2_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="60" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_B4_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="84" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C2_v2_rr2-PB.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="51" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_C4_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="73" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D3_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="63" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_D5_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="93" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E2_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_E4_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="77" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_F3_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="66" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G2_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="56" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Viola Section\spic\Violas_spic_G4_v2_rr2-PB.ogg" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="80" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>

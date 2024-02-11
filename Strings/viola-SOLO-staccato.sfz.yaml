@@ -1,0 +1,876 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: group1-RR1
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0.06'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_C3-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_E3-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_C4-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_E4-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_G4-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_C#5-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: group2-RR2
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0.06'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_C#3-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_F#3-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_D#4-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_F4-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_G#4-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_C5-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+

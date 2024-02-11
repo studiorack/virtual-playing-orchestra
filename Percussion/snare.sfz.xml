@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-lh-ff-PB.ogg" />
+	<opcode name="key" value="c3" />
+	<opcode name="hivel" value="127" />
+	<opcode name="lovel" value="80" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-lh-mf-PB.ogg" />
+	<opcode name="key" value="c3" />
+	<opcode name="hivel" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="volume" value="3" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="snare-hit-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-lh-ff-PB.ogg" />
+	<opcode name="key" value="c#3" />
+	<opcode name="hivel" value="127" />
+	<opcode name="lovel" value="80" />
+	<opcode name="volume" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-lh-mf-PB.ogg" />
+	<opcode name="key" value="c#3" />
+	<opcode name="hivel" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="volume" value="3" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="snare-hit-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-rh-ff-PB.ogg" />
+	<opcode name="key" value="c#3" />
+	<opcode name="hivel" value="127" />
+	<opcode name="lovel" value="80" />
+	<opcode name="volume" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-rh-mf-PB.ogg" />
+	<opcode name="key" value="c#3" />
+	<opcode name="hivel" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="volume" value="4" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-rh-ff-PB.ogg" />
+	<opcode name="key" value="d3" />
+	<opcode name="hivel" value="127" />
+	<opcode name="lovel" value="80" />
+	<opcode name="volume" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-rh-mf-PB.ogg" />
+	<opcode name="key" value="d3" />
+	<opcode name="hivel" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="volume" value="4" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="0.920" />
+	<opcode name="width" value="0" />
+	<opcode name="offset" value="96" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/snare-roll.ogg" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="tune" value="-50" />
+	<opcode name="key" value="e3" />
+	<opcode name="volume" value="5" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="f3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="f3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="1" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="snare-hit-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="f#3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="f#3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="1" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="snare-hit-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="f#3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="f#3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="1" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v5_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="g3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-HitSN_v9_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="g3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="1" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="snare-tap-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v2_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="g#3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v4_rr1_Sum-PB.ogg" />
+	<opcode name="key" value="g#3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="13" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="snare-tap-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v2_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="g#3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="29" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-taps_v4_rr2_Sum-PB.ogg" />
+	<opcode name="key" value="g#3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="15" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="width" value="0" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-rollSN_v3_rr1_Sum.ogg" />
+	<opcode name="ampeg_release" value="0.3" />
+	<opcode name="key" value="a3" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+	<opcode name="volume" value="17" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/Snare2-rollSN_v5_rr1_Sum.ogg" />
+	<opcode name="ampeg_release" value="0.3" />
+	<opcode name="key" value="a3" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+	<opcode name="volume" value="8" />
+</region>

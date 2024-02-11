@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="ampeg_attack" value="0.003" />
+	<opcode name="ampeg_dynamic" value="1" />
+	<opcode name="volume" value="26" />
+	<opcode name="amp_random" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C5-PB.ogg" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="87" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C6-PB.ogg" />
+	<opcode name="lokey" value="94" />
+	<opcode name="hikey" value="99" />
+	<opcode name="pitch_keycenter" value="96" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Percussion\Glock\glock_medium_C7-PB.ogg" />
+	<opcode name="lokey" value="106" />
+	<opcode name="hikey" value="108" />
+	<opcode name="pitch_keycenter" value="108" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G4-PB.ogg" />
+	<opcode name="lokey" value="77" />
+	<opcode name="hikey" value="81" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G5-PB.ogg" />
+	<opcode name="lokey" value="88" />
+	<opcode name="hikey" value="93" />
+	<opcode name="pitch_keycenter" value="91" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Percussion\Glock\glock_medium_G6-PB.ogg" />
+	<opcode name="lokey" value="100" />
+	<opcode name="hikey" value="105" />
+	<opcode name="pitch_keycenter" value="103" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>

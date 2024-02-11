@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="amp_random" value="1" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="seq_length" value="2" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\4_Gb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\4_Gb_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="1.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\4_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\4_Ab_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\4_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="2.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\4_Bb_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="1.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_C-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_C_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_D-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="d4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_D_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_E-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_E_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_Gb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_Gb_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_Ab_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\5_Bb_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_C-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_C_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_D-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_D_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="-2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_E-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_E_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_Gb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_Gb_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_Ab_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="c7" />
+	<opcode name="volume" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\Xylophone\6_Bb_2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="c7" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="volume" value="1" />
+</region>

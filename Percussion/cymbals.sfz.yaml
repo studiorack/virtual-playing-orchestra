@@ -1,0 +1,858 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/cymbal_roll-a-mf-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/cymbal_roll-a-f-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/piatti-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/cymbal_roll-b-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/piatti-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '6'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Short_v1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: crash-rr1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_mf_rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_ff_rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: crash-rr2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_mf_rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_ff_rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Median_v1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '12'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: stick-hit1-rr1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '17'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: stick-hit1-rr2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '19'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '12'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Long_v1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: stick-hit2-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '17'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: stick-hit2-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '19'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '12'
+

@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="delay_cc1" value="0.06" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="1.7" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="eq1_freq" value="807.4" />
+	<opcode name="eq1_bw" value="1.54" />
+	<opcode name="eq1_gain" value="-9.2" />
+	<opcode name="eq2_freq" value="5303.4" />
+	<opcode name="eq2_bw" value="0.86" />
+	<opcode name="eq2_gain" value="-8.8" />
+	<opcode name="volume" value="-32" />
+	<opcode name="group" value="1" />
+	<opcode name="xfin_lovel" value="54" />
+	<opcode name="xfin_hivel" value="104" />
+</group>
+<region>
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_f-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_f-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_f-PB.ogg" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_f-PB.ogg" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_f-PB.ogg" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_f-PB.ogg" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_f-PB.ogg" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_f-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_f-PB.ogg" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_f-PB.ogg" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_f-PB.ogg" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_f-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_f-PB.ogg" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="a6" />
+	<opcode name="pitch_keycenter" value="d#6" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_f-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<group>
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="delay_cc1" value="0.06" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="1.7" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="eq1_freq" value="807.4" />
+	<opcode name="eq1_bw" value="1.54" />
+	<opcode name="eq1_gain" value="-9.2" />
+	<opcode name="eq2_freq" value="5303.4" />
+	<opcode name="eq2_bw" value="0.86" />
+	<opcode name="eq2_gain" value="-8.8" />
+	<opcode name="volume" value="-32" />
+	<opcode name="group" value="1" />
+	<opcode name="lovel" value="0" />
+	<opcode name="xfout_lovel" value="54" />
+	<opcode name="xfout_hivel" value="104" />
+</group>
+<region>
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\3_C_mf-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Eb_mf-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\3_Gb_mf-PB.ogg" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\3_A_mf-PB.ogg" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\4_C_mf-PB.ogg" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="e4" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Eb_mf-PB.ogg" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\4_Gb_mf-PB.ogg" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\4_A_mf-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\5_C_mf-PB.ogg" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Eb_mf-PB.ogg" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\5_Gb_mf-PB.ogg" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\5_A_mf-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="c#6" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\6_C_mf-PB.ogg" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="a6" />
+	<opcode name="pitch_keycenter" value="d#6" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\SoloViola\Vibrato\6_Eb_mf-PB.ogg" />
+	<opcode name="volume" value="-32" />
+</region>
+<group>
+	<opcode name="volume" value="-47.5" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="group_label" value="group1-RR1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_decay" value="0.06" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C3-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="-45.5" />
+	<opcode name="tune" value="5" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E3-staccato-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="5" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr1-PB.ogg" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="b3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C4-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="-45.5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E4-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="-45.5" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G4-staccato-rr1-PB.ogg" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr1-PB.ogg" />
+	<opcode name="tune" value="-15" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C#5-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="-45.5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="tune" value="-20" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr1-PB.ogg" />
+	<opcode name="tune" value="-20" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="a6" />
+</region>
+<group>
+	<opcode name="volume" value="-47.5" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="group_label" value="group2-RR2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_decay" value="0.06" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C#3-staccato-rr2-PB.ogg" />
+	<opcode name="tune" value="10" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_F#3-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr2-PB.ogg" />
+	<opcode name="tune" value="-15" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="b3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_D#4-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-45.5" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_F4-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="tune" value="5" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G#4-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-43.5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-43.5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C5-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="tune" value="-20" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-43.5" />
+	<opcode name="tune" value="-40" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="tune" value="-20" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="-44.5" />
+	<opcode name="tune" value="-15" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="a6" />
+</region>

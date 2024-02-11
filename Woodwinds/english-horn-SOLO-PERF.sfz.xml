@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="gain_cc1" value="29" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="delay_cc1" value="0.06" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="0.442" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-f3-PB-loop.ogg" />
+	<opcode name="volume" value="-24" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="pitch_keycenter" value="f3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-g#3-PB-loop.ogg" />
+	<opcode name="tune" value="-5" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitchlfo_freq" value="5.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="2" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="pitch_keycenter" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-b3-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="tune" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-d4-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="tune" value="-9" />
+	<opcode name="pitchlfo_freq" value="6.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-f4-PB-loop.ogg" />
+	<opcode name="volume" value="-24.5" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="tune" value="-12" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-g#4-PB-loop.ogg" />
+	<opcode name="volume" value="-24" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="a4" />
+	<opcode name="pitch_keycenter" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-b4-PB-loop.ogg" />
+	<opcode name="volume" value="-24" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="pitchlfo_freq" value="6.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-d5-PB-loop.ogg" />
+	<opcode name="volume" value="-24" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="pitch_keycenter" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Cor Anglais\cor_anglais-f5-PB-loop.ogg" />
+	<opcode name="volume" value="-21" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="tune" value="-8" />
+</region>
+<group>
+	<opcode name="volume" value="-35" />
+	<opcode name="gain_cc1" value="29" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_decay" value="0.06" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/E3-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/G#3-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/A#3-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/F4-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/F#4-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/G4-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="a4" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/A#4-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="volume" value="-34.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/D5-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/D#5-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/F5-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/F#5-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/G5-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/A5-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Philharmonia\Samples/English-Horn/B5-stac-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="volume" value="-33" />
+</region>

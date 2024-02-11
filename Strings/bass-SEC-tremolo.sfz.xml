@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="1.0" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="volume" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\C1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c1" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="c#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\D1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d1" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="d#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\E1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e1" />
+	<opcode name="lokey" value="e1" />
+	<opcode name="hikey" value="e1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\F1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f1" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\G1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g1" />
+	<opcode name="lokey" value="g1" />
+	<opcode name="hikey" value="g#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\A1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a1" />
+	<opcode name="lokey" value="a1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\B1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b1" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="b1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\C2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c2" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="c#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\D2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="d#2" />
+	<opcode name="volume" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\E2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="e2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\F2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f2" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\G2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="g#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\A2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a2" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="a#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\B2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b2" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="b2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\C3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\D3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\E3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\F3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f3" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\G3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\A3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\B3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="volume" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\C4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\D4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\E4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\F4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\G4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="5" />
+</region>

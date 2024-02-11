@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="volume" value="1" />
+	<opcode name="ampeg_attack" value="0.2" />
+	<opcode name="ampeg_release" value="0.9" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-e5-PB-loop.ogg" />
+	<opcode name="pan" value="-10" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-g5-PB-loop.ogg" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="g#5" />
+	<opcode name="pitch_keycenter" value="g5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-a#5-PB-loop.ogg" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="d6" />
+	<opcode name="pitch_keycenter" value="a#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Oboes\oboes-sus-e6-PB-loop.ogg" />
+	<opcode name="lokey" value="d#6" />
+	<opcode name="hikey" value="a6" />
+	<opcode name="pitch_keycenter" value="e6" />
+</region>

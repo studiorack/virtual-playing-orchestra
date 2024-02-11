@@ -1,0 +1,941 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_vel2decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_veltrack
+          value: '11000'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_type
+          value: lpf_2p
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '1000'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-c1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-d#1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-f#1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-a1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-c2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-d#2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-f#2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-a2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-c3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-d#3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-f#3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-a3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr1-c4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c4
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '-1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_vel2decay
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-c1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-d#1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-f#1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-a1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-c2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-d#2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-f#2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-a2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-c3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-d#3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-f#3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-a3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Basses\basses-stc-rr2-c4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c4
+

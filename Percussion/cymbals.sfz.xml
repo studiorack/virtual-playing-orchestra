@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/cymbal_roll-a-mf-PB.ogg" />
+	<opcode name="key" value="c4" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/cymbal_roll-a-f-PB.ogg" />
+	<opcode name="key" value="c4" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/piatti-PB.ogg" />
+	<opcode name="key" value="c#4" />
+	<opcode name="volume" value="6" />
+	<opcode name="ampeg_release" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/cymbal_roll-b-PB.ogg" />
+	<opcode name="key" value="d4" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/SSO/piatti-PB.ogg" />
+	<opcode name="key" value="d#4" />
+	<opcode name="volume" value="6" />
+	<opcode name="ampeg_release" value="1" />
+	<opcode name="transpose" value="6" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Short_v1-PB.ogg" />
+	<opcode name="key" value="f4" />
+	<opcode name="volume" value="10" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="crash-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_mf_rr1-PB.ogg" />
+	<opcode name="key" value="f#4" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_ff_rr1-PB.ogg" />
+	<opcode name="key" value="f#4" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="3" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="crash-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_mf_rr2-PB.ogg" />
+	<opcode name="key" value="f#4" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/cymbal-crash1_ff_rr2-PB.ogg" />
+	<opcode name="key" value="f#4" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="6" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Median_v1-PB.ogg" />
+	<opcode name="key" value="g4" />
+	<opcode name="volume" value="12" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="3" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="stick-hit1-rr1" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr1-PB.ogg" />
+	<opcode name="key" value="g#4" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="17" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr1-PB.ogg" />
+	<opcode name="key" value="g#4" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="3" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="stick-hit1-rr2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr2-PB.ogg" />
+	<opcode name="key" value="g#4" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="19" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr2-PB.ogg" />
+	<opcode name="key" value="g#4" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="12" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="2" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-cresc-Long_v1-PB.ogg" />
+	<opcode name="key" value="a4" />
+	<opcode name="volume" value="10" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="3" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="stick-hit2-rr1" />
+	<opcode name="transpose" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr1-PB.ogg" />
+	<opcode name="key" value="a#4" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="17" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr1-PB.ogg" />
+	<opcode name="key" value="a#4" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="10" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="3" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="stick-hit2-rr2" />
+	<opcode name="transpose" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_f_rr2-PB.ogg" />
+	<opcode name="key" value="a#4" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="79" />
+	<opcode name="volume" value="19" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Other/Samples/Percussion/VSCO2-CE/susCymb1-hit_fff_rr2-PB.ogg" />
+	<opcode name="key" value="a#4" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="12" />
+</region>

@@ -1,0 +1,1843 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: gr_1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.001'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_dynamic
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '24'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '27'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-35'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '27'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '24'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '23'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '21'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '24'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-30'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '12'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-9'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-8'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-25'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: gr_1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.001'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_dynamic
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '22.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '27'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '22'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '21'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-7'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '24'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '24'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '21'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '24'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v1_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-25'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '23'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C1_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '7.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E1_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G1_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D2_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-7'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_A2_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_C3_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-7'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_E3_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_G3_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-12'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_B3_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\VSCO2-CE\Strings\Cello Section\spic\spic_D4_v2_RR2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan
+          value: '-20'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '8'
+

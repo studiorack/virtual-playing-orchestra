@@ -1,0 +1,2618 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lokey
+          value: c2
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0.06'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1.2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.Eb1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#1
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.F1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g1
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.A1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a1
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.Bb1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#1
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.B1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.C2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.Db2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.Eb2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.E2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.F2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.Gb2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.G2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.A2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.Bb2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-30'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.B2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.C3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.Db3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.F3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.Gb3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.A3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\Iowa\samples/Bass-solo/Bass.pizz.B3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lokey
+          value: c2
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hikey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1.2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '353.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '0.59'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c2
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\2_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '30'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\2_E-PB.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\2_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '60'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\2_G-PB.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\2_A-PB.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\2_B-PB.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\3_C-PB.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\3_D-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\3_E-PB.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\3_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\3_G-PB.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\3_A-PB.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\3_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\4_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\4_D-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\4_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\4_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\4_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\4_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\4_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '30'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloCello\Pizzicato\5_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hikey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lokey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hikey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: width
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\3_C_1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\3_Eb_1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\3_A_1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\4_C_2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\4_Eb_1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\4_A_1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\5_C_1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#5
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\5_Eb_2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f#5
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\5_Gb_2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViola\Pizzicato\5_A_1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lokey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hikey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\3_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\3_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\3_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_D-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\4_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_D-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\5_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_D-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '11.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '11'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch\SoloViolin\PizzicatoVib\6_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-30'
+

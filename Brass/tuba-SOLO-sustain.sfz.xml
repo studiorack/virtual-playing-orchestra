@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.2" />
+	<opcode name="ampeg_release" value="0.645" />
+	<opcode name="fil_veltrack" value="11000" />
+	<opcode name="fil_type" value="lpf_2p" />
+	<opcode name="cutoff" value="120" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-e1-PB-loop.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="f1" />
+	<opcode name="pitch_keycenter" value="e1" />
+	<opcode name="tune" value="-3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-g1-PB-loop.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="f#1" />
+	<opcode name="hikey" value="g#1" />
+	<opcode name="pitch_keycenter" value="g1" />
+	<opcode name="tune" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-a#1-PB-loop.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="lokey" value="a1" />
+	<opcode name="hikey" value="b1" />
+	<opcode name="pitch_keycenter" value="a#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-c#2-PB-loop.ogg" />
+	<opcode name="volume" value="7" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="c#2" />
+	<opcode name="tune" value="-14" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-e2-PB-loop.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="e2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="-17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-g2-PB-loop.ogg" />
+	<opcode name="volume" value="7" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-a#2-PB-loop.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-c#3-PB-loop.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Tuba\tuba-sus-e3-PB-loop.ogg" />
+	<opcode name="volume" value="6" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="e3" />
+</region>

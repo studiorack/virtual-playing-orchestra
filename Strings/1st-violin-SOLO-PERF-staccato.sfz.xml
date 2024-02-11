@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="volume" value="-42" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="group_label" value="group1-RR1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_release" value="0.4" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/3_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="56" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/3_A-PB.ogg" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/3_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/3_B-PB.ogg" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_C-PB.ogg" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="61" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Eb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="63" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_E-PB.ogg" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="65" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Gb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_G-PB.ogg" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="69" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_B-PB.ogg" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_C-PB.ogg" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="volume" value="-39" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Db-PB.ogg" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="75" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_F-PB.ogg" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="77" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Gb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="79" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="volume" value="-39" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_A-PB.ogg" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="volume" value="-39" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="volume" value="-41" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_B-PB.ogg" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="volume" value="-38" />
+	<opcode name="tune" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_C-PB.ogg" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="85" />
+	<opcode name="volume" value="-40.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Eb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="87" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="87" />
+	<opcode name="volume" value="-38" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_E-PB.ogg" />
+	<opcode name="pitch_keycenter" value="88" />
+	<opcode name="lokey" value="88" />
+	<opcode name="hikey" value="88" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_F-PB.ogg" />
+	<opcode name="pitch_keycenter" value="89" />
+	<opcode name="lokey" value="89" />
+	<opcode name="hikey" value="90" />
+	<opcode name="volume" value="-39.5" />
+	<opcode name="tune" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_G-PB.ogg" />
+	<opcode name="pitch_keycenter" value="91" />
+	<opcode name="lokey" value="91" />
+	<opcode name="hikey" value="91" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="-15" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="92" />
+	<opcode name="lokey" value="92" />
+	<opcode name="hikey" value="92" />
+	<opcode name="volume" value="-38" />
+	<opcode name="tune" value="-15" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_A-PB.ogg" />
+	<opcode name="pitch_keycenter" value="93" />
+	<opcode name="lokey" value="93" />
+	<opcode name="hikey" value="93" />
+	<opcode name="volume" value="-37" />
+	<opcode name="tune" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="94" />
+	<opcode name="lokey" value="94" />
+	<opcode name="hikey" value="105" />
+	<opcode name="volume" value="-38" />
+	<opcode name="tune" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_B-PB.ogg" />
+	<opcode name="pitch_keycenter" value="95" />
+	<opcode name="lokey" value="95" />
+	<opcode name="hikey" value="96" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="-15" />
+</region>
+<group>
+	<opcode name="volume" value="-42" />
+	<opcode name="gain_cc1" value="34" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="group_label" value="group1-RR2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_release" value="0.4" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/3_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="56" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="57" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/3_A-PB.ogg" />
+	<opcode name="pitch_keycenter" value="57" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="56" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/3_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="58" />
+	<opcode name="lokey" value="59" />
+	<opcode name="hikey" value="59" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/3_B-PB.ogg" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="lokey" value="58" />
+	<opcode name="hikey" value="58" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_C-PB.ogg" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="63" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Eb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="61" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_E-PB.ogg" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="66" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Gb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="66" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="65" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_G-PB.ogg" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="69" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="68" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="67" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="70" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="71" />
+	<opcode name="volume" value="-42" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/4_B-PB.ogg" />
+	<opcode name="pitch_keycenter" value="71" />
+	<opcode name="lokey" value="70" />
+	<opcode name="hikey" value="70" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_C-PB.ogg" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="lokey" value="73" />
+	<opcode name="hikey" value="75" />
+	<opcode name="volume" value="-39" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Db-PB.ogg" />
+	<opcode name="pitch_keycenter" value="73" />
+	<opcode name="lokey" value="72" />
+	<opcode name="hikey" value="72" />
+	<opcode name="volume" value="-41" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_F-PB.ogg" />
+	<opcode name="pitch_keycenter" value="77" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="79" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Gb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="78" />
+	<opcode name="lokey" value="76" />
+	<opcode name="hikey" value="77" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="80" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="81" />
+	<opcode name="volume" value="-39" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_A-PB.ogg" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="80" />
+	<opcode name="volume" value="-39" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="82" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="83" />
+	<opcode name="volume" value="-41" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/5_B-PB.ogg" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="lokey" value="82" />
+	<opcode name="hikey" value="82" />
+	<opcode name="volume" value="-38" />
+	<opcode name="tune" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_C-PB.ogg" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="87" />
+	<opcode name="volume" value="-40.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Eb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="87" />
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="85" />
+	<opcode name="volume" value="-38" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_E-PB.ogg" />
+	<opcode name="pitch_keycenter" value="88" />
+	<opcode name="lokey" value="89" />
+	<opcode name="hikey" value="90" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_F-PB.ogg" />
+	<opcode name="pitch_keycenter" value="89" />
+	<opcode name="lokey" value="88" />
+	<opcode name="hikey" value="88" />
+	<opcode name="volume" value="-39.5" />
+	<opcode name="tune" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_G-PB.ogg" />
+	<opcode name="pitch_keycenter" value="91" />
+	<opcode name="lokey" value="92" />
+	<opcode name="hikey" value="92" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="-15" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Ab-PB.ogg" />
+	<opcode name="pitch_keycenter" value="92" />
+	<opcode name="lokey" value="91" />
+	<opcode name="hikey" value="91" />
+	<opcode name="volume" value="-38" />
+	<opcode name="tune" value="-15" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_A-PB.ogg" />
+	<opcode name="pitch_keycenter" value="93" />
+	<opcode name="lokey" value="95" />
+	<opcode name="hikey" value="96" />
+	<opcode name="volume" value="-37" />
+	<opcode name="tune" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Bb-PB.ogg" />
+	<opcode name="pitch_keycenter" value="94" />
+	<opcode name="lokey" value="93" />
+	<opcode name="hikey" value="93" />
+	<opcode name="volume" value="-38" />
+	<opcode name="tune" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/NoBudgetOrch/SoloViolin/Spiccato/6_B-PB.ogg" />
+	<opcode name="pitch_keycenter" value="95" />
+	<opcode name="lokey" value="94" />
+	<opcode name="hikey" value="105" />
+	<opcode name="volume" value="-40" />
+	<opcode name="tune" value="-15" />
+</region>

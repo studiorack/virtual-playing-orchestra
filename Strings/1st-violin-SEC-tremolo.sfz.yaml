@@ -1,0 +1,1471 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-5.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\3_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\3_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\3_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-6.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g4
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-4.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\4_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '108.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-12.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '365.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '108.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-12.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '365.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '108.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-12.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '483.8'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\5_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b5
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-0.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '108.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-12.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '450.8'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#6
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#6
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-0.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '108.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-12.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '450.8'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#6
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d#6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '108.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-12.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '396.9'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-10.7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f6
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-1.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-10'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '226.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-10.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '855.6'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-6.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g6
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g6
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-25'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-0.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '226.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-10.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '855.6'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-6.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g#6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a6
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '134.8'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '815.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-10.8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\SoloViolin\Tremulo\6_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a7
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b6
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '134.8'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '815.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-10.8'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '1.1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attackcc67
+          value: '.55'
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc11
+          value: '12'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\3_G.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\3_Bb.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\4_Db.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\4_E-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '43.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '72.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '1.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-10.7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\4_G-PB-loop.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '43.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '107.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '1.25'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-10.9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\4_Bb.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '43.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '226.1'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '1.25'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-10.7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\5_Db.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d5
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '43.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '212.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '1.25'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\5_E.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f5
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '102.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '239.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '1.25'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\5_G.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#5
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '102.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '405.0'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '1.17'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\NoBudgetOrch2\Violin\ViolinSect\Tremulo\5_B.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b5
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a7
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq
+          value: '102.7'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_bw
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain
+          value: '-11.4'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '472.6'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '1.17'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain
+          value: '-11.1'
+

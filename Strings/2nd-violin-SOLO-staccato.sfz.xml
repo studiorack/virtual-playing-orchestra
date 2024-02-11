@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="4" />
+	<opcode name="eq1_freq" value="528.4" />
+	<opcode name="eq1_bw" value="0.54" />
+	<opcode name="eq1_gain" value="-4.8" />
+	<opcode name="eq2_freq" value="99401.1" />
+	<opcode name="eq2_bw" value="2.69" />
+	<opcode name="eq2_gain" value="-7.4" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="group_label" value="gr_1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A3_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="3.7" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="70" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A4_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="2.7" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="82" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A5_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="92" />
+	<opcode name="hikey" value="94" />
+	<opcode name="pitch_keycenter" value="93" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C3_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="offset" value="1120" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C4_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="73" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C5_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="4.7" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="85" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C6_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="95" />
+	<opcode name="hikey" value="105" />
+	<opcode name="pitch_keycenter" value="96" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E3_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="2.7" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E4_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="2.7" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="77" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E5_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="2.7" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="89" />
+	<opcode name="pitch_keycenter" value="88" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G3_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="67" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G4_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="79" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G5_v2_rr1-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="90" />
+	<opcode name="hikey" value="91" />
+	<opcode name="pitch_keycenter" value="91" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<group>
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="4" />
+	<opcode name="eq1_freq" value="528.4" />
+	<opcode name="eq1_bw" value="0.54" />
+	<opcode name="eq1_gain" value="-4.8" />
+	<opcode name="eq2_freq" value="99401.1" />
+	<opcode name="eq2_bw" value="2.69" />
+	<opcode name="eq2_gain" value="-7.4" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="group_label" value="gr_2" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A3_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="2.7" />
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="70" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A4_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="4.7" />
+	<opcode name="lokey" value="80" />
+	<opcode name="hikey" value="82" />
+	<opcode name="pitch_keycenter" value="81" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_A5_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="92" />
+	<opcode name="hikey" value="94" />
+	<opcode name="pitch_keycenter" value="93" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C3_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C4_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="73" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C5_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="3.7" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="85" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_C6_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="95" />
+	<opcode name="hikey" value="105" />
+	<opcode name="pitch_keycenter" value="96" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E3_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="3.7" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="65" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E4_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="2.7" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="77" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_E5_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="2.7" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="89" />
+	<opcode name="pitch_keycenter" value="88" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G3_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="66" />
+	<opcode name="hikey" value="67" />
+	<opcode name="pitch_keycenter" value="67" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G4_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="2.7" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="79" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Solo Violin\spic\LLVln_spic_G5_v2_rr2-PB.ogg" />
+	<opcode name="volume" value="1.7" />
+	<opcode name="lokey" value="90" />
+	<opcode name="hikey" value="91" />
+	<opcode name="pitch_keycenter" value="91" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+</region>

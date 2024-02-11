@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="volume" value="-31" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="offset" value="1000" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.12" />
+	<opcode name="ampeg_decay" value="0.3" />
+	<opcode name="ampeg_release" value="0.3" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="fil_veltrack" value="11000" />
+	<opcode name="fil_type" value="lpf_2p" />
+	<opcode name="cutoff" value="120" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-g1-PB-loop.ogg" />
+	<opcode name="volume" value="-22" />
+	<opcode name="lokey" value="a#0" />
+	<opcode name="hikey" value="g#1" />
+	<opcode name="pitch_keycenter" value="g1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#1-PB-loop.ogg" />
+	<opcode name="lokey" value="a1" />
+	<opcode name="hikey" value="b1" />
+	<opcode name="pitch_keycenter" value="a#1" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#2-PB-loop.ogg" />
+	<opcode name="offset" value="4000" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="c#2" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="volume" value="-24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#2-PB-loop.ogg" />
+	<opcode name="offset" value="2000" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="volume" value="-24" />
+	<opcode name="eq1_freq" value="130.9" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-6.4" />
+	<opcode name="eq2_freq" value="1957.2" />
+	<opcode name="eq2_bw" value="1.96" />
+	<opcode name="eq2_gain" value="8.1" />
+	<opcode name="eq3_freq" value="6072.9" />
+	<opcode name="eq3_bw" value="0.54" />
+	<opcode name="eq3_gain" value="-7.4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="volume" value="-24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-c#4-PB-loop.ogg" />
+	<opcode name="offset" value="0" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Bass Trombone\bass_trombone-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="volume" value="-25" />
+</region>

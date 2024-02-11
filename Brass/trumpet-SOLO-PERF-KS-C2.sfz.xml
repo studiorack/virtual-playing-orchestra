@@ -1,0 +1,1310 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="c2" />
+	<opcode name="sw_label" value="C2 Performance" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="delay_cc1" value="0.05" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="2.0" />
+	<opcode name="eq1_freq" value="339.0" />
+	<opcode name="eq1_bw" value="2" />
+	<opcode name="eq1_gain" value="6.2" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_decay" value="0.06" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="volume" value="-28" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#3-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A3-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="-24" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="volume" value="-26.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="volume" value="-26" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.E4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-26.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="-26.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#4-PB-loop.ogg" />
+	<opcode name="volume" value="-26.5" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#4-PB-loop.ogg" />
+	<opcode name="volume" value="-25.5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B4-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C5-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C#5-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D#5-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.E5-PB-loop.ogg" />
+	<opcode name="volume" value="-27.5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F#5-PB-loop.ogg" />
+	<opcode name="volume" value="-25.5" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="f#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#5-PB-loop.ogg" />
+	<opcode name="volume" value="-25" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="volume" value="-24" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C6-PB-loop.ogg" />
+	<opcode name="delay_cc1" value=".03" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c6" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="c2" />
+	<opcode name="sw_label" value="C2 Performance" />
+	<opcode name="ampeg_attack" value="1" />
+	<opcode name="ampeg_vel2attack" value="-2" />
+	<opcode name="delay_cc1" value="0.05" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="2.0" />
+	<opcode name="eq1_freq" value="339.0" />
+	<opcode name="eq1_bw" value="2" />
+	<opcode name="eq1_gain" value="6.2" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_decay" value="0.06" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="volume" value="-28" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#3-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A3-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.E4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="volume" value="-23.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B4-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C5-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D5-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D#5-PB-loop.ogg" />
+	<opcode name="volume" value="-25" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.E5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="volume" value="-24" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F5-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="volume" value="-25.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#5-PB-loop.ogg" />
+	<opcode name="volume" value="-25" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="volume" value="-26.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C6-PB-loop.ogg" />
+	<opcode name="delay_cc1" value=".03" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c6" />
+	<opcode name="volume" value="-25" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="c2" />
+	<opcode name="sw_label" value="C2 Performance" />
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="2.0" />
+	<opcode name="eq1_freq" value="339.0" />
+	<opcode name="eq1_bw" value="2" />
+	<opcode name="eq1_gain" value="6.2" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.4" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="volume" value="-30" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#3-PB-loop.ogg" />
+	<opcode name="volume" value="-31" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A3-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="-26" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="volume" value="-30.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D4-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.E4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#4-PB-loop.ogg" />
+	<opcode name="volume" value="-28.5" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#4-PB-loop.ogg" />
+	<opcode name="volume" value="-30.5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C5-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C#5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D5-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D#5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.E5-PB-loop.ogg" />
+	<opcode name="volume" value="-31.5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F5-PB-loop.ogg" />
+	<opcode name="volume" value="-32" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F#5-PB-loop.ogg" />
+	<opcode name="volume" value="-27.5" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="f#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#5-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C6-PB-loop.ogg" />
+	<opcode name="volume" value="-32" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c6" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="c2" />
+	<opcode name="sw_label" value="C2 Performance" />
+	<opcode name="xfin_lovel" value="63" />
+	<opcode name="xfin_hivel" value="127" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="2.0" />
+	<opcode name="eq1_freq" value="339.0" />
+	<opcode name="eq1_bw" value="2" />
+	<opcode name="eq1_gain" value="6.2" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.4" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="volume" value="-30" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#3-PB-loop.ogg" />
+	<opcode name="volume" value="-31" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A3-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D4-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.E4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-26" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D#5-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.E5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F5-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#5-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="volume" value="-31.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C6-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c6" />
+	<opcode name="volume" value="-27" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="e2" />
+	<opcode name="sw_label" value="E2 Staccato" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="2.0" />
+	<opcode name="eq1_freq" value="339.0" />
+	<opcode name="eq1_bw" value="2" />
+	<opcode name="eq1_gain" value="6.2" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.4" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="volume" value="-30" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#3-PB-loop.ogg" />
+	<opcode name="volume" value="-31" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A3-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="-26" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="volume" value="-30.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D4-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.E4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#4-PB-loop.ogg" />
+	<opcode name="volume" value="-28.5" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#4-PB-loop.ogg" />
+	<opcode name="volume" value="-30.5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C5-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C#5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D5-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.D#5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.E5-PB-loop.ogg" />
+	<opcode name="volume" value="-31.5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F5-PB-loop.ogg" />
+	<opcode name="volume" value="-32" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.F#5-PB-loop.ogg" />
+	<opcode name="volume" value="-27.5" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="f#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.G#5-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.A#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.B5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.ff.C6-PB-loop.ogg" />
+	<opcode name="volume" value="-32" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c6" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="e2" />
+	<opcode name="sw_label" value="E2 Staccato" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="pitchlfo_freq" value="4.531" />
+	<opcode name="pitchlfo_depth" value="10" />
+	<opcode name="pitchlfo_delay" value="1" />
+	<opcode name="pitchlfo_fade" value="2.0" />
+	<opcode name="eq1_freq" value="339.0" />
+	<opcode name="eq1_bw" value="2" />
+	<opcode name="eq1_gain" value="6.2" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.4" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="volume" value="-30" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#3-PB-loop.ogg" />
+	<opcode name="volume" value="-31" />
+	<opcode name="pitch_keycenter" value="g#3" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A3-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a3" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="volume" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B3-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="c4" />
+	<opcode name="volume" value="-27" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="c#4" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D4-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.E4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+	<opcode name="volume" value="-26" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A4-PB-loop.ogg" />
+	<opcode name="volume" value="-29" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#4-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="a#4" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B4-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="c#5" />
+	<opcode name="volume" value="-23" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D5-PB-loop.ogg" />
+	<opcode name="volume" value="-28" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.D#5-PB-loop.ogg" />
+	<opcode name="volume" value="-26" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.E5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F5-PB-loop.ogg" />
+	<opcode name="volume" value="-30" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="f5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.F#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="f#5" />
+	<opcode name="hikey" value="f#5" />
+	<opcode name="volume" value="-25" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="g5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.G#5-PB-loop.ogg" />
+	<opcode name="volume" value="-27" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="volume" value="-31.5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.A#5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="a#5" />
+	<opcode name="hikey" value="a#5" />
+	<opcode name="volume" value="-28" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.B5-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="b5" />
+	<opcode name="lokey" value="b5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Iowa/samples/Trumpet-solo/Trumpet.novib.mf.C6-PB-loop.ogg" />
+	<opcode name="pitch_keycenter" value="c6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="c6" />
+	<opcode name="volume" value="-27" />
+</region>

@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="volume" value="3" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="group_label" value="group1-RR1" />
+	<opcode name="seq_position" value="1" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_decay" value="0.06" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C3-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="tune" value="5" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E3-staccato-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="5" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr1-PB.ogg" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr1-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="b3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C4-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E4-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G4-staccato-rr1-PB.ogg" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr1-PB.ogg" />
+	<opcode name="tune" value="-15" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C#5-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="tune" value="-20" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr1-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr1-PB.ogg" />
+	<opcode name="tune" value="-20" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="a6" />
+</region>
+<group>
+	<opcode name="volume" value="3" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="group_label" value="group2-RR2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_decay" value="0.06" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C#3-staccato-rr2-PB.ogg" />
+	<opcode name="tune" value="10" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_F#3-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G3-staccato-rr2-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A#3-staccato-rr2-PB.ogg" />
+	<opcode name="tune" value="-15" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="a#3" />
+	<opcode name="hikey" value="b3" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_D#4-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pitch_keycenter" value="d#4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_F4-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="tune" value="5" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G#4-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A#4-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_C5-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="tune" value="-20" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E5-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="f#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_G#5-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="tune" value="-40" />
+	<opcode name="pitch_keycenter" value="g#5" />
+	<opcode name="lokey" value="g5" />
+	<opcode name="hikey" value="g#5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_A5-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pitch_keycenter" value="a5" />
+	<opcode name="tune" value="-20" />
+	<opcode name="lokey" value="a5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="../libs/Philharmonia/Samples/Viola/viola_E6-staccato-rr2-PB.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="tune" value="-15" />
+	<opcode name="pitch_keycenter" value="e6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="a6" />
+</region>

@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="c2" />
+	<opcode name="sw_label" value="C2 Sustain" />
+	<opcode name="ampeg_attack" value="0.4" />
+	<opcode name="volume" value="-1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_D.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="g3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_D.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="tune" value="-3" />
+	<opcode name="pan" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_D.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_D.ogg" />
+	<opcode name="pitch_keycenter" value="d6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="a#6" />
+	<opcode name="pan" value="-5" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="d2" />
+	<opcode name="sw_label" value="D2 Normal Mod Wheel" />
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="ampeg_attack" value="0.4" />
+	<opcode name="volume" value="-1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_D.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="g3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_D.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="tune" value="-3" />
+	<opcode name="pan" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_D.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="b5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_D.ogg" />
+	<opcode name="pitch_keycenter" value="d6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="a#6" />
+	<opcode name="pan" value="-5" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="d#2" />
+	<opcode name="sw_label" value="D#2 Accent" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.08" />
+	<opcode name="ampeg_decay" value="0.6" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="volume" value="-1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_D.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="-15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_D.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="volume" value="1" />
+	<opcode name="tune" value="-3" />
+	<opcode name="pan" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pan" value="15" />
+	<opcode name="volume" value="1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="volume" value="1.5" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_D.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="pan" value="35" />
+	<opcode name="volume" value="-2" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="volume" value="2" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="55" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="c#6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_D.ogg" />
+	<opcode name="pitch_keycenter" value="d6" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="volume" value="-2" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="40" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="a#6" />
+	<opcode name="volume" value="0" />
+	<opcode name="pan" value="-15" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="d#2" />
+	<opcode name="sw_label" value="D#2 Accent" />
+	<opcode name="delay" value="0.08" />
+	<opcode name="ampeg_attack" value="0.4" />
+	<opcode name="volume" value="-1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="ampeg_release" value="0.6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_D.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="delay" value="0.07" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="delay" value="0.1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_D.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="delay" value="0.14" />
+	<opcode name="tune" value="-3" />
+	<opcode name="pan" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="delay" value="0.14" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_D.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="b5" />
+	<opcode name="delay" value="0.12" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_D.ogg" />
+	<opcode name="pitch_keycenter" value="d6" />
+	<opcode name="lokey" value="c6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="delay" value="0.17" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="a#6" />
+	<opcode name="delay" value="0.2" />
+	<opcode name="pan" value="-5" />
+</region>
+<group>
+	<opcode name="sw_default" value="c2" />
+	<opcode name="sw_lokey" value="c2" />
+	<opcode name="sw_hikey" value="e2" />
+	<opcode name="sw_last" value="e2" />
+	<opcode name="sw_label" value="E2 Staccato" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.08" />
+	<opcode name="ampeg_decay" value="0.6" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="volume" value="-1" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_D.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="-15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\3_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_D.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="volume" value="1" />
+	<opcode name="tune" value="-3" />
+	<opcode name="pan" value="20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pan" value="15" />
+	<opcode name="volume" value="1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\4_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="volume" value="1.5" />
+	<opcode name="pan" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_D.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d#5" />
+	<opcode name="pan" value="35" />
+	<opcode name="volume" value="-2" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="g5" />
+	<opcode name="volume" value="2" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="55" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\5_Bb.ogg" />
+	<opcode name="pitch_keycenter" value="a#5" />
+	<opcode name="lokey" value="g#5" />
+	<opcode name="hikey" value="c#6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_D.ogg" />
+	<opcode name="pitch_keycenter" value="d6" />
+	<opcode name="lokey" value="d6" />
+	<opcode name="hikey" value="d#6" />
+	<opcode name="volume" value="-2" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="40" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\ClarinetSect\Sustain\6_Gb.ogg" />
+	<opcode name="pitch_keycenter" value="f#6" />
+	<opcode name="lokey" value="e6" />
+	<opcode name="hikey" value="a#6" />
+	<opcode name="volume" value="0" />
+	<opcode name="pan" value="-15" />
+</region>

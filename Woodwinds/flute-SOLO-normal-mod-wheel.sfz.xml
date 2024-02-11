@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="0.7" />
+	<opcode name="ampeg_dynamic" value="1" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A3_v1_1-PB-loop.ogg" />
+	<opcode name="volume" value="3.5" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="70" />
+	<opcode name="pitch_keycenter" value="69" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A4_v1_1-PB-loop.ogg" />
+	<opcode name="volume" value="1.5" />
+	<opcode name="lokey" value="79" />
+	<opcode name="hikey" value="82" />
+	<opcode name="pitch_keycenter" value="81" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_A5_v1_1-PB-loop.ogg" />
+	<opcode name="volume" value="1.5" />
+	<opcode name="lokey" value="91" />
+	<opcode name="hikey" value="94" />
+	<opcode name="pitch_keycenter" value="93" />
+	<opcode name="eq1_freq" value="164.5" />
+	<opcode name="eq1_bw" value="2.74" />
+	<opcode name="eq1_gain" value="-11.0" />
+	<opcode name="eq2_freq" value="543.9" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-10.2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C3-PB-loop.ogg" />
+	<opcode name="volume" value="6.5" />
+	<opcode name="lokey" value="60" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="60" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C4_v1_2-PB-loop.ogg" />
+	<opcode name="volume" value="3.5" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="73" />
+	<opcode name="pitch_keycenter" value="72" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C5_v1_1-PB-loop.ogg" />
+	<opcode name="volume" value="2.5" />
+	<opcode name="lokey" value="83" />
+	<opcode name="hikey" value="85" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="eq1_freq" value="93.2" />
+	<opcode name="eq1_bw" value="2.74" />
+	<opcode name="eq1_gain" value="-10.6" />
+	<opcode name="eq2_freq" value="410.9" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-11.2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_C6_v1_1-PB-loop.ogg" />
+	<opcode name="volume" value="1.5" />
+	<opcode name="lokey" value="95" />
+	<opcode name="hikey" value="98" />
+	<opcode name="pitch_keycenter" value="96" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E3-PB-loop.ogg" />
+	<opcode name="volume" value="6.5" />
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="66" />
+	<opcode name="pitch_keycenter" value="64" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E4_v1_2-PB-loop.ogg" />
+	<opcode name="volume" value="4.5" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="78" />
+	<opcode name="pitch_keycenter" value="76" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Woodwinds\Flute\susvib-PB\LDFlute_susvib_E5_v1_2-PB-loop.ogg" />
+	<opcode name="volume" value="1.5" />
+	<opcode name="lokey" value="86" />
+	<opcode name="hikey" value="90" />
+	<opcode name="pitch_keycenter" value="88" />
+	<opcode name="eq1_freq" value="93.2" />
+	<opcode name="eq1_bw" value="2.74" />
+	<opcode name="eq1_gain" value="-10.6" />
+	<opcode name="eq2_freq" value="410.9" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_gain" value="-11.2" />
+</region>

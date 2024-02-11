@@ -1,0 +1,1822 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: group1-RR1
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/3_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/3_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/3_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/3_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-22'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: group1-RR2
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/3_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/3_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/3_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/3_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/4_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Db-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Gb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/5_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_C-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '1.5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Eb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_E-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_F-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_G-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Ab-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_A-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-22'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_Bb-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-25'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/NoBudgetOrch/SoloViolin/Spiccato/6_B-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-15'
+

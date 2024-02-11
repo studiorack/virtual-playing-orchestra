@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="volume" value="-2" />
+	<opcode name="pan" value="15" />
+	<opcode name="width" value="0" />
+	<opcode name="amp_random" value="1" />
+	<opcode name="group" value="1" />
+	<opcode name="lovel" value="41" />
+	<opcode name="ampeg_sustain" value=".001" />
+	<opcode name="ampeg_release" value="10" />
+	<opcode name="ampeg_decay" value="10" />
+	<opcode name="off_by" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_C_f.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_Db_f.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_D_f.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_E_f.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_F_f.ogg" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_Gb_f.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_A_f.ogg" />
+	<opcode name="pitch_keycenter" value="a4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="a4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_Bb_f.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a#4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\4_C_f.ogg" />
+	<opcode name="pitch_keycenter" value="c5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\4_D_f.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\4_E_f.ogg" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="e5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\4_F_f.ogg" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="f5" />
+	<opcode name="hikey" value="g5" />
+</region>
+<group>
+	<opcode name="group" value="2" />
+	<opcode name="hivel" value="40" />
+	<opcode name="ampeg_sustain" value=".001" />
+	<opcode name="ampeg_release" value="10" />
+	<opcode name="ampeg_decay" value="10" />
+	<opcode name="off_by" value="3" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_C_p.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_Db_p.ogg" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="lokey" value="c#4" />
+	<opcode name="hikey" value="d#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_F_p.ogg" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_Gb_p.ogg" />
+	<opcode name="pitch_keycenter" value="f#4" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_G_p.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_Ab_p.ogg" />
+	<opcode name="pitch_keycenter" value="g#4" />
+	<opcode name="lokey" value="g#4" />
+	<opcode name="hikey" value="g#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_Bb_p.ogg" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="a#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\3_B_p.ogg" />
+	<opcode name="pitch_keycenter" value="b4" />
+	<opcode name="lokey" value="b4" />
+	<opcode name="hikey" value="b4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\4_Db_p.ogg" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="c#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\4_D_p.ogg" />
+	<opcode name="pitch_keycenter" value="d5" />
+	<opcode name="lokey" value="d5" />
+	<opcode name="hikey" value="d5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\4_Eb_p.ogg" />
+	<opcode name="pitch_keycenter" value="d#5" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="d#5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\4_F_p.ogg" />
+	<opcode name="pitch_keycenter" value="f5" />
+	<opcode name="lokey" value="e5" />
+	<opcode name="hikey" value="g5" />
+</region>
+<group>
+	<opcode name="group" value="3" />
+	<opcode name="key" value="a3" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\NoBudgetOrch\Percussion\TubularBells\silence.ogg" />
+</region>

@@ -1,0 +1,2903 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.75'
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/PB/triangle-roll-PB.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/triangle_m-PB.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: triangle-open-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '37'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '23'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: triangle-open-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: transpose
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '37'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '23'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/VSCO2-CE/gongHit_f-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/VSCO2-CE/gongHit_fff-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#2
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/tamtam-a-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/tamtam-b-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/tamtam-c-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c#3
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/finger_cymbal-hi-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#3
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/finger_cymbal-lo-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: tamb-shake-1
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Shake_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '26'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: tamb-shake-2
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Shake_v1_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '26'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: tamb-hit-1
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '33'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '19'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: tamb-hit-2
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v1_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '33'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Hit_v2_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '19'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Roll_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '26'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tamb1-Roll_v3_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '19'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: cowbell-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '18'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v4_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: cowbell-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v2_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '18'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Cowbell1_Hit_v4_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '4'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/vibraslap-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#3
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: quinto-hit-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v3_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: quinto-hit-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v2_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-HitN_v3_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: quinto-tap-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-Tap1_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '35'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: quinto-tap-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Quinto-Tap1_v1_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '35'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: conga-hit-rr1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v3_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '12'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: conga-hit-rr2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v2_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Conga-HitN_v3_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '12'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: conga-tap-rr1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Conga-Tap1_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '31'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: conga-tap-rr2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Conga-Tap1_v1_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '27'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: tumba-hit-rr1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v3_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '16'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: tumba-hit-rr2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v2_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfout_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-HitN_v3_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hivel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '16'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: tumba-tap-rr1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-Tap1_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '45'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: tumba-tap-rr2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Tumba-Tap1_v1_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '38'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/CabasaDown-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/CabasaUp-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/CabasaDown2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/CabasaUp2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/shake_1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/shake_2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#4
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Crank_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Crank_v1_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Fast_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Ratchet1-Slow_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.3'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '21'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: castanets-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/castanets_mf1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/castanets_f2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: castanets-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d5
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/castanets_mf2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/castanets_f3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: claves-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '18'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v3_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '11'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: claves-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v2_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '18'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Claves1_Hit_v3_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '13'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/wood_block-lo-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/wood_block-hi-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '2'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.75'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/PB/triangle-roll-PB.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '80'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g#5
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/NBO/triangle_m-PB.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: triangle-open-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '80'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '37'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '23'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: triangle-open-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '80'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v1_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '37'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Triangle3-Hit_v2_rr2_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '23'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: sleigh-bells-rr1
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Sleighbells_Hit_v1_rr1_Mid-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '23'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: group_label
+          value: sleigh-bells-rr2
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/Sleighbells_Hit_v1_rr2_Mid-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: a#5
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '23'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke1_v1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke2_v1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: c#6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '35'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke3_v1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '27'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../libs/Other/Samples/Percussion/VSCO2-CE/BellTree_Stroke4_v1_Sum-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: d#6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '38'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/bell_tree-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/bar_chimes-a-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/bar_chimes-b-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: f#6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../libs/Other/Samples/Percussion/SSO/bar_chimes-c-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: g6
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+

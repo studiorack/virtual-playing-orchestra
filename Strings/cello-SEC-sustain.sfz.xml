@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_release" value="2.1" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.6" />
+</group>
+<region>
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="d2" />
+	<opcode name="pitch_keycenter" value="c#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#2" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_E-PB-loop.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_G-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\2_Bb-PB-loop.ogg" />
+	<opcode name="volume" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\3_Db-PB-loop.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\3_Bb-PB-loop.ogg" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_Db-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_E-PB-loop.ogg" />
+	<opcode name="volume" value="-1.5" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_G.ogg" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="c5" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\4_Bb.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="5" />
+	<opcode name="volume" value="-1" />
+</region>
+<region>
+	<opcode name="lokey" value="c#5" />
+	<opcode name="hikey" value="a5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\NoBudgetOrch\CelloSect\Sustain\5_E.ogg" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-1" />
+	<opcode name="tune" value="-5" />
+	<opcode name="eq1_freq" value="61.6" />
+	<opcode name="eq1_bw" value="4" />
+	<opcode name="eq1_gain" value="-12.5" />
+	<opcode name="eq2_freq" value="301.6" />
+	<opcode name="eq2_bw" value="1.12" />
+	<opcode name="eq2_gain" value="-11.2" />
+</region>

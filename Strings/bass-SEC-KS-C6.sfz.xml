@@ -1,0 +1,1323 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="c6" />
+	<opcode name="sw_label" value="C6 Sustain" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.300" />
+	<opcode name="ampeg_vel2attack" value="-0.300" />
+	<opcode name="ampeg_release" value="2.25" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c1-PB-loop.ogg" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="d#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+	<opcode name="tune" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#1-PB-loop.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-1" />
+	<opcode name="lokey" value="e1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a1-PB-loop.ogg" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="0.5" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+	<opcode name="volume" value="-0.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-d#2-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="e2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#2-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a2-PB-loop.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c3-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-d#3-PB-loop.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#3-PB-loop.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a3-PB-loop.ogg" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="tune" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c4-PB-loop.ogg" />
+	<opcode name="volume" value="0.5" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="c#6" />
+	<opcode name="sw_label" value="C#6 Tremolo" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_release" value="1.0" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="volume" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\C1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c1" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="c#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\D1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d1" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="d#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\E1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e1" />
+	<opcode name="lokey" value="e1" />
+	<opcode name="hikey" value="e1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\F1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f1" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\G1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g1" />
+	<opcode name="lokey" value="g1" />
+	<opcode name="hikey" value="g#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\A1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a1" />
+	<opcode name="lokey" value="a1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\B1-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b1" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="b1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\C2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c2" />
+	<opcode name="lokey" value="c2" />
+	<opcode name="hikey" value="c#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\D2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d2" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="d#2" />
+	<opcode name="volume" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\E2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="lokey" value="e2" />
+	<opcode name="hikey" value="e2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\F2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f2" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\G2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="lokey" value="g2" />
+	<opcode name="hikey" value="g#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\A2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a2" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="a#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\B2-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b2" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="b2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\C3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c3" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="c#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\D3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d3" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="d#3" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\E3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="lokey" value="e3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\F3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f3" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="f#3" />
+	<opcode name="tune" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\G3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="lokey" value="g3" />
+	<opcode name="hikey" value="g#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\A3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="a#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\B3-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="b3" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="volume" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\C4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="c4" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="c#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\D4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="d4" />
+	<opcode name="lokey" value="d4" />
+	<opcode name="hikey" value="d#4" />
+	<opcode name="volume" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\E4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="lokey" value="e4" />
+	<opcode name="hikey" value="e4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\F4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="f4" />
+	<opcode name="lokey" value="f4" />
+	<opcode name="hikey" value="f#4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Other\Samples\Bass-Section\G4-tremolo-PB.ogg" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="lokey" value="g4" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="volume" value="5" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal Mod Wheel" />
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_vel2attack" value="-0.300" />
+	<opcode name="ampeg_release" value="2.25" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c1-PB-loop.ogg" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="d#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+	<opcode name="tune" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#1-PB-loop.ogg" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-1" />
+	<opcode name="lokey" value="e1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a1-PB-loop.ogg" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="0.5" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+	<opcode name="volume" value="-0.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-d#2-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="e2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#2-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a2-PB-loop.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c3-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-d#3-PB-loop.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#3-PB-loop.ogg" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a3-PB-loop.ogg" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="tune" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c4-PB-loop.ogg" />
+	<opcode name="volume" value="0.5" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal Mod Wheel" />
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="gain_cc1" value="-15" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1.5" />
+	<opcode name="ampeg_vel2decay" value="10" />
+	<opcode name="fil_veltrack" value="11000" />
+	<opcode name="fil_type" value="lpf_2p" />
+	<opcode name="cutoff" value="1000" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c1.ogg" />
+	<opcode name="volume" value="-1" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="c#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#1.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="e1" />
+	<opcode name="pitch_keycenter" value="d#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#1.ogg" />
+	<opcode name="volume" value="-2" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a1.ogg" />
+	<opcode name="volume" value="-1" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c2.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#2.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#2.ogg" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a2.ogg" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c3.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#3.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#3.ogg" />
+	<opcode name="volume" value="-2" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a3.ogg" />
+	<opcode name="volume" value="-2" />
+	<opcode name="pan" value="3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c4.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal Mod Wheel" />
+	<opcode name="ampeg_attackcc1" value="0.5" />
+	<opcode name="gain_cc1" value="-15" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="ampeg_attack" value="0.10" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1.5" />
+	<opcode name="ampeg_vel2decay" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c1.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="c#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#1.ogg" />
+	<opcode name="volume" value="-4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="e1" />
+	<opcode name="pitch_keycenter" value="d#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#1.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a1.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c2.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#2.ogg" />
+	<opcode name="volume" value="-4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#2.ogg" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a2.ogg" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c3.ogg" />
+	<opcode name="volume" value="-4" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#3.ogg" />
+	<opcode name="volume" value="-4" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#3.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a3.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c4.ogg" />
+	<opcode name="volume" value="-3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1.5" />
+	<opcode name="ampeg_vel2decay" value="10" />
+	<opcode name="fil_veltrack" value="11000" />
+	<opcode name="fil_type" value="lpf_2p" />
+	<opcode name="cutoff" value="1000" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c1.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="c#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#1.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="e1" />
+	<opcode name="pitch_keycenter" value="d#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#1.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a1.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c2.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#2.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#2.ogg" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a2.ogg" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c3.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#3.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#3.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a3.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c4.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="ampeg_attack" value="0.10" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1.5" />
+	<opcode name="ampeg_vel2decay" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c1.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="c#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#1.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="e1" />
+	<opcode name="pitch_keycenter" value="d#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#1.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a1.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c2.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#2.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#2.ogg" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a2.ogg" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c3.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#3.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#3.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a3.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c4.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="delay" value="0.17" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="ampeg_attack" value="0.300" />
+	<opcode name="ampeg_vel2attack" value="-0.300" />
+	<opcode name="ampeg_release" value="2.25" />
+	<opcode name="ampeg_vel2release" value="-1.0" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c1-PB-loop.ogg" />
+	<opcode name="delay" value="0.22" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="d#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+	<opcode name="tune" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#1-PB-loop.ogg" />
+	<opcode name="delay" value="0.22" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-1" />
+	<opcode name="lokey" value="e1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a1-PB-loop.ogg" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="0.5" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c2-PB-loop.ogg" />
+	<opcode name="delay" value="0.1" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+	<opcode name="volume" value="-0.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-d#2-PB-loop.ogg" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="e2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#2-PB-loop.ogg" />
+	<opcode name="delay" value="0.1" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a2-PB-loop.ogg" />
+	<opcode name="delay" value="0.2" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c3-PB-loop.ogg" />
+	<opcode name="delay" value="0.15" />
+	<opcode name="volume" value="-0.5" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-d#3-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-f#3-PB-loop.ogg" />
+	<opcode name="delay" value="0.07" />
+	<opcode name="volume" value="1" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-a3-PB-loop.ogg" />
+	<opcode name="delay" value="0.07" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+	<opcode name="tune" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-sus-c4-PB-loop.ogg" />
+	<opcode name="delay" value="0.05" />
+	<opcode name="volume" value="0.5" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="e6" />
+	<opcode name="sw_label" value="E6 Staccato" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1.5" />
+	<opcode name="ampeg_vel2decay" value="10" />
+	<opcode name="fil_veltrack" value="11000" />
+	<opcode name="fil_type" value="lpf_2p" />
+	<opcode name="cutoff" value="1000" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c1.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="c#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#1.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="e1" />
+	<opcode name="pitch_keycenter" value="d#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#1.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a1.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c2.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#2.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#2.ogg" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a2.ogg" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c3.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-d#3.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-f#3.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="5" />
+	<opcode name="tune" value="-10" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-a3.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="3" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr1-c4.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="e6" />
+	<opcode name="sw_label" value="E6 Staccato" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="ampeg_attack" value="0.10" />
+	<opcode name="ampeg_release" value="2.0" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="1.5" />
+	<opcode name="ampeg_vel2decay" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c1.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="c#1" />
+	<opcode name="pitch_keycenter" value="c1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#1.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d1" />
+	<opcode name="hikey" value="e1" />
+	<opcode name="pitch_keycenter" value="d#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#1.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a1.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c2.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#2.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#2.ogg" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a2.ogg" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c3.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-d#3.ogg" />
+	<opcode name="volume" value="2" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-f#3.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="-5" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-a3.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-stc-rr2-c4.ogg" />
+	<opcode name="volume" value="3" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="f6" />
+	<opcode name="sw_last" value="f6" />
+	<opcode name="sw_label" value="F6 Pizzicato" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_decay" value="2.5" />
+	<opcode name="ampeg_vel2decay" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-c1-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="tune" value="-5" />
+	<opcode name="lokey" value="c1" />
+	<opcode name="hikey" value="e1" />
+	<opcode name="pitch_keycenter" value="c1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr2-f#1-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="lokey" value="f1" />
+	<opcode name="hikey" value="g1" />
+	<opcode name="pitch_keycenter" value="f#1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-a1-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="g#1" />
+	<opcode name="hikey" value="a#1" />
+	<opcode name="pitch_keycenter" value="a1" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr2-c2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="c#2" />
+	<opcode name="pitch_keycenter" value="c2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-d#2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="5" />
+	<opcode name="lokey" value="d2" />
+	<opcode name="hikey" value="e2" />
+	<opcode name="pitch_keycenter" value="d#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr2-f#2-PB.ogg" />
+	<opcode name="volume" value="5" />
+	<opcode name="pan" value="0" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="lokey" value="f2" />
+	<opcode name="hikey" value="g2" />
+	<opcode name="pitch_keycenter" value="f#2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-a2-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="-5" />
+	<opcode name="lokey" value="g#2" />
+	<opcode name="hikey" value="a#2" />
+	<opcode name="pitch_keycenter" value="a2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-c3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b2" />
+	<opcode name="hikey" value="c#3" />
+	<opcode name="pitch_keycenter" value="c3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-d#3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="d3" />
+	<opcode name="hikey" value="e3" />
+	<opcode name="pitch_keycenter" value="d#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-f#3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="f3" />
+	<opcode name="hikey" value="g3" />
+	<opcode name="pitch_keycenter" value="f#3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr2-a3-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="-5" />
+	<opcode name="transpose" value="-1" />
+	<opcode name="lokey" value="g#3" />
+	<opcode name="hikey" value="a#3" />
+	<opcode name="pitch_keycenter" value="a3" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\SSO\Samples\Basses\basses-piz-rr1-c4-PB.ogg" />
+	<opcode name="volume" value="4" />
+	<opcode name="pan" value="0" />
+	<opcode name="lokey" value="b3" />
+	<opcode name="hikey" value="g4" />
+	<opcode name="pitch_keycenter" value="c4" />
+</region>

@@ -1,0 +1,394 @@
+elements:
+  - type: element
+    name: control
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: set_cc1
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: set_cc10
+          value: '64'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-29'
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc1
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_random
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_random
+          value: '1.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: delay_random
+          value: '0.012'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.03'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_veltrack
+          value: '11000'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_type
+          value: lpf_2p
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '120'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr1-e1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e1
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr1-g1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr1-a#1-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#1
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr1-c#2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-30'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr2-e2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-90'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr1-g2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr2-a#2-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#2
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr1-c#3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr1-e3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '15'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr2-g3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr2-a#3-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a#3
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\libs\SSO\Samples\Tuba\tuba-stc-rr2-c#4-PB.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c#4
+

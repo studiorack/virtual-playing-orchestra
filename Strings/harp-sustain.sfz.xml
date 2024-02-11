@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="ampeg_attack" value="0.003" />
+	<opcode name="ampeg_release" value="6" />
+	<opcode name="ampeg_dynamic" value="1" />
+	<opcode name="volume" value="-8" />
+	<opcode name="width" value="0" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_A4_mf.ogg" />
+	<opcode name="tune" value="10" />
+	<opcode name="offset" value="855" />
+	<opcode name="lokey" value="67" />
+	<opcode name="hikey" value="70" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_A6_mf.ogg" />
+	<opcode name="offset" value="1304" />
+	<opcode name="lokey" value="91" />
+	<opcode name="hikey" value="95" />
+	<opcode name="pitch_keycenter" value="93" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_B3_mf.ogg" />
+	<opcode name="tune" value="10" />
+	<opcode name="offset" value="1243" />
+	<opcode name="lokey" value="57" />
+	<opcode name="hikey" value="60" />
+	<opcode name="pitch_keycenter" value="59" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_B5_mf.ogg" />
+	<opcode name="tune" value="5" />
+	<opcode name="offset" value="884" />
+	<opcode name="lokey" value="81" />
+	<opcode name="hikey" value="84" />
+	<opcode name="pitch_keycenter" value="83" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_C3_mf.ogg" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_C5_mf.ogg" />
+	<opcode name="tune" value="10" />
+	<opcode name="offset" value="1046" />
+	<opcode name="lokey" value="71" />
+	<opcode name="hikey" value="73" />
+	<opcode name="pitch_keycenter" value="72" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_D2_mf.ogg" />
+	<opcode name="offset" value="1736" />
+	<opcode name="eq1_freq" value="8783.6" />
+	<opcode name="eq1_bw" value="1.25" />
+	<opcode name="eq1_gain" value="-20.6" />
+	<opcode name="lokey" value="23" />
+	<opcode name="hikey" value="39" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_D4_mf.ogg" />
+	<opcode name="tune" value="10" />
+	<opcode name="offset" value="984" />
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="63" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_D6_mf.ogg" />
+	<opcode name="tune" value="5" />
+	<opcode name="offset" value="839" />
+	<opcode name="lokey" value="85" />
+	<opcode name="hikey" value="87" />
+	<opcode name="pitch_keycenter" value="86" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_E3_mf.ogg" />
+	<opcode name="offset" value="1906" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="53" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_E5_mf.ogg" />
+	<opcode name="tune" value="10" />
+	<opcode name="offset" value="1014" />
+	<opcode name="lokey" value="74" />
+	<opcode name="hikey" value="77" />
+	<opcode name="pitch_keycenter" value="76" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_F2_mf.ogg" />
+	<opcode name="tune" value="5" />
+	<opcode name="offset" value="1213" />
+	<opcode name="eq1_freq" value="8848.2" />
+	<opcode name="eq1_bw" value="2.08" />
+	<opcode name="eq1_gain" value="-12.2" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="45" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_F4_mf.ogg" />
+	<opcode name="offset" value="430" />
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="66" />
+	<opcode name="pitch_keycenter" value="65" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_F6_mf.ogg" />
+	<opcode name="offset" value="1192" />
+	<opcode name="lokey" value="88" />
+	<opcode name="hikey" value="90" />
+	<opcode name="pitch_keycenter" value="89" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_G3_mf.ogg" />
+	<opcode name="tune" value="5" />
+	<opcode name="offset" value="2735" />
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="56" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_G5_mf.ogg" />
+	<opcode name="tune" value="5" />
+	<opcode name="offset" value="822" />
+	<opcode name="lokey" value="78" />
+	<opcode name="hikey" value="80" />
+	<opcode name="pitch_keycenter" value="79" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_D7_f.ogg" />
+	<opcode name="tune" value="5" />
+	<opcode name="offset" value="2377" />
+	<opcode name="lokey" value="96" />
+	<opcode name="hikey" value="99" />
+	<opcode name="pitch_keycenter" value="98" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\VSCO2-CE\Strings\Harp\KSHarp_F7_f.ogg" />
+	<opcode name="tune" value="25" />
+	<opcode name="offset" value="1468" />
+	<opcode name="lokey" value="100" />
+	<opcode name="hikey" value="104" />
+	<opcode name="pitch_keycenter" value="101" />
+	<opcode name="lovel" value="0" />
+	<opcode name="hivel" value="127" />
+	<opcode name="volume" value="2" />
+</region>

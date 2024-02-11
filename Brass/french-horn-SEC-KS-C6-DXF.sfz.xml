@@ -1,0 +1,1666 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="c6" />
+	<opcode name="sw_label" value="C6 Sustain" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.4" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60<region" />
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-19" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-19.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="10" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-20.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.ogg" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-23" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="c6" />
+	<opcode name="sw_label" value="C6 Sustain" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.4" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-18.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-19.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.ogg" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="50" />
+	<opcode name="volume" value="-18" />
+</region>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal" />
+	<opcode name="volume" value="-24" />
+	<opcode name="ampeg_attackcc73" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-19.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="10" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-20.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.ogg" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-23" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal" />
+	<opcode name="volume" value="-24" />
+	<opcode name="ampeg_attackcc73" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-18.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-19.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.ogg" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="50" />
+	<opcode name="volume" value="-18" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal" />
+	<opcode name="volume" value="-24" />
+	<opcode name="ampeg_attackcc73" value="0.5" />
+	<opcode name="gain_cc73" value="-15" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.5" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="55" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="25" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-30.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-33.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+	<opcode name="volume" value="-34" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-37" />
+</region>
+<region>
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.ogg" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-35" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="d6" />
+	<opcode name="sw_label" value="D6 Normal" />
+	<opcode name="volume" value="-24" />
+	<opcode name="ampeg_attackcc73" value="0.5" />
+	<opcode name="gain_cc73" value="-15" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.5" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-35" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-27.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-24" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="-15" />
+	<opcode name="volume" value="-28.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-25" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-29" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-31" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-10" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-33" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-32" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.ogg" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-30" />
+</region>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="volume" value="-24" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.5" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="55" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="25" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-15.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-18.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-18.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.ogg" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-20" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="volume" value="-24" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.5" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-12.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="-15" />
+	<opcode name="volume" value="-13.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-25" />
+	<opcode name="volume" value="-14" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-14" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-10" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.ogg" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-15" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="volume" value="-24" />
+	<opcode name="delay" value="0.07" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="ampeg_attack" value="0.4" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-19.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.ogg" />
+	<opcode name="delay" value="0.15" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="10" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-20.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.ogg" />
+	<opcode name="delay" value="0.15" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-23" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="d#6" />
+	<opcode name="sw_label" value="D#6 Accent" />
+	<opcode name="volume" value="-24" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="ampeg_attack" value="0.4" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-18.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.ogg" />
+	<opcode name="delay" value="0.15" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-19.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.ogg" />
+	<opcode name="delay" value="0.12" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-21" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.ogg" />
+	<opcode name="delay" value="0.15" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="50" />
+	<opcode name="volume" value="-18" />
+</region>
+<control>
+	<opcode name="set_cc1" value="64" />
+	<opcode name="set_cc10" value="64" />
+</control>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="e6" />
+	<opcode name="sw_label" value="E6 Staccato" />
+	<opcode name="volume" value="-24" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.5" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="xfin_locc1" value="64" />
+	<opcode name="xfin_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="55" />
+	<opcode name="pan" value="-5" />
+	<opcode name="volume" value="-17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="25" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-15.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-18.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-18.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="15" />
+	<opcode name="volume" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-22" />
+</region>
+<region>
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e5-PB-loop.ogg" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="20" />
+	<opcode name="volume" value="-20" />
+</region>
+<group>
+	<opcode name="sw_default" value="c6" />
+	<opcode name="sw_lokey" value="c6" />
+	<opcode name="sw_hikey" value="e6" />
+	<opcode name="sw_last" value="e6" />
+	<opcode name="sw_label" value="E6 Staccato" />
+	<opcode name="volume" value="-24" />
+	<opcode name="ampeg_attack" value="0.03" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_hold" value="0.15" />
+	<opcode name="ampeg_decay" value="0.5" />
+	<opcode name="ampeg_release" value="0.5" />
+	<opcode name="pitch_random" value="12" />
+	<opcode name="amp_random" value="1.5" />
+	<opcode name="delay_random" value="0.012" />
+	<opcode name="xfout_locc1" value="64" />
+	<opcode name="xfout_hicc1" value="127" />
+	<opcode name="xf_cccurve" value="gain" />
+	<opcode name="gain_cc1" value="24" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e2-PB-loop.ogg" />
+	<opcode name="lokey" value="b1" />
+	<opcode name="hikey" value="f2" />
+	<opcode name="pitch_keycenter" value="e2" />
+	<opcode name="tune" value="5" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-15" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g2-PB-loop.ogg" />
+	<opcode name="lokey" value="f#2" />
+	<opcode name="hikey" value="g#2" />
+	<opcode name="pitch_keycenter" value="g2" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-20" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#2-PB-loop.ogg" />
+	<opcode name="lokey" value="a2" />
+	<opcode name="hikey" value="b2" />
+	<opcode name="pitch_keycenter" value="a#2" />
+	<opcode name="tune" value="15" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-12.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#3-PB-loop.ogg" />
+	<opcode name="lokey" value="c3" />
+	<opcode name="hikey" value="d3" />
+	<opcode name="pitch_keycenter" value="c#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-9" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e3-PB-loop.ogg" />
+	<opcode name="lokey" value="d#3" />
+	<opcode name="hikey" value="f3" />
+	<opcode name="pitch_keycenter" value="e3" />
+	<opcode name="tune" value="-5" />
+	<opcode name="pan" value="-15" />
+	<opcode name="volume" value="-13.5" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g3-PB-loop.ogg" />
+	<opcode name="lokey" value="f#3" />
+	<opcode name="hikey" value="g#3" />
+	<opcode name="pitch_keycenter" value="g3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-25" />
+	<opcode name="volume" value="-14" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#3-PB-loop.ogg" />
+	<opcode name="lokey" value="a3" />
+	<opcode name="hikey" value="b3" />
+	<opcode name="pitch_keycenter" value="a#3" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#4-PB-loop.ogg" />
+	<opcode name="lokey" value="c4" />
+	<opcode name="hikey" value="d4" />
+	<opcode name="pitch_keycenter" value="c#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-14" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e4-PB-loop.ogg" />
+	<opcode name="lokey" value="d#4" />
+	<opcode name="hikey" value="f4" />
+	<opcode name="pitch_keycenter" value="e4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="10" />
+	<opcode name="volume" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-g4-PB-loop.ogg" />
+	<opcode name="lokey" value="f#4" />
+	<opcode name="hikey" value="g#4" />
+	<opcode name="pitch_keycenter" value="g4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="-10" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-a#4-PB-loop.ogg" />
+	<opcode name="lokey" value="a4" />
+	<opcode name="hikey" value="b4" />
+	<opcode name="pitch_keycenter" value="a#4" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="5" />
+	<opcode name="volume" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-c#5-PB-loop.ogg" />
+	<opcode name="lokey" value="c5" />
+	<opcode name="hikey" value="d5" />
+	<opcode name="pitch_keycenter" value="c#5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-17" />
+</region>
+<region>
+	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-mp-e5-PB-loop.ogg" />
+	<opcode name="lokey" value="d#5" />
+	<opcode name="hikey" value="f5" />
+	<opcode name="pitch_keycenter" value="e5" />
+	<opcode name="tune" value="0" />
+	<opcode name="pan" value="0" />
+	<opcode name="volume" value="-15" />
+</region>
