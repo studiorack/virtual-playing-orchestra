@@ -18,7 +18,9 @@
 	<opcode name="xfin_hicc1" value="127" />
 	<opcode name="xf_cccurve" value="gain" />
 	<opcode name="gain_cc1" value="24" />
-	<opcode name="amp_veltrack" value="60<region" />
+	<opcode name="amp_veltrack" value="60" />
+</group>
+<region>
 	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.ogg" />
 	<opcode name="lokey" value="b1" />
 	<opcode name="hikey" value="f2" />
@@ -26,7 +28,7 @@
 	<opcode name="tune" value="15" />
 	<opcode name="pan" value="-5" />
 	<opcode name="volume" value="-19" />
-</group>
+</region>
 <region>
 	<opcode name="sample" value="..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-g2-PB-loop.ogg" />
 	<opcode name="lokey" value="f#2" />

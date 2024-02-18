@@ -119,9 +119,15 @@
           "name": "opcode",
           "attributes": {
             "name": "amp_veltrack",
-            "value": "60<region"
+            "value": "60"
           }
-        },
+        }
+      ]
+    },
+    {
+      "type": "element",
+      "name": "region",
+      "elements": [
         {
           "type": "element",
           "name": "opcode",

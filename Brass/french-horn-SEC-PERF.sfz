@@ -59,7 +59,8 @@ xf_cccurve=gain
 // cc1 controls gain after lowering volume of all samples by 24db (PB)
 gain_cc1=24
 // reduce velocity tracking, use cc1 for volume (PB)
-amp_veltrack=60<region>
+amp_veltrack=60
+<region>
 sample=..\libs\Mattias-Westlund\Horns\Samples\horns-sus-ff-e2-PB-loop.flac
 lokey=b1
 hikey=f2
